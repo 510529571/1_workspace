@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<taglib version="2.0" xmlns="http://java.sun.com/xml/ns/j2ee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:shcemalocation="http://java.sun.com/xml/ns/j2ee   
+ http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+
+	<description>自定义标签</description>
+	<display-name>test tag</display-name>
+	<tlib-version>1.1</tlib-version>
+	<short-name>h</short-name>
+	<!--OutputTag-->
+	<tag>
+		<name>out</name>
+		<tag-class>test.OutputTag</tag-class>
+		<body-content>empty</body-content>
+		<attribute>
+			<name>name</name>
+			<required>false</required>
+			<rtexprvalue>false</rtexprvalue>
+		</attribute>
+	</tag>
+	<!-- 创建自定义 迭代标签 -->
+	<tag>
+		<name>forEach</name>
+		<tag-class>test.ForEach</tag-class>
+		<!-- 如果没有标签体，设置empty , 如果有标签休必须设置JSP-->
+		<body-content>JSP</body-content>
+		<attribute>
+			<name>id</name>
+			<required>true</required><!-- 标识属性是否是必须的 -->
+			<rtexprvalue>true</rtexprvalue><!-- 标识属性值是否可以用表达式语言 -->
+		</attribute>
+		<attribute>
+			<name>collection</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+	</tag>
+
+	<!-- 创建自定义获得属性标签 -->
+	<tag>
+		<name>getProperty</name>
+		<tag-class>test.GetProperty</tag-class>
+		<body-content>empty</body-content>
+		<attribute>
+			<name>name</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<name>property</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+	</tag>
+
+	<tag>
+		<name>random</name>
+		<tag-class>test.RandomTag</tag-class>
+		<body-content>empty</body-content>
+		<attribute>
+			<name>min</name>
+			<required>true</required>
+			<rtexprvalue>false</rtexprvalue>
+		</attribute>
+		<attribute>
+			<name>max</name>
+			<required>true</required>
+			<rtexprvalue>false</rtexprvalue>
+		</attribute>
+	</tag>
+	<tag>
+		<name>invokeorder</name>
+		<tag-class>test.InvokeOrderTag</tag-class>
+		<body-content>empty</body-content>
+		<attribute>
+			<name>attr1</name>
+			<required>false</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<name>attr2</name>
+			<required>false</required>
+			<required>true</required>
+		</attribute>
+	</tag>
+	<tag>
+		<name>displaybody</name>
+		<tag-class>test.DisplayBodyTag</tag-class>
+		<body-content>jsp</body-content>
+	</tag>
+	<tag>
+		<name>doend</name>
+		<tag-class>test.DoEndTag</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+	<tag>
+		<name>math</name>
+		<tag-class>test.MathTag</tag-class>
+		<body-content>empty</body-content>
+		<attribute>
+			<name>method</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<name>value</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<name>angle</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<name>pattern</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+	</tag>
+	<tag>
+		<name>if</name>
+		<tag-class>test.IfTag</tag-class>
+		<body-content>jsp</body-content>
+		<attribute>
+			<name>test</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+	</tag>
+	<!-- 配置一个表达式调用 的函数 -->
+	<function>
+		<name>add</name><!-- 配置一个标签，在JSP页面通过引用前缀调用 -->
+		<function-class>test.ELFunction</function-class><!-- 实现类 -->
+		<function-signature>int add(int,int)</function-signature><!-- 静态的方法：包括返回类型，方法名，入参的类型 -->
+	</function>
+</taglib>

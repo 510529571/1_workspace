@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+   id="org.visigoths.freemarker.help"
+   name="Help Plug-in"
+   version="1.1.0"
+   provider-name="Contributions">
+
+   <requires>
+      <import plugin="org.eclipse.help"/>
+   </requires>
+
+   <extension point="org.eclipse.help.toc">
+      <toc file="freemarker-toc.xml" primary="true" />
+      <toc file="docs/docs/eclipse-manual-toc.xml" />
+      <toc file="docs/eclipse-site-toc.xml" />
+   </extension>
+</plugin>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="own.hhw.resultMap.mapper.ResultMap">
+    <!--*****************下面是discriminator的应用*******************-->
+    <resultMap id="ptable" type="own.hhw.resultMap.po.Ptable">
+        <id property="id" column="pid"/>
+        <discriminator javaType="int" column="ptype">
+            <case value="1" resultMap="ctable1"/>
+            <case value="2" resultMap="ctable2"/>
+        </discriminator>
+    </resultMap>
+
+    <resultMap id="ctable1" type="own.hhw.resultMap.po.Ctable1">
+          <id property="cid1" column="cid1"/>
+    </resultMap>
+
+    <resultMap id="ctable2" type="own.hhw.resultMap.po.Ctable2">
+        <id property="cid2" column="cid2"/>
+    </resultMap>
+
+    <select id="select" resultMap="ptable">
+       select
+           p1.id as pid,
+           p1.type as ptype,
+           c1.id as cid1,
+           c2.id as cid2
+       from ptable p1
+       left join ctable1 c1 on p1.id=c1.pid
+       left join ctable2 c2 on p1.id=c2.pid
+    </select>
+
+
+    <!--*****************下面是association的应用*******************-->
+    <resultMap id="moretable" type="own.hhw.resultMap.po2.MoreTable">
+        <id property="id" column="m_id"/>
+        <result property="name" column="m_name"/>
+        <association property="oneTable" column="m_classid" javaType="own.hhw.resultMap.po2.OneTable" resultMap="oneTable"/>
+    </resultMap>
+
+    <resultMap id="oneTable" type="own.hhw.resultMap.po2.OneTable">
+        <id property="id" column="o_id"/>
+        <result property="className" column="o_className"/>
+    </resultMap>
+
+    <select id="selectMoreOne" resultMap="moretable">
+       select
+           o.id as o_id,
+           o.classname as o_className,
+           m.id as m_id,
+           m.name as m_name,
+           m.classid as m_classid
+       from moretable m
+       left join onetable o on m.classid=o.id
+    </select>
+    <!--*****************下面是collection的应用*******************-->
+</mapper>

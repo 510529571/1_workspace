@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="GBK"?>
+<CMS>
+	<eb>
+		<pub>
+			<TransCode>SZFH_ATTEST</TransCode>
+			<CIS>400090002873120</CIS>
+			<BankCode>102</BankCode>
+			<ID>gfjjsz.y.4000</ID>
+			<TranDate>20141218</TranDate>
+			<TranTime>163354</TranTime>
+			<fSeqno>201412181633541</fSeqno>
+		</pub>
+		<in>
+			<CorpAccNo>4000021419201337003</CorpAccNo>
+			<AccNo>33333333333333</AccNo>
+			<VfFlag>1111</VfFlag>
+			<AccName>工行4</AccName>
+			<IdType>0</IdType>
+			<IdCode>430601194602035153</IdCode>
+			<MobilePhone>13678911655</MobilePhone>
+			<ReqReserved1/>
+			<ReqReserved2/>
+			<ReqReserved3/>
+			<ReqReserved4/>
+		</in>
+	</eb>
+</CMS>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration  status="fatal">
+    <appenders>
+        <Console name="sample3" target="SYSTEM_OUT">
+            <PatternLayout pattern="%-5level  - %msg%n"/>
+        </Console>
+        <File name="file" fileName="logs/trace_app.log" >
+            <PatternLayout>
+                <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n</pattern>
+            </PatternLayout>
+        </File>
+        <RollingFile name="testLog" fileName="logs/test.log" filePattern="" append="false">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+            <SizeBasedTriggeringPolicy size="5mb"/>
+        </RollingFile>
+    </appenders>
+    <loggers>
+        <!--question: 按理说设置了com.sample1包的输出信息，当运行此包下的程序时，不应该在Console里面打印信息
+            answer:   通过设置logger的属性，就可以解决什么的问题了，这个我是在log4j的手册里面找到的哦^^ additivity="false"
+        -->
+        <logger name="com.sample3" level="debug">
+            <appender-ref ref="file"/>
+            <appender-ref ref="testLog"/>
+        </logger>
+        <root level="all">
+        </root>
+    </loggers>
+</configuration>
+
+        <!--
+        1.log4j2.xml必须要取这个名字，而且必须要放在这个目录下吗？
+        2.如果我想要为一个logger配置不同的输出级别，并且将不同输出级别的信息输出到不同的文件里面，改怎么设置呢？如果能这样设置，那样在开放和系统维护的时候会
+          更加方便哦^^
+        -->

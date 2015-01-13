@@ -1,0 +1,20 @@
+Struts2的struts.xml配置文件必须放到classpath下吗？
+很多地方都有人提到这个问题，也有一些解决办法，总体看来都不是很理想。
+
+初看之下这个问题不怎么方便解决，通过分析原码不难发现struts2是以磁盘文件系统上下文的方式加载配置文件，与struts1以Web上下文方式加载配置文件有显著的区别。
+Struts2 StrutsXmlConfigationProvider：
+File file = new File(filename);
+Struts1 ActionServlet：
+URL url = getServletContext().getResource(path);
+
+了解到这一点以后，问题就好解决了，如果现在我想将struts.xml放在WEB-INF目录下，那么针对classes目录上下文在web.xml作如下配置就可以了：
+<filter>
+<filter-name>struts2</filter-name>
+<filter-class>org.apache.struts2.dispatcher.FilterDispatcher</filter-class>
+<init-param>
+<param-name>config</param-name>
+<param-value>../struts.xml</param-value>
+</init-param>
+</filter>
+
+同理，如果要放入WEB-INF/config目录则只需要将<param-value>改为../config/struts.xml。

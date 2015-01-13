@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<appenders>
+		<Console name="Console1" target="SYSTEM_OUT">
+			<PatternLayout>
+			<!-- 问题 -->
+			<!-- 本来以为highlight可以高亮显示信息的，谁知道控制台打印出了乱码啊，怎么回事呢，文档里面是这样介绍的�?-->
+			<!-- 使用%C{36}(%M:%L)可以打印类的名称，logging event发生的地点，但是这些信息貌似用一�?l就可以轻松的替代�?-->
+				<!--<pattern>%highlight{%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-level at  %l - %msg%n%exception{1}}{STYLE=Logback}</pattern>-->
+                <pattern> %-level %msg%n </pattern>
+            </PatternLayout>
+		</Console>
+		<File name="File" fileName="logs/trace_app.log" >
+			<PatternLayout>
+				<pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n</pattern>
+			</PatternLayout>
+		</File>
+		<!-- 问题 -->
+		<!-- filePattern="logs/rolling_app_%d{yyyy-MM-dd}.log" 设置了这个参数之后就是无法生成对应格式的文件-->
+		<!-- filePattern="logs/rolling_app_%d{yyyy-mm-dd}.log" 而设置成这个样子有时却是可以生产的，但是很明显不能用mm-->
+		<RollingFile name="RollingFile" fileName="logs/rolling_app.log" filePattern="logs/rolling_app_%d{yyyy-mm-dd}.log">
+			<PatternLayout>
+				<pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n</pattern>
+			</PatternLayout>
+			<Policies>
+				<TimeBasedTriggeringPolicy />
+			</Policies>
+		</RollingFile>
+		 <Console name="STDOUT">
+	      <PatternLayout pattern="%m%n"/>
+	    </Console>
+	    <!-- filePattern 设置后参数为%d{yyyy-mm-dd}可以，但是参数为%d{yyyy-MM-dd}就不�?-->
+	    <RollingFile name="sample2Flie" fileName="target/test.log" filePattern="target/test_%d{yyyy-MM-dd}.log">
+	    	<PatternLayout>
+	    		<pattern>%d{HH:mm:ss.SSS} %-5level %C{1.} %L�?%M - %msg%xEx%n</pattern>
+	    	</PatternLayout>
+	    	<Policies>
+				<TimeBasedTriggeringPolicy />
+			</Policies>
+	    </RollingFile>
+	    
+	</appenders>
+	<loggers>
+	<!--question: 按理说设置了com.sample1包的输出信息，当运行此包下的程序时，不应该在Console里面打印信息
+		answer:   通过设置logger的属性，就可以解决什么的问题了，这个我是在log4j的手册里面找到的哦^^ additivity="false"
+	-->
+		<logger name="com.sample1" level="debug">
+			 <appender-ref ref="File" /> 
+			 <appender-ref ref="RollingFile" />
+            <appender-ref ref="Console1"/>
+		</logger>
+		<logger name="com.sample2" level="trace" additivity="false">
+			<appender-ref ref="sample2Flie"/>
+			<appender-ref ref="Console1"/>
+		</logger>
+	</loggers>
+</configuration>
+
+<!--
+1.log4j2.xml必须要取这个名字，�?且必须要放在这个目录下吗�?
+2.如果我想要为�?��logger配置不同的输出级别，并且将不同输出级别的信息输出到不同的文件里面，改怎么设置呢？如果能这样设置，那样在开放和系统维护的时候会
+  更加方便哦^^
+-->

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="own.hhw.cache.mapper">
+    <cache/>
+    <!--<cache eviction="FIFO" flushInterval="600000" size="512" />-->
+    <insert id="insertData" parameterType="own.hhw.cache.po.WrapperDataTable">
+        insert into datatable (
+        <trim suffixOverrides=",">
+            <if test="dataTable.id!=null">
+                id,
+            </if>
+            <if test="dataTable.id!=null">
+                name,
+            </if>
+        </trim>
+        ) values (
+        <trim suffixOverrides=",">
+            <if test="dataTable.id!=null">
+                #{dataTable.id},
+            </if>
+            <if test="dataTable.id!=null">
+                #{dataTable.name},
+            </if>
+        </trim>
+        )
+    </insert>
+
+    <insert id="insertOneTable">
+        insert into onetable (id,classname) values('1','2')
+    </insert>
+
+    <select id="seleteList" resultType="own.hhw.cache.po.MoreTable" useCache="true">
+        select * from datatable
+    </select>
+
+</mapper>

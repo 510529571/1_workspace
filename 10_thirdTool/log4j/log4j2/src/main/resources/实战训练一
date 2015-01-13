@@ -1,0 +1,74 @@
+####################################################
+karl:疑问
+下面这个例子是在网上找的，但是感觉不应该这样做啊，因为要保存三种类型
+就要每次信息打印都得操作三次，那改有多麻烦啊，肯定不是这样子的
+
+如何将信息在tomcat的logs下面的文件里面打印，貌似打印到控制台的信息没有在logs下面生产日志文件
+啊
+####################################################
+
+需求：
+
+服务器端的报数记录，都要记录到log里面有三种类型的报数要分别记录到日志中,三种报数级别不同
+
+而且要一天一个文件
+
+同时系统的日志就都走tomcat的日志，级别是Info
+
+遇到这样的需求如何使用lo4j来完成呢？
+
+[java]
+#必须要设置根logger 
+log4j.rootLogger=INFO,A1 
+#单独报数1 
+log4j.logger.handshakefirst=DEBUG,A2,A1 
+#单独报数2 
+log4j.logger.succe=INFO,A3,A1 
+#单独报数3 
+log4j.logger.handshakesecond=INFO,A4,A1 
+#为每种类型的报数设置想起的配置 
+#A1为系统日志，输出到控制台即可，而且要INFO级别 
+log4j.appender.A1=org.apache.log4j.ConsoleAppender 
+log4j.appender.A1.layout=org.apache.log4j.PatternLayout 
+log4j.appender.A1.layout.ConversionPattern=%d{yyyy-MM-dd HH\:mm\:ss} %5p [%t] (%F\:%L) - %m%n 
+ 
+#A2为每天一个文件，日志文件的文件名为handshakefirst.log.20120201这种，当天的就是handshakefirst.loglog4j.appender.A2=org.apache.log4j.DailyRollingFileAppender 
+log4j.appender.A2.File=c\:/handshakefirst.log 
+log4j.appender.A2.layout=org.apache.log4j.PatternLayout 
+log4j.appender.A2.DatePattern='.'yyyyMMdd 
+log4j.appender.A2.layout.ConversionPattern=%d{yyyy-MM-dd HH\:mm\:ss} [%5p] - %m%n 
+ 
+log4j.appender.A3=org.apache.log4j.DailyRollingFileAppender 
+log4j.appender.A3.File=c\:/succe.log 
+log4j.appender.A3.layout=org.apache.log4j.PatternLayout 
+log4j.appender.A3.DatePattern='.'yyyyMMdd 
+log4j.appender.A3.layout.ConversionPattern=%d{yyyy-MM-dd;HH\:mm\:ss};%m%n 
+ 
+log4j.appender.A4=org.apache.log4j.DailyRollingFileAppender 
+log4j.appender.A4.File=c\:/handshakesecond.log 
+log4j.appender.A4.layout=org.apache.log4j.PatternLayout 
+log4j.appender.A4.DatePattern='.'yyyyMMdd 
+log4j.appender.A4.layout.ConversionPattern=%d{yyyy-MM-dd;HH\:mm\:ss};%m%n 
+
+同时在程序中：
+
+[java]
+public class logTimer extends TimerTask { 
+    private static Logger logger1 = Logger.getLogger("handshakefirst"); 
+    private static Logger logger2 = Logger.getLogger("succe"); 
+    private static Logger logger3 = Logger.getLogger("handshakesecond"); 
+     
+    // 在这里写你要定时执行的方法 
+    public void run() { 
+        logger1.info("日志分割"); 
+        logger2.info("日志分割"); 
+        logger3.info("日志分割"); 
+         
+         
+    } 
+} 
+
+便可分别输出到三个日志文件中
+
+
+

@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" name="Default" comment="" />
+    <ignored path="struts2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="$PROJECT_DIR$/../test/tt/pom.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1402648899977" ignored="false" />
+    <file path="$PROJECT_DIR$/../spring/spring.iws" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1402654035548" ignored="false" />
+    <file path="$PROJECT_DIR$/../spring/spring_boot/pom.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1402649906031" ignored="false" />
+    <file path="/pom.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1419303538503" ignored="false" />
+    <file path="/fragment.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1419302958532" ignored="false" />
+    <file path="/web.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1402653328175" ignored="false" />
+    <file path="$PROJECT_DIR$/../hhw/hhw/struts2/web/WEB-INF/config/struts.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1402653716888" ignored="false" />
+    <file path="$PROJECT_DIR$/struts2_boot/src/main/java/own/hhw/sd.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1406018031993" ignored="false" />
+    <file path="F:/workspace/tonlianzhifu/module/05.wtgf/web/openaccount/validateaccount.jsp" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1406018402527" ignored="false" />
+    <file path="F:/workspace/tonlianzhifu/module/05.wtgf/web/openaccount/validateaccount2.jsp" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1406018495717" ignored="false" />
+    <file path="/validateaccount2.jsp" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1406018485526" ignored="false" />
+    <file path="F:/workspace/tonlianzhifu/module/05.wtgf/web/account/addtradeaccountpre.jsp" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1406019593961" ignored="false" />
+    <file path="/addtradeaccountpre.jsp" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1406019586629" ignored="false" />
+    <file path="F:/workspace/tonlianzhifu/module/05.wtgf/src/metadbconfig.properties" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1406023975993" ignored="false" />
+    <file path="F:/workspace/tonlianzhifu/module/05.wtgf/src/serviceclient.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1406023979740" ignored="false" />
+    <file path="/a.dummy" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417054394410" ignored="false" />
+    <file path="$PROJECT_DIR$/../../1_workspace_temp/0_hhw/hhw/java/src/own/hhw/lang/socket/MyServerSocket.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417139788086" ignored="false" />
+    <file path="$PROJECT_DIR$/../xml/dom4j/src/main/java/XMLreader.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417144172518" ignored="false" />
+    <file path="$PROJECT_DIR$/../myframework/mybatis3-1/src/main/java/own/hhw/insert.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417144228048" ignored="false" />
+    <file path="$PROJECT_DIR$/../myframework/mybatis3-1/src/main/java/Main.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417144338631" ignored="false" />
+    <file path="$PROJECT_DIR$/../java/java/web/WEB-INF/web.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417145191806" ignored="false" />
+    <file path="$PROJECT_DIR$/../java/java/web/index.jsp" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417145191806" ignored="false" />
+    <file path="$PROJECT_DIR$/../java/java/src/main/java/own/hhw/lang/Thread/synchronized_/demo3/Carport.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417145270307" ignored="false" />
+    <file path="$PROJECT_DIR$/../java/java/pom.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1419302586900" ignored="false" />
+    <file path="$PROJECT_DIR$/../java/java/src/main/java/own/hhw/lang/Zhuanshi.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417145379818" ignored="false" />
+    <file path="$PROJECT_DIR$/../java/java/src/main/java/own/hhw/lang/exception/WhereThrow.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417145387497" ignored="false" />
+    <file path="$PROJECT_DIR$/../java/java/src/main/java/own/hhw/lang/socket/MyServerSocket.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417145394818" ignored="false" />
+    <file path="$PROJECT_DIR$/../java/java/src/main/java/own/hhw/lang/Thread/synchronized_/demo4/Carport.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417145403673" ignored="false" />
+    <file path="$PROJECT_DIR$/../java/java/src/main/java/own/hhw/lang/exception/ExceptionTest.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417145412666" ignored="false" />
+    <file path="$PROJECT_DIR$/../servlet/servlet/web/WEB-INF/web.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417145666282" ignored="false" />
+    <file path="$PROJECT_DIR$/../servlet/servlet/pom.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417148003197" ignored="false" />
+    <file path="$PROJECT_DIR$/../servlet/servlet/servlet.iml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417148012715" ignored="false" />
+    <file path="$PROJECT_DIR$/../servlet/servlet/src/main/java/own/hhw/XssServlet.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417147858595" ignored="false" />
+    <file path="$PROJECT_DIR$/../servlet/servlet/src/main/java/own/hhw/XssServletRequest.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417147870011" ignored="false" />
+    <file path="$PROJECT_DIR$/../freemarker/freemarker/web/WEB-INF/web.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417155042590" ignored="false" />
+    <file path="$PROJECT_DIR$/../htmlparser/htmlparser/web/WEB-INF/web.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417155725127" ignored="false" />
+    <file path="$PROJECT_DIR$/../htmlparser/htmlparser/pom.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417155746445" ignored="false" />
+    <file path="$PROJECT_DIR$/../poi/poi/web/WEB-INF/web.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417156092965" ignored="false" />
+    <file path="$PROJECT_DIR$/../poi/poi/pom.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417156164448" ignored="false" />
+    <file path="$PROJECT_DIR$/../pdf/pdf/src/main/java/own/hhw/pdf/MyPdf1.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417156322324" ignored="false" />
+    <file path="$PROJECT_DIR$/../pdf/pdf/src/main/java/own/hhw/pdf/TestIText.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417156322324" ignored="false" />
+    <file path="$PROJECT_DIR$/../pdf/pdf/src/main/java/own/hhw/pdf/TestFlyingSauser.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417156322324" ignored="false" />
+    <file path="$PROJECT_DIR$/../pdf/pdf/pom.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417157186392" ignored="false" />
+    <file path="$PROJECT_DIR$/../tag/tag/pom.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417158015975" ignored="false" />
+    <file path="$PROJECT_DIR$/../tag/tag.ipr" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417158030650" ignored="false" />
+    <file path="$PROJECT_DIR$/../struts1/struts1.ipr" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417158059776" ignored="false" />
+    <file path="$PROJECT_DIR$/../5_struts1/struts1/pom.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1418118018177" ignored="false" />
+    <file path="$PROJECT_DIR$/../5_struts1/struts1/src/main/java/Download.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1418114466873" ignored="false" />
+    <file path="$PROJECT_DIR$/../5_struts1/struts1/struts1.iml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1418118008907" ignored="false" />
+    <file path="/Main.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1418210363020" ignored="false" />
+    <file path="F:/workspace/gfyh/module/05.wtgf/web/scripts/openquickpay.js" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1418261110167" ignored="false" />
+    <file path="/openquickpay.js" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1418261098262" ignored="false" />
+    <file path="/struts2-core-2.3.16.3.pom" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1419302348297" ignored="false" />
+    <file path="$PROJECT_DIR$/../java/myTool/src/main/java/own/hhw/util/SftpUtil.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1419302625557" ignored="false" />
+    <file path="$PROJECT_DIR$/../java/myTool/src/main/java/own/hhw/util/DateUtil.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1419302765777" ignored="false" />
+    <file path="$PROJECT_DIR$/../java/myTool/src/main/java/own/hhw/util/ASCIIUtil.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1419302626979" ignored="false" />
+    <file path="$PROJECT_DIR$/../java/myTool/src/main/java/own/hhw/util/JDBConnection.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1419302640759" ignored="false" />
+    <file path="$PROJECT_DIR$/../java/myTool/src/main/java/own/hhw/util/PublicTool.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1419302720823" ignored="false" />
+    <file path="$PROJECT_DIR$/../java/myTool/src/main/java/own/hhw/util/Xmljava.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1419302741305" ignored="false" />
+    <file path="$PROJECT_DIR$/../java/myTool/src/main/java/own/hhw/util/Public.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1419302725797" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/sftp/sftp/pom.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1419303543694" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/sftp/sftp.ipr" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1419303388384" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/sftp/sftp/src/main/java/own/hhw/util/SftpUtil.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1419303125210" ignored="false" />
+    <file path="$PROJECT_DIR$/../java/myTool/pom.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1419303387851" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="struts2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/struts2_boot/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="25" selection-start="772" selection-end="772" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="struts2-core-2.3.16.3.pom" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$MAVEN_REPOSITORY$/org/apache/struts/struts2-core/2.3.16.3/struts2-core-2.3.16.3.pom">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="13" selection-start="1318" selection-end="1318" vertical-scroll-proportion="0.45799458">
+              <folding>
+                <element signature="tag#plugins#0;tag#build#0;tag#project#0" expanded="false" />
+                <element signature="tag#reporting#0;tag#project#0" expanded="false" />
+                <element signature="tag#profiles#0;tag#project#0" expanded="false" />
+                <element signature="tag#profile#0;tag#profiles#0;tag#project#0" expanded="false" />
+                <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="struts2-parent-2.3.16.3.pom" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$MAVEN_REPOSITORY$/org/apache/struts/struts2-parent/2.3.16.3/struts2-parent-2.3.16.3.pom">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="341" column="25" selection-start="13360" selection-end="13360" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="tag#pluginManagement#0;tag#build#0;tag#project#0" expanded="false" />
+                <element signature="tag#plugins#0;tag#build#0;tag#project#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="struts-master-9.pom" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$MAVEN_REPOSITORY$/org/apache/struts/struts-master/9/struts-master-9.pom">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="18" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apache-10.pom" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$MAVEN_REPOSITORY$/org/apache/apache/10/apache-10.pom">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="0" selection-start="1047" selection-end="1047" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../6_designMode/decorator/src/main/java/step1/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="5" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Download.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/java/own/hhw/Download.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="55" selection-start="647" selection-end="647" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="struts.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/webapp/WEB-INF/config/struts.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="9" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test1Action.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/java/own/hhw/Test1Action.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="25" selection-start="1465" selection-end="1465" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="socketTest.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/webapp/socketTest.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="0" selection-start="1306" selection-end="1306" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/struts2_boot/src/main/resources/own/hhw/Test1Action.java" />
+        <option value="$PROJECT_DIR$/struts2_boot/pom.xml" />
+        <option value="$PROJECT_DIR$/struts2_boot/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/struts2_boot/src/main/webapp/WEB-INF/config/struts.xml" />
+        <option value="$PROJECT_DIR$/struts2_boot/src/main/java/own/hhw/Test1Action.java" />
+        <option value="$PROJECT_DIR$/struts2_boot/src/main/webapp/socketTest.jsp" />
+        <option value="$PROJECT_DIR$/struts2_boot/src/main/java/own/hhw/Download.java" />
+        <option value="$PROJECT_DIR$/struts2_boot/src/main/java/own/hhw/Main.java" />
+        <option value="$MAVEN_REPOSITORY$/org/apache/struts/struts2-core/2.3.16.3/struts2-core-2.3.16.3.pom" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="struts2_boot Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="struts2_boot Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="org.apache.struts:struts2-core:2.3.16.3" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="struts2_boot Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="struts2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="struts2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="struts2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="struts2_boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="struts2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="struts2_boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="struts2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="struts2_boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="struts2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="struts2_boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="struts2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="struts2_boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="struts2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="struts2_boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/struts2/struts2.iml" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="own.hhw" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\work\workspace\struts2\struts2_boot\src\main\webapp" />
+      <recent name="F:\work\workspace\struts2\struts2_boot\src\main\resources" />
+      <recent name="F:\work\workspace\struts2\struts2_boot\src\main\webapp\WEB-INF" />
+      <recent name="F:\work\workspace\struts2\struts2_boot\doc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\work\3_project\1_workspace\1_struts2\struts2_boot\src\main\webapp" />
+      <recent name="F:\work\workspace\struts2\struts2_boot\src\main\webapp\WEB-INF" />
+      <recent name="F:\work\workspace\struts2\struts2_boot\src\main\webapp\config" />
+      <recent name="F:\work\workspace\struts2\struts2_boot\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="own.hhw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="step1.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="false" name="struts2_boot" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 6.0">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="struts2_boot:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/struts2_boot" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_struts2" />
+        <option name="JNDI_PORT" value="1091" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53268" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="struts2_boot:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.struts2_boot" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" name="Default" comment="" />
+      <created>1402646748275</created>
+      <updated>1402646748275</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2495935" sideWeight="0.67105263" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43045563" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297362" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.6004785" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37398374" sideWeight="0.67146283" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32853717" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/struts/struts2-core/2.3.16.3/struts2-core-2.3.16.3.jar!/org/apache/struts2/dispatcher/FilterDispatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="0" selection-start="2506" selection-end="2506" vertical-scroll-proportion="0.63144964" />
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/struts2_boot:struts2_boot:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>struts2_boot:struts2_boot:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.mysql:management:jar:5-0-2-beta/junit:junit:jar:3.8.1</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/org.apache.struts.xwork:xwork-core:jar:2.3.16.3/asm:asm-commons:jar:3.3/asm:asm-tree:jar:3.3</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/org.apache.struts.xwork:xwork-core:jar:2.3.16.3/asm:asm-commons:jar:3.3</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/ognl:ognl:jar:3.0.6/javassist:javassist:jar:3.11.0.GA</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/org.freemarker:freemarker:jar:2.3.19</node>
+            <node x="" y="">javax.servlet:servlet-api:jar:2.5</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3</node>
+            <node x="" y="">com.mysql:management:jar:5-0-2-beta/aspectj:aspectjrt:jar:1.2</node>
+            <node x="" y="">com.mysql:management:jar:5-0-2-beta/aspectj:aspectjtools:jar:1.2/aspectj:aspectjrt:jar:1.2</node>
+            <node x="" y="">com.mysql:management:jar:5-0-2-beta</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/org.apache.struts.xwork:xwork-core:jar:2.3.16.3/asm:asm-commons:jar:3.3/asm:asm-tree:jar:3.3/asm:asm:jar:3.3</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/org.apache.struts.xwork:xwork-core:jar:2.3.16.3/ognl:ognl:jar:3.0.6</node>
+            <node x="" y="">com.mysql:management:jar:5-0-2-beta/com.sun.jdmk:jmxtools:jar:1.2</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/commons-fileupload:commons-fileupload:jar:1.3.1</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/ognl:ognl:jar:3.0.6</node>
+            <node x="" y="">struts2_boot:struts2_boot:1.0-SNAPSHOT</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/org.apache.struts.xwork:xwork-core:jar:2.3.16.3/org.apache.commons:commons-lang3:jar:3.1</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/org.apache.struts.xwork:xwork-core:jar:2.3.16.3/asm:asm:jar:3.3</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/org.apache.struts.xwork:xwork-core:jar:2.3.16.3</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/commons-fileupload:commons-fileupload:jar:1.3.1/commons-io:commons-io:jar:2.2</node>
+            <node x="" y="">junit:junit:jar:3.8.1</node>
+            <node x="" y="">com.mysql:management:jar:5-0-2-beta/aspectj:aspectjtools:jar:1.2</node>
+            <node x="" y="">com.mysql:management:jar:5-0-2-beta/mysql:mysql-connector-java:jar:3.1.12</node>
+            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/commons-io:commons-io:jar:2.2</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6440389294403893" x="401.0" y="317.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="35" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/webapp/WEB-INF/config/struts.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/webapp/module/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="21" selection-start="799" selection-end="806" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="6" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/webapp/WEB-INF/config/struts.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="9" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/webapp/socketTest.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="0" selection-start="1306" selection-end="1306" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/java/own/hhw/Test1Action.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="25" selection-start="1465" selection-end="1465" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../6_designMode/decorator/src/main/java/step1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="5" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/java/own/hhw/Download.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="55" selection-start="647" selection-end="647" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/apache/apache/10/apache-10.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="1047" selection-end="1047" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/apache/struts/struts-master/9/struts-master-9.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="18" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struts2_boot/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="25" selection-start="772" selection-end="772" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/apache/struts/struts2-parent/2.3.16.3/struts2-parent-2.3.16.3.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="341" column="25" selection-start="13360" selection-end="13360" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="tag#pluginManagement#0;tag#build#0;tag#project#0" expanded="false" />
+            <element signature="tag#plugins#0;tag#build#0;tag#project#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/apache/struts/struts2-core/2.3.16.3/struts2-core-2.3.16.3.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="13" selection-start="1318" selection-end="1318" vertical-scroll-proportion="0.45799458">
+          <folding>
+            <element signature="tag#plugins#0;tag#build#0;tag#project#0" expanded="false" />
+            <element signature="tag#reporting#0;tag#project#0" expanded="false" />
+            <element signature="tag#profiles#0;tag#project#0" expanded="false" />
+            <element signature="tag#profile#0;tag#profiles#0;tag#project#0" expanded="false" />
+            <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>struts2_boot:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>j2ee</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>struts2_boot</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: commons-fileupload:commons-fileupload:1.3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

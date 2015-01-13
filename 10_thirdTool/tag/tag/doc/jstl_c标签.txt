@@ -1,0 +1,209 @@
+2008-09-12 11:48JSTL语法及参数
+
+先配置JSP
+
+<%@ taglib uri="/WEB-INF/c.tld" prefix="c" %>
+
+
+JSTL语法及参数 
+JSTL包含以下的标签: 
+常用的标签：如<c:out>、<c:remove>、<c:catch>、<c:set>等 
+条件标签：如<c:if><c:when>、<c:choose>、<c:otherwise>等 
+URL标签：如<c:import>、<c:redirect>和<c:url>等 
+XML标签：如<xml:out>等 
+国际化输出标签：如<fmt:timeZone>等 
+SQL标签：如<sql:query>、<sql:update>、<sql:transaction>等 
+
+
+一般用途的标签: 
+1．<c:out> 
+没有Body时的语法 
+<c:out value=”value” [escapeXml=”{true|false}”] [default=”defaultValue”]/> 
+有Body时的语法 
+<c:out value=”value” [escapeXml=”{true|false}”]> 
+这里是Body部分 
+</c:out> 
+
+
+
+名字 类型 描述 
+value Object 将要输出的表达式 
+escapeXml boolean 确定以下字符:<,>,&,’,”在字符串中是否被除数，默认为true 
+default Object 如果vaule计算后的结果是null，那么输出这个默认值 
+
+
+
+2．<c:set> 
+这个标签用于在某个范围(page、request、session、application等)中使用某个名字设定特定的值，或者设定某个已经存在的javabean对象的属性。他类似于<%request.setAttrbute(“name”,”value”);%> 
+语法1：使用value属性设定一个特定范围中的属性。 
+<c:set value=”value” var=”varName” [scope=”{page|request|session|application}”]/> 
+语法2：使用value属性设定一个特定范围中的属性，并带有一个Body。 
+<c:set var=”varName” [scope=”{page|request|session|application}”]> 
+Body部分 
+</c:set> 
+语法3：设置某个特定对象的一个属性。 
+<c:set value=”value” target=”target” property=”propertyName”/> 
+语法4：设置某个特定对象的一个属性，并带有一个Body。 
+<c:set target=”target” property=”propertyName”> 
+Body部分 
+</c:set> 
+
+
+
+名字 类型 描述 
+value Object 将要计算的表到式。 
+var String 用于表示value 值的属性，如果要在其他标签中使用，就是通过这 个var指定的值来进行的。它相当于在标签定义了一个变量，并且这个变量只能在标签中的一个。 
+scope String var的有效范围，可以是page|request|session|application中的一个 
+target String 将要设置属性的对象，它必须是javabean或则java.util.Map对象 
+property Object 待设定的Target对象中的属性名字，比如在javabean中有个name属性，提供了setUserId方法，那么这里填userId。 
+
+
+
+3．<c:remove> 
+<c:remove var=”varName” [scope=”{page|request|session|application}”]/> 
+
+
+
+4．<c:catch> 
+这个标签相当于捕获在它里边的标签抛出的异常对象 
+<c:catch [var=”varName”]> //var是异常的名字 
+内容 
+</c:catch> 
+
+
+
+条件标签 
+1． <c:if> 
+语法1：无Body情况 
+<c:if test=”testCondition” var=”varName” [scope=”page|request|session|application”]/> 
+语法2：有Body的情况 
+<c:if test=”testCondition” var=”varName” [scope=”page|request|session|application”]> 
+Body内容 
+</c:if> 
+
+
+
+名字 类型 描述 
+test Boolean 表达式的条件，相当于if()中的条件判断语句。 
+var String 表示这个语句的名字。 
+scope String var这个变量的作用范围。 
+
+
+
+2．<c:choose> 
+语法：<c:choose> 
+Body内容(<c:when>和<c:otherwise>子标签) 
+</c:choose> 
+注意：它的Body只能由以下元素组成: 
+1) 空格 
+2) 0或多个<c:when>子标签，<c:when>必须在<c:otherwise>标签之前出现. 
+3) 0个或多个<c:otherwise>子标签。 
+
+
+
+3．<c:when> 
+代表的是<c:choose>的一个条件分支,只能在<c:choose>中使用 
+语法：<c:when test=”testCondition”> //test是boolean类型,用于判断条件真假 
+Body语句 
+</c:when> 
+
+
+
+4．<c:otherwise> 
+代表的是<c:choose>中的最后选择。必须在最后出现 
+<c:otherwise> 
+内容 
+</c:otherwise> 
+
+
+
+迭代标签 
+1．<c:forEach> 
+语法1：在Collection中迭代 
+<c:forEach[var=”varName”] items=”collection” [varStatus=”varStatusName”] 
+[begin=”begin”] [end=”end”] [step=”step”] 
+Body内容 
+</c:foeEach> 
+
+
+
+语法2：迭代固定的次数. 
+<c:forEach [var=”varName”] [varStatus=”varStatusName”] 
+[begin=”begin”] [end=”end”] [step=”step”] 
+Body内容 
+</c:foeEach> 
+
+
+
+名字 类型 描述 
+var String 迭代的参数，它是标签参数，在其他标签中通过它来引用这个标签中的内容。 
+Items Collection、ArrayList、 要迭代的items集合. 
+Iterator、Map、String、 
+Eunmeration等 
+VarStatus String 表示迭代的状态，可以访问迭代自身的信息 
+Begin int 表示开始迭代的位置。 
+End int 表示结束迭代的位置。 
+Step int 表示迭代移动的步长，默认为1。 
+
+
+
+URL相关的标签 
+1．<c:import> 
+语法1：资源的内容使用String对象向外暴露 
+<c:import url=”url” [context=”context”] 
+[var=”varName”] [scope=”{page|request|session|application}”] [charEncoding=”charEncoding”]> 
+内容 
+</c:import> 
+
+
+
+语法2：资源的内容使用Reader对象向外暴露。 
+<c:import url=”url” [context=”context”] 
+varReader=”varReaderName” [charEncoding=”charEncoding”]> 
+内容 
+</c:import> 
+名字 类型 描述 
+url String 待导入资源的URL，可以是相对路径和绝对路径，并且可以导入其他主机资源 
+context String 当使用相对路径访问外部context资源时，context指定了这个资源的名字。 
+var String 参数的名字。 
+scope String var参数的作用范围。 
+cahrEncoding String 输入资源的字符编码。 
+varReader String 这个参数的类型是Reader,用于读取资源。 
+
+
+
+2．<c:redirct> 
+语法1:没有Body的情况. 
+<c:redirect url=”value” [context=”context”]/> 
+语法2：有Body情况下，在Body中指定查询的参数 
+<c:redirect url=”value” [context=”context”]> 
+<c:param name=”name” value=”value”/> 
+</c:redirect> 
+
+
+
+3．<c:url> 
+语法1：没有Body 
+<c:url value=”value” [context=”context”] [var=”varName”] [scope=”{page|request|session+application}”]/> 
+语法2：有Body 
+<c:url value=”value” [context=”context”] [var=”varName”] [scope=”{page|request|session+application}”]> 
+<c:param name=”name” value=”value”/> 
+</c:url> 
+
+
+
+名字 类型 描述 
+value String URL值 
+context String 当使用相对路径访问外部context资源时，context指定了这个资源的名字 
+var String 标识这个URL标量。 
+Scope String 变量作用范围。 
+
+
+
+SQL相关的标签 
+1．<sql:setDataSource> 
+2．<sql:query> 
+3．<sql:update> 
+4．<transaction> 
+5．<param>
+ 

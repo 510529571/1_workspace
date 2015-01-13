@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mapper namespace="insert">
+<insert id="insertUser" reqType="own.hhw.User" respType="own.hhw.User">
+    INSERT INTO myuser (userName, passWord)
+    VALUES ('${userName}', '${passWord}')
+</insert>
+</mapper>

@@ -1,0 +1,329 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="/scripts/minmax.js"></script>
+<script type="text/javascript" src="/scripts/dwrcharactercheck.js"></script>
+
+
+
+
+<script type="text/javascript" src="/scripts/jquery-1.2.6.min.js"></script>
+    <script type="text/javascript" src="/scripts/jquery-ui-1.5.3.custom.min.js"></script>
+
+<html>
+<head>
+    <title>广发基金管理有限公司网上交易</title>
+    
+<link rel="stylesheet" href="/styles/reset.css" type="text/css" media="screen"/>
+<link rel="stylesheet" href="/styles/css.css" type="text/css" media="screen"/>
+<link rel="stylesheet" href="/styles/css2.css" type="text/css" media="screen"/>
+<link rel="stylesheet" href="/styles/main.css" type="text/css" media="screen"/>
+<link rel="stylesheet" href="/styles/balantrade.css" type="text/css" media="screen"/>
+<script type="text/javascript">
+  
+  var _custWalletFundCode = '270004|270014';
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3795228-1']);
+  _gaq.push(['_addOrganic', 'soso', 'w']);
+  _gaq.push(['_addOrganic', 'yodao', 'q']);
+  _gaq.push(['_addOrganic', 'sogou', 'query']);
+  _gaq.push(['_setDomainName', 'gffunds.com.cn']); 
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+    <meta http-equiv="Expires" CONTENT="0">
+    <meta http-equiv="Cache-Control" CONTENT="no-cache">
+    <meta http-equiv="Cache-Control" CONTENT="no-store">
+    <meta http-equiv="Pragma" CONTENT="no-cache">
+    <base href="http://localWThost:7001/error.jsp"></base>
+
+    <script type="text/javascript">
+        var verifyAction="";
+        var paybank="";
+        var fundCode="";
+        var fundName="";
+        var applyNo="";
+        var redeemShare="";
+        var applyMoney="";
+        var dsPayTime="";
+        var payTime="";
+        var shareType="";
+        var errorMessage="";
+
+
+        if(false){
+
+            verifyAction="";
+            paybank="";
+            fundCode= "";
+            fundName="";
+            applyNo="";
+            redeemShare ="";
+            applyMoney = "";
+            dsPayTime="";
+            payTime="";
+            shareType="";
+
+
+
+            }
+
+        if("addtradeacco"==verifyAction){
+            window.WTjson = {
+                "WT.si_n":"银行卡绑定",
+                "WT.si_x":"绑卡失败",
+                "WT.pn_sku":fundName,
+                "WT.err_type":errorMessage
+            }
+        }else if("recharging"==verifyAction){
+            window.WTjson = {
+                "WT.si_n":"钱袋子充值",
+                "WT.si_x":"充值失败",
+                "WT.err_type":errorMessage,
+                "WT.pn_sku":fundCode,
+                "WT.pc":fundName,
+                "WT.tx_i":applyNo,
+                "WT.tx_u":"",
+                "WT.tx_s":applyMoney,
+                "WT.tx_id":dsPayTime,
+                "WT.tx_it":payTime,
+                "WT.payentry":"银行卡",
+                "WT.paytype":"",
+                "WT.paybank":paybank
+            }
+        } else if("redeem"==verifyAction) {
+            window.WTjson = {
+                "WT.si_n":"钱袋子取现",
+                "WT.si_x":"申请失败" ,
+                "WT.err_type":errorMessage,
+                "WT.pn_sku":fundCode,
+                "WT.pc":fundName,
+                "WT.tx_i":applyNo,
+                "WT.tx_u":redeemShare,
+                "WT.tx_s":applyMoney,
+                "WT.tx_id":dsPayTime,
+                "WT.tx_it":payTime,
+                "WT.payentry":"钱袋子",
+                "WT.paytype":"",
+                "WT.paybank":paybank
+            }
+        } else if("buy"==verifyAction){
+            window.WTjson = {
+                "WT.si_n":"基金认申购",
+                "WT.si_x":"认申购失败" ,
+                "WT.err_type":errorMessage,
+                "WT.pn_sku":fundCode,
+                "WT.pc":fundName,
+                "WT.tx_i":applyNo,
+                "WT.tx_u":redeemShare,
+                "WT.tx_s":applyMoney,
+                "WT.tx_id":dsPayTime,
+                "WT.tx_it":payTime,
+                "WT.payentry":"",
+                "WT.paytype":"",
+                "WT.paybank":paybank
+            }
+        } else if("combuy"==verifyAction){
+            window.WTjson = {
+                "WT.si_n":"基金组合申购",
+                "WT.si_x":"认申购失败" ,
+                "WT.err_type":errorMessage,
+                "WT.pn_sku":fundCode,
+                "WT.pc":fundName,
+                "WT.tx_i":applyNo,
+                "WT.tx_u":redeemShare,
+                "WT.tx_s":applyMoney,
+                "WT.tx_id":dsPayTime,
+                "WT.tx_it":payTime,
+                "WT.payentry":"",
+                "WT.paytype":shareType,
+                "WT.paybank":paybank
+            }
+
+        }
+    </script>
+
+</head>
+<body>  
+
+
+<div id="top">   
+<div class="p">欢迎进入广发基金网上交易系统！</div>
+<div class="top_bg2"></div>
+<p style="zoom:1;margin-right:0px;padding-right:30px;">
+    <a href="http://www.gffunds.com.cn/" class="a1" target="_blank">网站首页</a>　
+    <img src="/images/line1.gif" />　
+    <a href="http://live800.gffunds.com.cn/live800/chatClient/chatbox.jsp?companyID=203&configID=78270&enterurl=http://www.gffunds.com.cn/" class="a1" target="_blank">在线客服</a>
+    <img src="/images/line1.gif" />　
+    <A class="a1" href="http://bbs.gffunds.com.cn/dx2/home.php"  target="_blank">我的个人空间</A>
+    <img src="/images/line1.gif" />　
+    <A class="a1" href="http://bbs.gffunds.com.cn/dx2/forum.php"  target="_blank">广发论坛</A>
+    <img src="/images/line1.gif" />　
+    <A class="a1" href="http://www.gffunds.com.cn/khfw/bzzx/ask/"  target="_blank">我要提问</A>
+</p>
+</div>
+<script type="text/javascript" src="../scripts/webtrends.js"></script>
+<script type="text/javascript">
+    if (typeof(_tag) != "undefined") {
+        if(document.readyState!="complete"){
+            document.onreadystatechange = function(){
+                if(document.readyState=="complete") _tag.dcsCollect();
+            }
+        }
+        else _tag.dcsCollect();
+    }
+</script>
+
+<div id="body-wrapper">
+    
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="../scripts/webhelp.js"></script>
+<div id="sidebar">
+<img src="/images/logo.png" class="logo"/>
+<img src="/images/left_line.gif" class="left_line"/>
+
+<div class="left_menu" id="leftm" style="margin-top:0;">
+
+
+
+    <ul id="c7">
+        <li><a href="/main/index" id="c70">交易首页</a></li>
+    </ul>
+
+
+
+<script type="text/javascript">
+    /*一站通用户已经登录*/
+    var t = new Date();
+    $.getScript("https://sso.gffunds.com.cn/ids/gfsso/passport/isIDSLogin.jsp?t=" + t.getTime(), function ()
+//    $.getScript("http://ssotest.gffunds.com.cn:8035/ids/gfsso/passport/isIDSLogin.jsp?t=" + t.getTime(), function ()
+    {
+        var idslogin;
+        idslogin = isIDSLogin;
+        if (idslogin) {
+            $("#c70").attr("href", "/network/networkgo.jsp");
+        } else {
+            $("#c70").attr("href", "https://sso.gffunds.com.cn/ids/gfsso/login.jsp");
+//            $("#c70").attr("href","http://ssotest.gffunds.com.cn:8035/ids/gfsso/login.jsp");
+        }
+    });
+</script>
+
+</div>
+</div>
+    <input type="hidden" id="errorMsg" name="errorMsg"  value="" />
+
+
+    
+    <div id="main-content">
+        
+        <div class="main">
+            
+
+<div class="success" style="height:223px;">
+    <div style="text-align:center;margin:0 10px 0 20px; height: 132px; margin-top: 40px;">
+        <img src="/images/fail.gif" style="margin:0 12px 0px 0;"/>
+              <span style="font-weight:bold;font-size:14px; margin: 3px 0 0 0;">
+                  
+                  
+                  
+                  
+                   
+                       
+                   
+
+                  
+                      
+                      
+                      
+                      
+                          
+                      
+                  
+              </span>
+    </div>
+    <hr align="left" width="400" class="hr_201102" style="margin-left:125px;margin-top:20px;"/>
+    <p style="margin:10px 0 0 122px; font-size:13px;">您的申请提交失败，请重新操作，如始终无法提交申请可联系95105828客服热线!</p>
+</div>
+        </div>
+    </div>
+</div>
+
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="white" style="min-width: 1004px;">
+    <tr>
+        <td height="4" colspan="3" background="/images2009/bottom/bottom_line.gif"></td>
+    </tr>
+</table>
+<table width="1004" align="center" border="0" cellspacing="0" cellpadding="0" bgcolor="white">
+    <tr style="font-size:12px;color:#666666;list-style-type:none;">
+        <td width="60%">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr height="16">
+                    <td align="center"><img src="/images2009/bottom/icon_MAIL.gif" width="11" height="11"/></td>
+                    <td> 客服邮箱： <a href="mailto:services@gf-funds.com" style="text-decoration:none;color: #666">services@gf-funds.com</a>&nbsp;&nbsp; </td>
+                </tr>
+                <tr height="16">
+                    <td width="7%" align="center"><img src="/images2009/bottom/icon_kefu.gif" width="11" height="11"/>
+                    </td>
+                    <td width="93%">客服热线： 95105828　 一对多业务：95105828-6</td>
+                </tr>
+                <tr height="16">
+                    <td align="center"><img src="/images2009/bottom/icon_FAX.gif" width="11" height="11"/></td>
+                    <td> 传　　真： 020-89899158　　　　交易传真：020-89899069</td>
+                </tr>
+                <tr height="16">
+                    <td align="center"><img src="/images2009/bottom/icon_ADDRESS.gif" width="11" height="11"/></td>
+                    <td> 地　　址： 广州市海珠区琶洲大道东1号保利国际广场南塔31－33楼 　邮 编：510308</td>
+                </tr>
+            </table>
+        </td>
+        <td width="40%">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr height="16">
+                    <td width="3%"><img src="/images2009/bottom/smalllogo.gif" width="30" height="26"/></td>
+                    <td width="37%"> 广发基金管理有限公司 版权所有 All Rights Reserved.</td>
+                </tr>
+                <tr height="16">
+                    <td width="3%"></td>
+                    <td align="left"><a href=http://www.miibeian.gov.cn target=_blank
+                                          style="text-decoration:none;color: #666">[ICP
+                        备案登记证编号：粤ICP备12020109号]</a></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+ 
+<!--52-->
+
+
+</body>
+</html>

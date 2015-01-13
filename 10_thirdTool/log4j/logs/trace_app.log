@@ -1,0 +1,15 @@
+2014-08-21 11:30:24.142 [main] DEBUG com.sample3.test.HelloWorld - main debug
+2014-08-21 11:30:24.144 [main] INFO  com.sample3.test.HelloWorld - maininfo 
+2014-08-21 11:30:24.144 [main] WARN  com.sample3.test.HelloWorld - main warn 
+2014-08-21 11:30:24.144 [main] ERROR com.sample3.test.HelloWorld - main error
+2014-08-21 11:30:24.144 [main] FATAL com.sample3.test.HelloWorld - main fatal
+2014-08-21 11:31:25.241 [main] DEBUG com.sample3.test.HelloWorld - main debug
+2014-08-21 11:31:25.243 [main] INFO  com.sample3.test.HelloWorld - maininfo 
+2014-08-21 11:31:25.243 [main] WARN  com.sample3.test.HelloWorld - main warn 
+2014-08-21 11:31:25.243 [main] ERROR com.sample3.test.HelloWorld - main error
+2014-08-21 11:31:25.243 [main] FATAL com.sample3.test.HelloWorld - main fatal
+2014-08-21 11:31:47.135 [main] DEBUG com.sample3.test.HelloWorld - main debug
+2014-08-21 11:31:47.137 [main] INFO  com.sample3.test.HelloWorld - maininfo 
+2014-08-21 11:31:47.137 [main] WARN  com.sample3.test.HelloWorld - main warn 
+2014-08-21 11:31:47.137 [main] ERROR com.sample3.test.HelloWorld - main error
+2014-08-21 11:31:47.138 [main] FATAL com.sample3.test.HelloWorld - main fatal

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration  status="fatal">
+    <appenders>
+        <Console name="sdout" target="SYSTEM_OUT">
+            <PatternLayout pattern="%-5level  - %msg%n"/>
+        </Console>
+        <File name="file" fileName="logs/trace_app.log" >
+            <PatternLayout>
+                <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n</pattern>
+            </PatternLayout>
+        </File>
+        <RollingFile name="testLog" fileName="logs/test.log" filePattern="" append="false">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+            <SizeBasedTriggeringPolicy size="5mb"/>
+        </RollingFile>
+    </appenders>
+    <loggers>
+        <!--question: 鎸夌悊璇磋缃簡com.sample1鍖呯殑杈撳嚭淇℃伅锛屽綋杩愯姝ゅ寘涓嬬殑绋嬪簭鏃讹紝涓嶅簲璇ュ湪Console閲岄潰鎵撳嵃淇℃伅
+            answer:   閫氳繃璁剧疆logger鐨勫睘鎬э紝灏卞彲浠ヨВ鍐充粈涔堢殑闂浜嗭紝杩欎釜鎴戞槸鍦╨og4j鐨勬墜鍐岄噷闈㈡壘鍒扮殑鍝^ additivity="false"
+        -->
+        <logger name="com.sample" level="debug">
+            <appender-ref ref="file"/>
+            <appender-ref ref="testLog"/>
+        </logger>
+        <root level="all">
+        </root>
+    </loggers>
+</configuration>
+
+        <!--
+        1.log4j2.xml蹇呴』瑕佸彇杩欎釜鍚嶅瓧锛岃�涓斿繀椤昏鏀惧湪杩欎釜鐩綍涓嬪悧锛�
+        2.濡傛灉鎴戞兂瑕佷负涓�釜logger閰嶇疆涓嶅悓鐨勮緭鍑虹骇鍒紝骞朵笖灏嗕笉鍚岃緭鍑虹骇鍒殑淇℃伅杈撳嚭鍒颁笉鍚岀殑鏂囦欢閲岄潰锛屾敼鎬庝箞璁剧疆鍛紵濡傛灉鑳借繖鏍疯缃紝閭ｆ牱鍦ㄥ紑鏀惧拰绯荤粺缁存姢鐨勬椂鍊欎細
+          鏇村姞鏂逛究鍝^
+        -->

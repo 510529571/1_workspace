@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+        <bean id="printDao" class="own.hhw.step1.dao.PrintDaoImpl">
+            <property name="name" value="打印机1"></property>
+        </bean>
+        <bean id="printService" class="own.hhw.step1.service.PrintServiceImpl">
+            <property name="printDao" ref="printDao"></property>
+        </bean>
+</beans>

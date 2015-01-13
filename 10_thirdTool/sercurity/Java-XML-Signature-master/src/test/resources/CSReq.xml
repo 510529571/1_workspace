@@ -1,0 +1,47 @@
+<SoEv>
+    <Message id="111">
+        <CSReq id="CSReq">
+            <version>1.0.1</version>
+            <date>20070625 11:51:39</date>
+            <instId>WZCB</instId>
+            <certId>123456</certId>
+            <signNo>200705131234567890</signNo>
+            <cardNo>123456</cardNo>
+            <cardType>D</cardType>
+            <name>张三</name>
+            <gender>M</gender>
+            <certType>1</certType>
+            <certNo>111111111111111</certNo>
+            <email>zhangsan@msn.com</email>
+            <cell>13588888888</cell>
+            <address>杭州市西湖区</address>
+            <memo>测试</memo>
+        </CSReq>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod
+                        Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315">
+                </CanonicalizationMethod>
+                <SignatureMethod
+                        Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1">
+                </SignatureMethod>
+                <Reference URI="#CSReq">
+                    <Transforms>
+                        <Transform
+                                Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature">
+                        </Transform>
+                    </Transforms>
+                    <DigestMethod
+                            Algorithm="http://www.w3.org/2000/09/xmldsig#sha1">
+                    </DigestMethod>
+                    <DigestValue>4t79dXZ7/BQqgiBdkziaKTUslVU=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>
+                RyWMXvxlhmLuOIOvGSIkpV1iRV400F1B2W0zmW9nc5qfvfNMtpyp+uNwksBUjcO8H//NW4GvxcDd
+                KMuuc6k5MDMH1E4OUg+624FUY23qs3R2ztubtD3MU7xk4f0iq9L16GK4ZBeID/Lyj6CxjaCcp3Fu
+                K1CznNj4Kr+qRLtxx+s=
+            </SignatureValue>
+        </Signature>
+    </Message>
+</SoEv>

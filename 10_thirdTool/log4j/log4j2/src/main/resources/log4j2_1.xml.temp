@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration status="OFF">
+    <appenders>
+        <File name="MyFile" fileName="logs/app.html">
+            <HTMLLayout/>
+        </File>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="[%d{HH:mm:ss.SSS}] [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+        <Console name="Console1" target="SYSTEM_OUT">
+            <PatternLayout pattern="[%d{HH:mm:ss.SSS}] [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+        <RollingFile name="testLog" fileName="logs/test.log" filePattern="" append="false">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+            <SizeBasedTriggeringPolicy size="5mb"/>
+        </RollingFile>
+    </appenders>
+    <loggers>
+        <logger name="com.sample3.test" level="fatal" additivity="false">
+            <appender-ref ref="Console1"/>
+            <appender-ref ref="testLog"/>
+            <appender-ref ref="MyFile"/>
+        </logger>
+        <root level="info">
+            <appender-ref ref="Console"/>
+        </root>
+    </loggers>
+</configuration>

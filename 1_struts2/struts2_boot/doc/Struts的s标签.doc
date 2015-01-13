@@ -1,0 +1,32 @@
+这个标签主要的的作用就是迭代出集合。。
+value属性表示需要跌代显示出来的值。
+status属性，又来保存迭代时的一些状态值。
+
+注：
+1.如果需要引用valueStack中的值，需要使用这样的形式。
+<s:iterator value="#userList" /> //userList在action部分被保存在Request中，所以使用#加属性名来引用值。
+2.如果集合的值是通过action的方法，假设我们的action中有一个getListMenu方法，返回一个List集合。
+我们可以使用如下的形式来引用这个集合，并用s:iterator来输出。
+<s:iterator value="listMenu" />
+3.iterator的value使用定义好的方式，如：
+<s:iterator value="{1,2,3,4}" />         //这样跌代输出的值就是1.2.3.4这四个值。
+
+二、iterator中输出具体值，如果，在上面我们的list中的对象，有两个属性，都是String类型，一个是name,一个是url。
+我们可以这样来引用。
+1.      <s:property value="name" />       //这样我们将可以输出跌代对象的name属性值。
+2.      如果我们希望使用<s:url />来将跳转过后的url进行处理，该如何来做？
+          <s:url value="%{url}"/>            //%{}ognl的表达式，这样的值能够将url的值进行<s:url/>的处理
+         实际上就是转为绝对路径。这样，我们就可以对付一些因跳转换产生的路径问题。
+    原因：因为<s:iteratotr />以后，当前的对象应该就在ValueStack顶部了，这样当然的url实际上就是对象的url          属性了
+
+三、使用ognl输出对应的值。
+<s:textfield name="loginName" value="%{#request.loginNames}"/>
+
+使用此表达式，会生成一个文本框，并且，如果request.attribute中有loginNames属性，将会做为些文本框的默认值。
+如果只使用#request.loginNames在struts2的标签内部，是不会显示任何值的，注意外面加上的%{}附号，才会被正常的使用。
+如果希望如EL语言一样直接输出文件，如在一个<a></a>之间的innerHTML文本为#request.loginNames的值，我们只要使用：<s:property value="#request.loginNames" />使可以正常使用！
+
+注：
+1.${}是EL语言的 %{}这样的形式是ognl表过式语言的，在struts2的标签内部，使用%{}这样的形式，在标签外部可以使用${}EL语言的方式。如果在struts2的标签内部使用${}这样的方式，会出现以下的错误提示：
+According to TLD or attribute directive in tag file, attribute value does not accept any expressions
+2.很多时候，我们使用struts2的一些标签，属性是需要接受集合的，如果集合是保存在request,session，或者是值栈(非根对象的栈顶)，可以使用#变量名的方式，如果获取的值是在Action中通过特定的方法来获取，就需要使用如 value="userList"这样的方式，只是去掉了前面的#。

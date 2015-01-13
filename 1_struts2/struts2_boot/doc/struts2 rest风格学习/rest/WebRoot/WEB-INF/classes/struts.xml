@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="GBK" ?>
+<!-- 指定 Struts 2 配置文件的 DTD 信息 -->
+<!DOCTYPE struts PUBLIC 
+    "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN"
+    "http://struts.apache.org/dtds/struts-2.1.dtd">
+<!-- 指定 Struts 2 配置文件的根元素 -->
+
+<struts>
+	<include file="struts-default.xml" />
+	<include file="struts-conversion.xml" />
+	<constant name="struts.i18n.encoding" value="GBK" />
+	<!--  指定控制器类的后缀为 Controller -->
+	<constant name="struts.convention.action.suffix" value="Controller" />
+	<constant name="struts.convention.action.mapAllMatches"
+		value="true" />
+	<!-- 指定 Action 所在包继承的父包 -->
+	<constant name="struts.convention.default.parent.package"
+		value="rest-default" />
+</struts>

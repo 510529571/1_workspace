@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="gbk"?>
+<paras>
+	<name>广发基金</name>
+	<!--企业名称-->
+	<bankcode>671</bankcode>
+	<!--银行编码-->
+	<cis>200123456789002</cis>
+	<!--工行cis号-->
+	<enterprise>
+		<port>6000</port>
+		<!--监听端口-->
+		<commlevel>
+			<store>f:\work\3_project\1_workspace\10_thirdtool\sercurity\icbc2\certificate\gf01store</store>
+			<!--企业通讯层证书-->
+			<storepass>rr338811</storepass>
+			<!--企业通讯层证书口令-->
+		</commlevel>
+		<datalevel>
+			<cerfile>f:\work\3_project\1_workspace\10_thirdtool\sercurity\icbc2\certificate\gf01.cer</cerfile>
+			<!--企业数据层公钥-->
+			<key>f:\work\3_project\1_workspace\10_thirdtool\sercurity\icbc2\certificate\gf01.key</key>
+			<!--企业数据层私钥-->
+			<keypass>rr338811</keypass>
+			<!--企业数据层私钥口令-->
+		</datalevel>
+	</enterprise>
+	<icbc>
+		<ip>localhost</ip>
+		<!--工行系统地址-->
+		<port>6000</port>
+		<!--工行监听端口-->
+		<commlevel>
+			<truststore>f:\work\3_project\1_workspace\10_thirdtool\sercurity\icbc2\certificate\gf01trust</truststore>
+			<!--工行通讯层证书-->
+		</commlevel>
+		<datalevel>
+			<cerfile>f:\work\3_project\1_workspace\10_thirdtool\sercurity\icbc2\certificate\123.cer</cerfile>
+			<!--工行数据层公钥-->
+		</datalevel>
+	</icbc>
+</paras>

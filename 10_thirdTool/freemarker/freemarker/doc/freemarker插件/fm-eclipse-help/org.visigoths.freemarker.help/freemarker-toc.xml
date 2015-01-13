@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+<toc label="Freemarker">
+  <topic label="Manual" href="docs/docs/index.html">
+    <anchor id="ManualLink" />
+  </topic>
+  <topic label="Web site (offline version)" href="docs/index.html">
+    <anchor id="WebLink" />
+  </topic>
+</toc>

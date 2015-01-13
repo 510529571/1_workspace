@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.bedpotato.mapper.CardBinMapper">
+    <insert id="insert">
+        INSERT INTO cardbin_temp (
+        <trim suffixOverrides=",">
+            <if test="bankName!=null">
+                bankName,
+            </if>
+            <if test="bankNo!=null">
+                bankNo,
+            </if>
+            <if test="cardBin!=null">
+                cardBin,
+            </if>
+            <if test="cardType!=null">
+                cardType,
+            </if>
+        </trim>
+        ) VALUES (
+        <trim suffixOverrides=",">
+            <if test="bankName!=null">
+                #{bankName},
+            </if>
+            <if test="bankNo!=null">
+                #{bankNo},
+            </if>
+            <if test="cardBin!=null">
+                #{cardBin},
+            </if>
+            <if test="cardType!=null">
+                #{cardType},
+            </if>
+        </trim>
+        )
+    </insert>
+    <!--下面的可以在java中直接执行sql语句-->
+    <select id="merge" parameterType="SQLAdapter" >
+    ${sql}
+  </select>
+</mapper>

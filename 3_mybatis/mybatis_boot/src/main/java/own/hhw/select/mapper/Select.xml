@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="own.hhw.select.mapper.Select">
+    <select id="seleteOne" resultType="String">
+        select '1' from dual
+    </select>
+
+    <select id="update" parameterType="String" resultType="String">
+        select '123' from dual where '1'=${value}
+    </select>
+
+    <select id="seleteOne2"  parameterType="String" resultType="String">
+    /*注意下面是用的是$做前缀，而不是用的#*/
+        ${value}
+    </select>
+
+    <select id="selectList" resultType="String">
+        select '2' from dual
+    </select>
+
+    <select id="selectListObj" resultType="own.hhw.select.po.SelectObj">
+        select '3' as id from dual
+    </select>
+</mapper>

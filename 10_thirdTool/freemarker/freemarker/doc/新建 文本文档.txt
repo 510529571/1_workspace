@@ -1,0 +1,16 @@
+在Eclipse3.4中安装Freemarker插件
+转于http://yuting-lv.javaeye.com/blog/391932
+
+    今天在Eclipse上安装Freemarker的插件，一开始装官方网站上的推荐插件，装上后发现除了Freemarker代码高亮显示其他什么效果都没有，郁闷。
+在javaeye论坛上请教了下，据说官网上的那个插件不好用，又去重装了一个，这里备忘纪录一下。 
+
+    首先在http://sourceforge.net/project/showfiles.php?group_id=163305下载插件，解压，将hudson.freemarker_ide_0.9.14文件夹放入eclipse
+下的plugins文件夹。 
+
+    发现hudson.freemarker_ide_0.9.14下的freemarker-2.3.6.jar包是比较早的版本，用新的freemarker-2.3.15.jar替换之，把MANIFEST.MF里的
+Bundle-ClassPath也改为freemarker-2.3.15.jar 
+
+    退出Eclipse再重启，在window --> Preferences 左边的树形栏里出现FreeMarker Editor一项新的内容。在General --> Editors --> File 
+Associations下，为*.html和*.htm文件添加（add）FreeMarker Editor 作他们关联的编辑器（associated editors) , *.ftl文件的默认编辑器
+就是FreeMarker Editor。这样在编辑混合有HTML和FreeMarker标记的文件时，可以选择右击文件 --> Open with HTML Editor 或者 
+Open with FreeMarker Editor 

@@ -1,0 +1,22 @@
+freemarker判断对象是否为null方法 
+对于null，或者miss value，freemarker会报错
+
+!：default value operator，语法结构为：unsafe_expr!default_expr，比如 ${mouse!"No mouse."} 当mouse不存在时，返回default value； 
+(product.color)!"red"  这种方式，能够处理product或者color为miss value的情况； 
+而product.color!"red"将只处理color为miss value的情况 
+??: Missing value test operator ,测试是否为missing value 
+unsafe_expr?? ：product.color??将只测试color是否为null 
+(unsafe_expr)??：(product.color)??将测试product和color是否存在null 
+?exists:旧版本的用法 
+比如：<#if mouse??>
+  Mouse found
+<#else>
+  No mouse found
+</#if>
+Creating mouse...
+<#assign mouse = "Jerry">
+<#if mouse??>
+  Mouse found
+<#else>
+  No mouse found
+</#if> 

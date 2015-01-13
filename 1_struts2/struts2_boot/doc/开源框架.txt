@@ -1,0 +1,54 @@
+Spring Framework 【Java开源JEE框架】
+Spring是一个解决了许多在J2EE开发中常见的问题的强大框架。 Spring提供了管理业务对象的一致方法并且鼓励了注入对接口编程而不是对类编程的良好习惯。Spring的架构基础是基于使用JavaBean属性的Inversion of Control容器。然而，这仅仅是完整图景中的一部分：Spring在使用IoC容器作为构建完关注所有架构层的完整解决方案方面是独一无二的。 Spring提供了唯一的数据访问抽象，包括简单和有效率的JDBC框架，极大的改进了效率并且减少了可能的错误。Spring的数据访问架构还集成了Hibernate和其他O/R mapping解决方案。Spring还提供了唯一的事务管理抽象，它能够在各种底层事务管理技术，例如JTA或者JDBC事务提供一个一致的编程模型。Spring提供了一个用标准Java语言编写的AOP框架，它给POJOs提供了声明式的事务管理和其他企业事务--如果你需要--还能实现你自己的aspects。这个框架足够强大，使得应用程序能够抛开EJB的复杂性，同时享受着和传统EJB相关的关键服务。Spring还提供了可以和IoC容器集成的强大而灵活的MVC Web框架。【SpringIDE：Eclipse平台下一个辅助开发插件】.
+
+
+ Struts 【Java开源Web开发框架】
+Struts是一个基于Sun J2EE平台的MVC框架，主要是采用Servlet和JSP技术来实现的。由于Struts能充分满足应用开发的需求，简单易用，敏捷迅速，在过去的一年中颇受关注。Struts把Servlet、JSP、自定义标签和信息资源(message resources)整合到一个统一的框架中，开发人员利用其进行开发时不用再自己编码实现全套MVC模式，极大的节省了时间，所以说Struts是一个非常不错的应用框架。【StrutsIDE：用于Struts辅助开发的一个Eclipse插件】
+
+
+ Hibernate 【Java开源持久层框架】
+Hibernate是一个开放源代码的对象关系映射框架，它对JDBC进行了非常轻量级的对象封装，使得Java程序员可以随心所欲的使用对象编程思维来操纵数据库。 Hibernate可以应用在任何使用JDBC的场合，既可以在Java的客户端程序实用，也可以在Servlet/JSP的Web应用中使用，最具革命意义的是，Hibernate可以在应用EJB的J2EE架构中取代CMP，完成数据持久化的重任。Eclipse平台下的Hibernate辅助开发工具:【Hibernate Synchronizer】【MiddlegenIDE】
+
+  
+ Eclipse 【Java开源IDE】
+Eclipse平台是IBM向开发源码社区捐赠的开发框架，它之所以出名并不是因为IBM宣称投入开发的资金总数 —4千万美元，而是因为如此巨大的投入所带来的成果：一个成熟的、精心设计的以及可扩展的体系结构。
+
+
+ HSQLDB 【Java开源开源数据库】
+HSQLDB(Hypersonic SQL)是纯Java开发的关系型数据库,并提供JDBC驱动存取数据。支持ANSI-92 标准 SQL语法。而且他占的空间很小。大约只有160K,拥有快速的数据库引擎。
+
+
+ Liferay 【Java开源门户系统】
+代表了完整的J2EE应用，使用了Web、EJB以及JMS等技术，特别是其前台界面部分使用Struts 框架技术，基于XML的portlet配置文件可以自由地动态扩展，使用了Web Services来支持一些远程信息的获取，使用 Apahce Lucene实现全文检索功能。
+主要特点：
+  1、提供单一登陆接口，多认证模式（LDAP或SQL）;
+  2、管理员能通过用户界面轻松管理用户，组，角色；
+  3、用户能可以根据需要定制个性化的portal layout;
+  4、能够在主流的J2EE应用服务器上运行，如JBoss+Jetty/Tomcat,JOnAS；
+  5、支持主流的数据库，如PostgreSQL,MySQL；
+  6、使用了第三放的开源项目，如Hibernate, Lucene, Struts；
+  7、支持包括中文在内的多种语言；
+  8、采用最先进的技术 Java, EJB, JMS, SOAP, XML；
+
+
+ Lucene 【Java开源搜索引擎】
+Apache Lucene是一个基于Java全文搜索引擎，利用它可以轻易地为Java软件加入全文搜寻功能。Lucene的最主要工作是替文件的每一个字作索引，索引让搜寻的效率比传统的逐字比较大大提高，Lucen提供一组解读，过滤，分析文件，编排和使用索引的API，它的强大之处除了高效和简单外，是最重要的是使使用者可以随时应自已需要自订其功能。
+更多Lucene信息
+
+
+ iText 【Java开源PDF类库】
+iText是一个能够快速产生PDF文件的java类库。iText的java类对于那些要产生包含文本，表格，图形的只读文档是很有用的。它的类库尤其与java Servlet有很好的给合。使用iText与PDF能够使你正确的控制Servlet的输出。
+更多iText信息
+
+
+ Groovy 【Java开源动态语言】
+Groovy是一种基于JVM的敏捷开发语言，它结合了Python、Ruby和Smalltalk的许多强大的特性。 Groovy已在WebWork2中的应用。它可以被编译为标准的Java Bytecode。
+更多Groovy信息
+
+
+ JUnit 【Java开源测试工具】
+JUnit是由 Erich Gamma 和 Kent Beck 编写的一个回归测试框架（regression testing framework）。Junit测试是程序员测试，即所谓白盒测试，因为程序员知道被测试的软件如何（How）完成功能和完成什么样（What）的功能。Junit是一套框架，继承TestCase类，就可以用Junit进行自动测试了。
+
+  
+ DWR 【Java开源AJAX框架】
+DWR(Direct Web Remoting)是一个WEB远程调用框架.利用这个框架可以让AJAX开发变得很简单.利用DWR可以在客户端利用JavaScript直接调用服务端的Java方法并返回值给JavaScript就好像直接本地客户端调用一样(DWR根据Java类来动态生成JavaScrip代码).它的最新版本DWR0.6添加许多特性如:支持Dom Trees的自动配置,支持Spring(JavaScript远程调用spring bean),更好浏览器支持,还支持一个可选的commons-logging日记操作.

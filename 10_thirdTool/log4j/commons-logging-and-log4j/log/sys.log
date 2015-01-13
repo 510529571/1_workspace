@@ -1,0 +1,3 @@
+2014-11-14 16:12:27 DEBUG sys:12 - this is the ===debug=== level
+2014-11-14 16:12:27 INFO  sys:13 - this is the ===info=== level
+2014-11-14 16:12:27 ERROR sys:14 - this is the ===error=== level

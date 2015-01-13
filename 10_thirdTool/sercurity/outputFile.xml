@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xml>
+    <person id="123">
+        <name>huhanwei</name>
+    </person>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#123"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>NuhiGebdEhpqy5kBHRfmiYunqNc=</DigestValue></Reference></SignedInfo><SignatureValue>uf7zA6xC1E/jInvNlm4oeapNVGO3xyJ+nr2VA3JOvcr+viiRo85DdxbD1lhKHis6lEtNxEy1CyRl
+25aBLbhTIGcBuYoiRHHuOIMPpmlIAGLFDZmvWMVJTf/pDuAzsAd84sriolJtlyq0Jp74jzbxIKw7
+EWtyaAtLZ01Gk4IdPCk=</SignatureValue><KeyInfo><X509Data><X509SubjectName>O=Internet Widgits Pty Ltd,ST=Some-State,C=AU</X509SubjectName><X509Certificate>MIICATCCAWoCCQCmCxWj/N5EUjANBgkqhkiG9w0BAQUFADBFMQswCQYDVQQGEwJBVTETMBEGA1UE
+CBMKU29tZS1TdGF0ZTEhMB8GA1UEChMYSW50ZXJuZXQgV2lkZ2l0cyBQdHkgTHRkMB4XDTExMDkw
+NTE4NDIwNFoXDTIxMDkwMjE4NDIwNFowRTELMAkGA1UEBhMCQVUxEzARBgNVBAgTClNvbWUtU3Rh
+dGUxITAfBgNVBAoTGEludGVybmV0IFdpZGdpdHMgUHR5IEx0ZDCBnzANBgkqhkiG9w0BAQEFAAOB
+jQAwgYkCgYEA0lm18pYHUYCqK0cmyc373pqMnWASUJdsR7HGpuFU+SKaZmfM0yrK93/QFw74HruN
+YbEBbh1oy9L6E27daywFvSYSlWOv0A7pE1HS1J0okEZzHoLgqXeDPisGcwMx/YX6zNXi6JzgFv4X
+xdbLVSSPsd96Hzzzx7OTohJXnegTAy8CAwEAATANBgkqhkiG9w0BAQUFAAOBgQBpAJfDuLPr1hAH
+RSCiDPOQMvRW3/haZJ4qqxN4BAz50JgdmBoD64k3OB2IPn9HnIXsefzh8kFUjWsv+D8DP6d+kYoC
+s1FP11DXiZnuNa+veoaZFJccgKDItUPl+VNsun7TUve78mvl4MkGNudnh0LqOO60nwxt44TXW0+8
+P0trww==</X509Certificate></X509Data></KeyInfo></Signature></xml>

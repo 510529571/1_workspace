@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<settings>
+		<cacheEnabled>true</cacheEnabled>
+		<lazyLoadingEnabled>false</lazyLoadingEnabled>
+	</settings>
+
+    <api>
+        <paystarter>own.onw.hhw.impl.PayStarter</paystarter>
+    </api>
+
+    <returnMessages>
+        <message code="0000">操作成功</message>
+        <message code="1001">缺少必选的参数</message>
+        <message code="1002">非法参数</message>
+    </returnMessages>
+</configuration>

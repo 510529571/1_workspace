@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mapper namespace="select">
+    <select id="selectUser" reqType="own.hhw.User" respType="own.hhw.User">
+        SELECT
+        userName,
+        passWord
+        FROM myuser
+        WHERE username = ${userName}
+    </select>
+</mapper>

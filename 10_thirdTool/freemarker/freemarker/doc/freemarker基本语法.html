@@ -1,0 +1,22 @@
+<p>先来解释一下freemaker的基本语法了，<br>
+<font face="Courier New"><font color="#0000ff">&lt;# ... &gt;</font> 中存放所有freemaker的内容，之外的内容全部原样输出。<br>
+<font color="#0000ff">&lt;@ ... /&gt;</font> 是函数调用<br>
+两个定界符内的内容中，第一个符号表示指令或者函数名，其后的跟随参数。freemaker提供的控制包括如下：<br>
+<font color="#0000ff">&lt;#if condition&gt;&lt;#elseif condition&gt;&lt;#else&gt;</font> 条件判断<br>
+<font color="#0000ff">&lt;#list hash_or_seq as var&gt;</font> 遍历hash表或者collection（freemaker称作sequence）的成员<br>
+<font color="#0000ff">&lt;#macro name param1 param2 ... &gt;&lt;#nested param&gt;</font> 宏，无返回参数<br>
+<font color="#0000ff">&lt;#function name param1 param2&gt;&lt;#return val&gt;</font>函数，有返回参数<br>
+<font color="#0000ff">var?member_function(...)</font> 用函数对var进行转换，freemaker称为build-ins。实际内部实现类似member_function(var, ...)<br>
+<font color="#0000ff">stringA[M .. N]</font> 取子字符串，类似substring(stringA, M, N)<br>
+<font color="#0000ff">{key:value, key2:value2 ...}</font> 直接定义一个hash表<br>
+<font color="#0000ff">[item0, item1, item2 ...]</font> 直接定义一个序列<br>
+<font color="#0000ff">hash0[key0]</font> 存取hash表中key对应的元素<br>
+<font color="#0000ff">seq0[5]</font> 存取序列指定下标的元素<br>
+<font color="#0000ff">&lt;@function1 param0 param1 ... /&gt;</font> 调用函数function1<br>
+<font color="#0000ff">&lt;@macro0 param0 param1 ; nest_param0 nest_param1 ...&gt; nest_body &lt;</font></font><a><font color="#0000ff" face="Courier New">/@macro</font></a><font face="Courier New"><font color="#0000ff">&gt;</font> 调用宏，并处理宏的嵌套<br>
+<font color="#0000ff">&lt;#assign var = value &gt;</font> 定义变量并初始化<br>
+<font color="#0000ff">&lt;#local var = value&gt;</font> 在 macro 或者 function 中定义局部变量并初始化<br>
+<font color="#0000ff">&lt;#global var = value &gt;</font> 定义全局变量并初始化<br>
+<font color="#0000ff">${var}</font> 输出并替换为表达式的值<br>
+<font color="#0000ff">&lt;#visit xmlnode&gt;</font> 调用macro匹配xmlnode本身及其子节点<br>
+<font color="#0000ff">&lt;#recurse xmlnode&gt;</font> 调用macro匹配xmlnode的子节点</font></p>

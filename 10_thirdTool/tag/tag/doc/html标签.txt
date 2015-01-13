@@ -1,0 +1,6 @@
+<html:select   property= "deptid "   styleClass= "text "> 
+                                <logic:present   name= "deptList "> 
+                                        <html:option   value= " "> --«Î—°‘Ò≤ø√≈-- </html:option> 
+                                        <html:options   collection= "deptList "   property= "departid "   labelProperty= "departname "   /> 
+                                </logic:present> 
+                                </html:select> 
