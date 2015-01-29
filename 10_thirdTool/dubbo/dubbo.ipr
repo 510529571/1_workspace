@@ -43,6 +43,8 @@
       <list>
         <option value="$PROJECT_DIR$/dubboConsumer/pom.xml" />
         <option value="$PROJECT_DIR$/dubboServer/pom.xml" />
+        <option value="$PROJECT_DIR$/dubboServer2/pom.xml" />
+        <option value="$PROJECT_DIR$/dubboServer2_2/pom.xml" />
       </list>
     </option>
   </component>
@@ -172,6 +174,8 @@
       <module fileurl="file://$PROJECT_DIR$/dubboConsumer/dubboConsumer.iml" filepath="$PROJECT_DIR$/dubboConsumer/dubboConsumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubboInterface/dubboInterface.iml" filepath="$PROJECT_DIR$/dubboInterface/dubboInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubboServer/dubboServer.iml" filepath="$PROJECT_DIR$/dubboServer/dubboServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubboServer2/dubboServer2.iml" filepath="$PROJECT_DIR$/dubboServer2/dubboServer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubboServer2_2/dubboServer2_2.iml" filepath="$PROJECT_DIR$/dubboServer2_2/dubboServer2_2.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK">

@@ -7,7 +7,7 @@
     <file path="/pom.xml" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408590681217" ignored="false" />
     <file path="$PROJECT_DIR$/../../1_workspace_temp/0_hhw/hhw/log4j/src/com/sample1/Log4j2Sample.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408591765908" ignored="false" />
     <file path="$PROJECT_DIR$/../../1_workspace_temp/0_hhw/hhw/log4j/log4j.iml" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408591526315" ignored="false" />
-    <file path="/log4j.properties" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1420708332088" ignored="false" />
+    <file path="/log4j.properties" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1422353573441" ignored="false" />
     <file path="/fragment.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1415954102365" ignored="false" />
     <file path="$PROJECT_DIR$/../4_sercurity/Java-XML-Signature-master/src/test/resources/log4j.properties" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408588525000" ignored="false" />
     <file path="$PROJECT_DIR$/../4_sercurity/Java-XML-Signature-master/pom.xml" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408588449289" ignored="false" />
@@ -52,7 +52,7 @@
     <file path="/ProcessOpenAccountInfoAction.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408674881122" ignored="false" />
     <file path="F:/workspace/gfyh/module/05.wtgf/web/scripts/bankUtil.js" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408675735093" ignored="false" />
     <file path="/bankUtil.js" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408675239054" ignored="false" />
-    <file path="/a.dummy" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1420768122831" ignored="false" />
+    <file path="/a.dummy" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1422353425407" ignored="false" />
     <file path="F:/workspace/trunk_merge/module/05.wtgf/web/include/page/mainmenu.jsp" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408677830136" ignored="false" />
     <file path="F:/workspace/trunk_merge/module/05.wtgf/web/WEB-INF/applicationContext.xml" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408677830136" ignored="false" />
     <file path="F:/workspace/trunk_merge/module/05.wtgf/web/upheap.jsp" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408677830136" ignored="false" />
@@ -129,6 +129,9 @@
     <file path="/PrintServiceImpl.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1420709243457" ignored="false" />
     <file path="/servlet-context.xml" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1420711133287" ignored="false" />
     <file path="F:/workspace/firstpay/module/05.wtgf/src/serviceclient.xml" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1420767281926" ignored="false" />
+    <file path="$PROJECT_DIR$/commons-logging-and-log4j/log/sys.log" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1422353504415" ignored="false" />
+    <file path="F:/workspace/tonglian_duanxing/module/05.wtgf/web/WEB-INF/log4j.properties" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1422354201507" ignored="false" />
+    <file path="F:/workspace/tonglian_duanxing/module/05.wtgf/src/com/gffunds/controller/account/AccountsController.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1422353958200" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,6 +201,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="HelloCOM.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/src/main/java/com/HelloCOM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="13" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="log4j.properties" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j2/src/main/resources/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
@@ -246,7 +258,7 @@
       <file leaf-file-name="Hello.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/src/main/java/Hello.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="51" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
+            <state line="7" column="55" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -255,7 +267,7 @@
       <file leaf-file-name="log4j.properties" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/src/main/resources/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="933" selection-end="933" vertical-scroll-proportion="0.8130081">
+            <state line="7" column="16" selection-start="167" selection-end="170" vertical-scroll-proportion="0.37715518">
               <folding />
             </state>
           </provider>
@@ -265,15 +277,6 @@
         <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="26" column="11" selection-start="942" selection-end="942" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Log.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-sources.jar!/org/apache/commons/logging/Log.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="17" selection-start="2161" selection-end="2161" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -303,8 +306,8 @@
         <option value="$PROJECT_DIR$/commons-logging-and-log4j/src/main/java/own/HelloOWN.java" />
         <option value="$PROJECT_DIR$/commons-logging-and-log4j2/src/main/java/Hello.java" />
         <option value="$PROJECT_DIR$/commons-logging-and-log4j2/src/main/resources/log4j.properties" />
-        <option value="$PROJECT_DIR$/commons-logging-and-log4j/src/main/java/Hello.java" />
         <option value="$PROJECT_DIR$/commons-logging-and-log4j/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/commons-logging-and-log4j/src/main/java/Hello.java" />
       </list>
     </option>
   </component>
@@ -388,6 +391,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -864,10 +869,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="log4j" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="commons-logging-and-log4j" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -885,9 +914,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -1038,6 +1067,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1064,19 +1106,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1147,11 +1176,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2410072" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="25" y="267" width="1230" height="450" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24940048" sideWeight="0.28076464" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40647483" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1160,6 +1190,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25078124" sideWeight="0.67026377" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29016787" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31894484" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2512195" sideWeight="0.6810551" order="4" side_tool="false" content_ui="tabs" />
@@ -1172,9 +1203,7 @@
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47242206" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="25" y="267" width="1230" height="450" />
       <window_info id="IntelliJad Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29016787" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2512195" sideWeight="0.21342926" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="EJB" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2512195" sideWeight="0.59592324" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1245,11 +1274,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-sources.jar!/org/apache/commons/logging/impl/WeakHashtable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="110" column="19" selection-start="5867" selection-end="5867" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-sources.jar!/org/apache/commons/logging/impl/LogFactoryImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="268" column="17" selection-start="10538" selection-end="10538" vertical-scroll-proportion="0.0" />
@@ -1274,9 +1298,7 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-sources.jar!/org/apache/commons/logging/impl/LogKitLogger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="16" selection-start="3623" selection-end="3623" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="108" column="16" selection-start="3623" selection-end="3623" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-sources.jar!/org/apache/commons/logging/Log.java">
@@ -1314,9 +1336,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j2/src/main/resources/log4j.properties">
+    <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="898" selection-end="898" vertical-scroll-proportion="0.0">
+        <state line="26" column="11" selection-start="942" selection-end="942" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1328,23 +1350,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/src/main/java/Hello.java">
+    <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/src/main/java/com/HelloCOM.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="51" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
+        <state line="8" column="13" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/pom.xml">
+    <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j2/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="11" selection-start="942" selection-end="942" vertical-scroll-proportion="0.0">
+        <state line="24" column="0" selection-start="898" selection-end="898" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/src/main/java/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="55" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="933" selection-end="933" vertical-scroll-proportion="0.8130081">
+        <state line="7" column="16" selection-start="167" selection-end="170" vertical-scroll-proportion="0.37715518">
           <folding />
         </state>
       </provider>

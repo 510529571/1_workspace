@@ -5,7 +5,7 @@ import org.apache.commons.logging.LogFactory;
  * Created by tw on 4/5/14.
  */
 public class Hello {
-    private static Log log = LogFactory.getLog("sys");
+    private static Log log = LogFactory.getLog("logger.sys");
 
     public void log(){
         log.trace("this is the ===trace=== level");

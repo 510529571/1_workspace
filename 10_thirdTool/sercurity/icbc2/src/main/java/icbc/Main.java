@@ -13,5 +13,8 @@ public class Main {
         double cb=1.791;
         double f=1.3334;
         System.out.println((f-(ca+cb)/2)/f);
+
+        System.out.println("„Ά".getBytes()[0]);
+        System.out.println("Αυ".getBytes()[0]);
     }
 }

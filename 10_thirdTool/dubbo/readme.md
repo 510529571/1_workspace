@@ -1,0 +1,7 @@
+1.dubboInterface:接口规范
+dubboConsumer：dubbo客户端调用
+dubboServer：dubbo服务端
+dubboServer2：和dubboServer一样，但是提供不通的服务
+dubboServer2_2：和dubboServer2一样，提供相同的服务
+
+可以利用dubbo做分布式的开发，然后利用zookeeper统一服务出口，做服务一致化的处理

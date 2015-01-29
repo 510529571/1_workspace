@@ -16,6 +16,7 @@ import org.dom4j.Document;
 import org.dom4j.DocumentException;
 import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
+import sun.misc.BASE64Encoder;
 import sun.security.provider.SecureRandom;
 
 import java.io.*;
@@ -86,16 +87,29 @@ public class ICBCUtils {
         if (length.length() <= 10)
             length = ("0000000000").substring(0, 10 - length.length()) + length;//长度补齐10位，左补0
 
-        sign = length + xml + "ICBCCMP" + getrevFromBASE64(signature);
+        sign = length + xml + "ICBCCMP" + base64Encode(signature);
 
-        sign = getrevFromBASE64(sign.getBytes(ICBCUtils.ICBC_ENCODING));
+        sign = base64Encode(sign.getBytes(ICBCUtils.ICBC_ENCODING));
 
         System.out.println("签约数据：" + sign);
 
         return sign;
     }
 
-    public static String send(String xml, String sign) throws UnsupportedEncodingException, DocumentException {
+    // Base64编码和解码方法，可以根据自己使用的库重新编写
+    private static String base64Encode(String str) {
+        return base64Encode(str.getBytes());
+    }
+
+    private static String base64Encode(byte[] by) {
+        String result = null;
+        BASE64Encoder encoder = new BASE64Encoder();
+        result = encoder.encodeBuffer(by);
+        return result;
+    }
+
+
+    /*   public static String send(String xml, String sign) throws UnsupportedEncodingException, DocumentException {
         String retStr = null;
         byte[] data = xml.getBytes(ICBCUtils.ICBC_ENCODING);
 
@@ -156,8 +170,7 @@ public class ICBCUtils {
         }
 
         return retStr;
-    }
-/*
+    }*/
     public static String send(String xml, String sign) throws UnsupportedEncodingException, DocumentException {
         String retStr = null;
         byte[] data = xml.getBytes(ICBCUtils.ICBC_ENCODING);
@@ -196,7 +209,7 @@ public class ICBCUtils {
 
             ProtocolSocketFactory myhttps = new MySecureProtocolSocketFactory();
             Protocol.registerProtocol("https", new Protocol("https", myhttps, 443));
-            PostMethod mypost = new PostMethod("https://118.2.2.60:446");
+            PostMethod mypost = new PostMethod("https://118.2.2.14:8446");
             mypost.addParameter("Version", ICBC_NC_TRADE_VERSION);
             mypost.addParameter("TransCode", TransCode);
             mypost.addParameter("BankCode", BankCode);
@@ -224,7 +237,7 @@ public class ICBCUtils {
 
         return retStr;
 
-    }*/
+    }
 
     public static String getrevFromBASE64(byte[] s) {
         if (s == null)
