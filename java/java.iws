@@ -4,7 +4,7 @@
     <list default="true" id="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" name="Default" comment="" />
     <ignored path="java.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/pom.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419326874736" ignored="false" />
+    <file path="/pom.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423464344991" ignored="false" />
     <file path="$PROJECT_DIR$/../servlet/servlet/web/WEB-INF/web.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1417145666282" ignored="false" />
     <file path="$PROJECT_DIR$/../servlet/servlet/pom.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1417148003197" ignored="false" />
     <file path="$PROJECT_DIR$/../servlet/servlet/servlet.iml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1417148012717" ignored="false" />
@@ -27,12 +27,12 @@
     <file path="$PROJECT_DIR$/../dwr/dwr/dwr.iml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1417159177858" ignored="false" />
     <file path="/test_string.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418004535169" ignored="false" />
     <file path="F:/workspace/toujiyoudao/module/02.web/src/com/sinitek/sfm/paygate/web/utils/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418005157086" ignored="false" />
-    <file path="/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419315304081" ignored="false" />
+    <file path="/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423533393165" ignored="false" />
     <file path="F:/workspace/gfyh/module/05.wtgf/src/com/sinitek/newtrade/web/fundservice/alipay/ModifyDividendMethodAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418007247089" ignored="false" />
     <file path="F:/workspace/gfyh/module/05.wtgf/src/com/sinitek/newtrade/web/trade/gf/ModifyDividendMethodAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418007453417" ignored="false" />
     <file path="/ModifyDividendMethodAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418007448736" ignored="false" />
     <file path="/a.dummy" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419238390083" ignored="false" />
-    <file path="/fragment.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419302958532" ignored="false" />
+    <file path="/fragment.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601939073" ignored="false" />
     <file path="$PROJECT_DIR$/../1_struts2/struts2_boot/src/main/java/own/hhw/Download.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418114415461" ignored="false" />
     <file path="$PROJECT_DIR$/../5_struts1/struts1/pom.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418118018177" ignored="false" />
     <file path="$PROJECT_DIR$/../5_struts1/struts1/src/main/java/Download.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418114466873" ignored="false" />
@@ -46,18 +46,18 @@
     <file path="/JsonJava.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418352922542" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/src/test/java/ThreeDESTest.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418354308920" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/src/main/java/own/hhw/threeDES/ThreeDes.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418378953861" ignored="false" />
-    <file path="/ThreeDes.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418378953861" ignored="false" />
+    <file path="/ThreeDes.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423463005210" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/src/main/java/own/hhw/util/ThreeDesUtil.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418366306897" ignored="false" />
     <file path="/ThreeDesUtil.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418365881822" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/src/main/java/own/hhw/threeDES/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418367126832" ignored="false" />
-    <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/pom.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418371240030" ignored="false" />
-    <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/src/main/java/own/hhw/util/PublicTool.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418372890625" ignored="false" />
-    <file path="/PublicTool.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419384053450" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/pom.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423464353840" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/src/main/java/own/hhw/util/PublicTool.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423016251855" ignored="false" />
+    <file path="/PublicTool.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423016251856" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/src/main/java/own/hhw/util/PublicTool_temp.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418371679877" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/src/main/java/own/hhw/threeDES/main.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418377188805" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/src/main/java/own/hhw/threeDES/Main.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418377245042" ignored="false" />
     <file path="/Main.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418377202543" ignored="false" />
-    <file path="/Public.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419237798881" ignored="false" />
+    <file path="/Public.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422957779230" ignored="false" />
     <file path="/SftpUtil.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419242485694" ignored="false" />
     <file path="$MAVEN_REPOSITORY$/org/apache/struts/struts2-core/2.3.16.3/struts2-core-2.3.16.3.pom" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419302349507" ignored="false" />
     <file path="/struts2-core-2.3.16.3.pom" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419302348297" ignored="false" />
@@ -70,7 +70,7 @@
     <file path="/MyBigDecimal.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419314373146" ignored="false" />
     <file path="/Test_str.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419315135784" ignored="false" />
     <file path="/TestObject.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419317731498" ignored="false" />
-    <file path="/WhereThrow.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419317767897" ignored="false" />
+    <file path="/WhereThrow.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422600979520" ignored="false" />
     <file path="/Test_Date.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419322707710" ignored="false" />
     <file path="/Test_Operator.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419319428398" ignored="false" />
     <file path="/test22.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419319486034" ignored="false" />
@@ -112,7 +112,7 @@
     <file path="/client.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419409960200" ignored="false" />
     <file path="$PROJECT_DIR$/../../../2_工作资料/2_广发项目/1_支付渠道/12_工行nc转专线/签名验签接口及用例/APIforZHEJIANG/icbc/api/manage.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419411158265" ignored="false" />
     <file path="/manage.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419409843262" ignored="false" />
-    <file path="/LearnEncoding.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419413397828" ignored="false" />
+    <file path="/LearnEncoding.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423462680532" ignored="false" />
     <file path="/Test_HtmlEcoder.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419413508965" ignored="false" />
     <file path="F:/workspace/gfyh/module/05.wtgf/src/app-context-gffunds.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419470061141" ignored="false" />
     <file path="/ICBCUtils.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419488370746" ignored="false" />
@@ -120,6 +120,52 @@
     <file path="/Test_HttpClient.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419491688050" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/icbc2/src/main/java/com/sinitek/newtrade/pay/icbc/common/Test_HttpsUrlConnection.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419491498645" ignored="false" />
     <file path="/Test_HttpsUrlConnection.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419491325815" ignored="false" />
+    <file path="F:/workspace/shengchan_bug/02.project/module/04.wtbase/03.pay/13.allinpay/src/com/sinitek/newtrade/pay/allinpay/AccountVerifyDataFlowResolver.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422603001904" ignored="false" />
+    <file path="/AccountVerifyDataFlowResolver.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601385543" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/own/hhw/exception/WhoCalled2.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601942002" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/own/hhw/exception/MyException.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601669259" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/own/hhw/exception/ExceptionTest.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601942002" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/own/hhw/exception/MyRuntimeException.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601669259" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/own/hhw/exception/WhereThrow.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601942002" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/own/hhw/exception/TestNullPointerException.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601942002" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/own/hhw/exception/WhoCalled.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601942002" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/pom.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601716418" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/own/hhw/exception/test/WhereThrow.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601926272" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/own/hhw/exception/test/TestNullPointerException.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601926272" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/own/hhw/exception/test/WhoCalled2.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601926272" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/own/hhw/exception/test/WhoCalled.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601926272" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/own/hhw/exception/test/ExceptionTest.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601926272" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/own/hhw/exception/test/test/WhereThrow.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601857409" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/own/hhw/exception/test/test/TestNullPointerException.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601857409" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/own/hhw/exception/test/test/WhoCalled2.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601857409" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/own/hhw/exception/test/test/WhoCalled.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601857409" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/own/hhw/exception/test/test/ExceptionTest.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601857409" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/WhereThrow.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601918304" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/TestNullPointerException.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601918304" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/WhoCalled2.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601918304" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/WhoCalled.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601918304" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/main/java/ExceptionTest.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601918304" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/test/java/own/hhw/exception/test/WhereThrow.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601954918" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/test/java/own/hhw/exception/test/WhoCalled2.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601954918" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/test/java/own/hhw/exception/test/TestNullPointerException.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601954918" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/test/java/own/hhw/exception/test/WhoCalled.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601954918" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/test/java/own/hhw/exception/test/ExceptionTest.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601954918" ignored="false" />
+    <file path="F:/workspace/shengchan_bug/02.project/build/src/Sinitek.NewTrade.Pay.AllInPay_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/allinpay/AccountVerifyDataFlowResolver.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422603041401" ignored="false" />
+    <file path="F:/workspace/shengchan_bug/02.project/build/bin/Sinitek.NewTrade.Pay.AllInPay_0.9.0.jar!/com/sinitek/newtrade/pay/allinpay/common/AllInPayUtils.class" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422603041401" ignored="false" />
+    <file path="F:/workspace/firstpay/module/06.wtmanage/src/com/sinitek/newtrade/manage/paychannel/MyPayLiqDWR.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422953451548" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/src/test/java/use/MyTest.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422953505581" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/src/main/java/own/hhw/sercurity/AES.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422954679906" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/src/main/java/own/hhw/util/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423016166961" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/src/main/java/own/hhw/threeDES/ThreeDesUtilBK2.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423462322913" ignored="false" />
+    <file path="/ThreeDesUtilBK2.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423452782052" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/src/main/java/own/hhw/sercurity/ThreeDes.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423463316633" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/Test/test/src/main/java/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423533395338" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/Test/test/src/main/java/String.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423476368437" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/Test/test/src/main/java/lang/Object.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423476405599" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/Test/test/src/main/java/java/lang/Object.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423477187197" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/Test/test/src/main/java/java/lang/Class.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423477217037" ignored="false" />
+    <file path="/Class.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423476554466" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/Test/test/src/main/java/java/lang/String.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423532953169" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +180,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -171,6 +216,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -180,69 +226,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Test_Stream.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/Test_Stream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="53" selection-start="718" selection-end="735" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Urlstream.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/Urlstream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="56" selection-start="1575" selection-end="1578" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyConsole.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/MyConsole.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="14" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test_String.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/Test_String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="33" selection-start="1679" selection-end="1704" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1999#2007#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JDBConnection.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/JDBConnection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="13" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="List2Josn.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/List2Josn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="55" selection-start="730" selection-end="730" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LearnEncoding.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/LearnEncoding.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="45" selection-start="502" selection-end="502" vertical-scroll-proportion="0.48672566">
+            <state line="59" column="8" selection-start="1597" selection-end="2083" vertical-scroll-proportion="0.28320312">
               <folding />
             </state>
           </provider>
@@ -251,7 +238,60 @@
       <file leaf-file-name="Test_HtmlEcoder.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/Test_HtmlEcoder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="18" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
+            <state line="14" column="24" selection-start="295" selection-end="299" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="javaRSA.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encrypt/javaRSA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="13" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1315#1331#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreeDES.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encrypt/ThreeDES/ThreeDES.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="13" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="json.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/json.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="34" selection-start="1064" selection-end="1064" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Public.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/Public.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="343" column="0" selection-start="10143" selection-end="10143" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -285,8 +325,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/math/Test_BigDecimal.java" />
-        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/MyObj.java" />
         <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/Test_StringWriter.java" />
         <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/grammar/Test_final.java" />
         <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/Test_Date.java" />
@@ -299,8 +337,10 @@
         <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/ObjectStreamWriteAndRead.java" />
         <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/MyConsole.java" />
         <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/Urlstream.java" />
-        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/LearnEncoding.java" />
         <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/Test_HtmlEcoder.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/exception/WhereThrow.java" />
+        <option value="$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/Public.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/LearnEncoding.java" />
       </list>
     </option>
   </component>
@@ -393,7 +433,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -401,518 +440,21 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myTool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myTool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myTool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myTool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fileUpload" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hhw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Zhuanshi.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hhw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hhw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hhw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ObjectStreamWriteAndRead.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hhw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stream" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hhw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hhw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="junit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hhw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fileDownload" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hhw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="encoding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -928,12 +470,12 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -943,43 +485,15 @@
       <recent name="F:\work\3_project\1_workspace\java\java\web\WEB-INF" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Test_HtmlEcoder.test1">
-    <configuration default="false" name="Test_Stream.test1" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="own.hhw.lang.io.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="java" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="own.hhw.lang.io" />
-      <option name="MAIN_CLASS_NAME" value="own.hhw.lang.io.Test_Stream" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="List2Josn" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="JUnit.LearnEncoding.testByte4hex">
+    <configuration default="false" name="Public" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="own.hhw.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="own.hhw.util.List2Josn" />
+      <option name="MAIN_CLASS_NAME" value="own.hhw.util.Public" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -990,11 +504,17 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="myTool" />
       <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="LearnEncoding.test1" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="LearnEncoding.testByte" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="own.hhw.app.encoding.*" />
@@ -1006,7 +526,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="own.hhw.app.encoding" />
       <option name="MAIN_CLASS_NAME" value="own.hhw.app.encoding.LearnEncoding" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="METHOD_NAME" value="testByte" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -1022,7 +542,7 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Test_HtmlEcoder.test1" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="LearnEncoding.test42" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="own.hhw.app.encoding.*" />
@@ -1033,8 +553,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="own.hhw.app.encoding" />
-      <option name="MAIN_CLASS_NAME" value="own.hhw.app.encoding.Test_HtmlEcoder" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="own.hhw.app.encoding.LearnEncoding" />
+      <option name="METHOD_NAME" value="test42" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -1050,7 +570,29 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="LearnEncoding.testInteger" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="LearnEncoding" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="own.hhw.app.encoding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="own.hhw.app.encoding.LearnEncoding" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LearnEncoding.testByte4hex" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="own.hhw.app.encoding.*" />
@@ -1062,7 +604,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="own.hhw.app.encoding" />
       <option name="MAIN_CLASS_NAME" value="own.hhw.app.encoding.LearnEncoding" />
-      <option name="METHOD_NAME" value="testInteger" />
+      <option name="METHOD_NAME" value="testByte4hex" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -1114,19 +656,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1153,6 +682,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1192,19 +734,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.Test_Stream.test1" />
-      <item index="1" class="java.lang.String" itemvalue="Application.List2Josn" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.LearnEncoding.test1" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.Test_HtmlEcoder.test1" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.LearnEncoding.testInteger" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Public" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.LearnEncoding.testByte" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.LearnEncoding.test42" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LearnEncoding" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.LearnEncoding.testByte4hex" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.Test_HtmlEcoder.test1" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.LearnEncoding.testInteger" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.LearnEncoding.test1" />
-        <item index="3" class="java.lang.String" itemvalue="Application.List2Josn" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.Test_Stream.test1" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.LearnEncoding.testByte4hex" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LearnEncoding" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.LearnEncoding.test42" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.LearnEncoding.testByte" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Public" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1249,15 +791,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297362" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2495935" sideWeight="0.6738609" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39928058" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1271,11 +812,12 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33089432" sideWeight="0.78297365" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33495936" sideWeight="0.79256594" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20743406" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33495936" sideWeight="0.7673861" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2326139" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297362" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1344,81 +886,33 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/stream/Urlstream.java">
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/junit/SimpleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0">
+        <state line="6" column="13" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/math/Test_Math.java">
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="19" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/ObjectStreamWriteAndRead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="15" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/MyFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="37" selection-start="1610" selection-end="1610" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/src.zip!/java/io/BufferedReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="13" selection-start="1415" selection-end="1415" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/src.zip!/java/io/InputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="28" selection-start="798" selection-end="798" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#15310#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/Test_Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="53" selection-start="718" selection-end="735" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/Urlstream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="56" selection-start="1575" selection-end="1578" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="47" column="56" selection-start="1575" selection-end="1578" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/MyConsole.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="14" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="6" column="14" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/Test_String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="33" selection-start="1679" selection-end="1704" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1999#2007#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="54" column="33" selection-start="1679" selection-end="1704" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/JDBConnection.java">
@@ -1435,13 +929,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/junit/SimpleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="13" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
@@ -1449,16 +936,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="34" selection-start="1064" selection-end="1064" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/Public.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="343" column="0" selection-start="10143" selection-end="10143" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/json.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/Test_HtmlEcoder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="18" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
+        <state line="14" column="24" selection-start="295" selection-end="299" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encrypt/ThreeDES/ThreeDES.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encrypt/javaRSA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="13" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1315#1331#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/LearnEncoding.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="45" selection-start="502" selection-end="502" vertical-scroll-proportion="0.48672566">
+        <state line="59" column="8" selection-start="1597" selection-end="2083" vertical-scroll-proportion="0.28320312">
           <folding />
         </state>
       </provider>

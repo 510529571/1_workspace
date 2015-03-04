@@ -21,7 +21,7 @@ import java.util.TimeZone;
  * @author
  * @class Public
  * @description
- * @copyRight copyright(c) 2013 å¹¿ä¸œå—èˆªæ˜“ç½‘é€šç”µå­å•†åŠ¡æœ‰é™å…¬å¸,Rights Reserved
+ * @copyRight copyright(c) 2013 ¹ã¶«ÄÏº½Ò×ÍøÍ¨µç×ÓÉÌÎñÓĞÏŞ¹«Ë¾,Rights Reserved
  * @time Mar 21, 2013 11:41:12 AM
  */
 public class Public {
@@ -32,13 +32,13 @@ public class Public {
     public static String GetIpAdd() {
         try {
             return InetAddress.getLocalHost().getHostAddress();
-        } catch (UnknownHostException e) {// TODO è‡ªåŠ¨ç”Ÿæˆ catch å—
+        } catch (UnknownHostException e) {// TODO ×Ô¶¯Éú³É catch ¿é
             return e.getMessage();// e.printStackTrace();
         }
     }
 
     /**
-     * è·å–å½“å‰æ—¶é—´ï¼Œè€Œä¸”æ˜¯åŠ ä¸Šäº†æ—¶åŒºè®¾ç½®çš„
+     * »ñÈ¡µ±Ç°Ê±¼ä£¬¶øÇÒÊÇ¼ÓÉÏÁËÊ±ÇøÉèÖÃµÄ
      *
      * @return
      */
@@ -65,14 +65,14 @@ public class Public {
         try {
             dataTmp = sdfIn.parse(str);
         } catch (ParseException e) {
-            // TODO è‡ªåŠ¨ç”Ÿæˆ catch å—
+            // TODO ×Ô¶¯Éú³É catch ¿é
             e.printStackTrace();
         }
         return dataTmp;
     }
 
     /**
-     * æ—¥æœŸå¢å‡å¤©æ•°k,æ­£æ•°ä¸ºå¢,è´Ÿæ•°ä¸ºå‡
+     * ÈÕÆÚÔö¼õÌìÊık,ÕıÊıÎªÔö,¸ºÊıÎª¼õ
      */
     public static Date addDate(int k) {
         Calendar cal = Calendar.getInstance();
@@ -84,7 +84,7 @@ public class Public {
 
     /**
      * @param date
-     * @param format æ ¼å¼ yyyyMMdd HHmmssms è‡ªå·±ä»»æ„å»é€‰
+     * @param format ¸ñÊ½ yyyyMMdd HHmmssms ×Ô¼ºÈÎÒâÈ¥Ñ¡
      * @return
      */
     public static String date2String(Date date, String format) {
@@ -94,7 +94,7 @@ public class Public {
 
     /**
      * @param dateStr
-     * @param format  æ ¼å¼ yyyyMMdd HHmmssms è‡ªå·±ä»»æ„å»é€‰
+     * @param format  ¸ñÊ½ yyyyMMdd HHmmssms ×Ô¼ºÈÎÒâÈ¥Ñ¡
      * @return
      */
     public static Date string2Date(String dateStr, String format) {
@@ -110,9 +110,9 @@ public class Public {
     }
 
     /**
-     * è·å–æ–‡ä»¶çš„ç»å¯¹è·¯å¾„
+     * »ñÈ¡ÎÄ¼şµÄ¾ø¶ÔÂ·¾¶
      *
-     * @param fileName /file.txt  è¿™ç§æ ¼å¼
+     * @param fileName /file.txt  ÕâÖÖ¸ñÊ½
      * @return
      */
     public static String getSourcePath(String fileName) {
@@ -120,9 +120,9 @@ public class Public {
     }
 
     public void testGetIpAdd() throws IOException {
-//		System.out.println(Public.date2String(Public.getNowDate(), "ã€yyyyå¹´MMæœˆddæ—¥ HHæ—¶mmåˆ†ssç§’msæ¯«ç§’ã€‘"));
+//		System.out.println(Public.date2String(Public.getNowDate(), "¡¾yyyyÄêMMÔÂddÈÕ HHÊ±mm·ÖssÃëmsºÁÃë¡¿"));
 
-        //TODO(karl) ä¸ºä»€ä¹ˆURLå¯¹è±¡çš„æ–‡ä»¶è·¯å¾„æ˜¯null
+        //TODO(karl) ÎªÊ²Ã´URL¶ÔÏóµÄÎÄ¼şÂ·¾¶ÊÇnull
         //System.out.println(URL.class.getResource(""));
 
         System.out.println(this.getClass().getResource("../Thread").getPath());
@@ -130,7 +130,7 @@ public class Public {
     }
 
     /**
-     * ä»propertiesæ–‡ä»¶è¯»å–æ•°æ®
+     * ´ÓpropertiesÎÄ¼ş¶ÁÈ¡Êı¾İ
      *
      * @param key
      * @param proPath
@@ -163,7 +163,7 @@ public class Public {
         FileOutputStream fos = null;
         try {
             fos = new FileOutputStream(proPath);
-            prop.store(fos, "é‡Œç¨‹å¯†ç ");
+            prop.store(fos, "Àï³ÌÃÜÂë");
         } catch (IOException e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
@@ -196,18 +196,18 @@ public class Public {
     }
 
     public static void writeLog(String userid, String logStr) {
-        // System.out.println("ã€"+userid+"ã€‘ã€"+Public.DateTOString(Public.GetNewDate())+"ã€‘"+logStr);
+        // System.out.println("¡¾"+userid+"¡¿¡¾"+Public.DateTOString(Public.GetNewDate())+"¡¿"+logStr);
     }
 
     /**
-     * æ¯”è¾ƒæŒ‡å®šæ—¶é—´ä¸å½“å‰æ—¶é—´ç›¸å·®å¤šå°‘åˆ†é’Ÿ
+     * ±È½ÏÖ¸¶¨Ê±¼äÓëµ±Ç°Ê±¼äÏà²î¶àÉÙ·ÖÖÓ
      */
     public static long compareTime(Date time) {
         return (getNowDate().getTime() - time.getTime()) / (1000 * 60);
     }
 
     /**
-     * ç¡®å®šæ˜¯å¦ä»Šå¤©çš„æ—¥æœŸ
+     * È·¶¨ÊÇ·ñ½ñÌìµÄÈÕÆÚ
      */
     public static boolean isToday(Date date) {
         if (date == null) return false;
@@ -216,7 +216,7 @@ public class Public {
 
 
     /**
-     * å°†æ•´æ•°çš„ä¸ªä½å››èˆäº”å…¥ï¼Œå¦‚525è¦å˜æˆ530
+     * ½«ÕûÊıµÄ¸öÎ»ËÄÉáÎåÈë£¬Èç525Òª±ä³É530
      *
      * @return
      */
@@ -230,8 +230,8 @@ public class Public {
     }
 
     /**
-     * @param cls ä¸€ä¸ªå¯¹è±¡çš„Classå±æ€§
-     * @return è¿™ä¸ªç±»çš„classæ–‡ä»¶ä½ç½®çš„ç»å¯¹è·¯å¾„ã€‚ å¦‚æœæ²¡æœ‰è¿™ä¸ªç±»çš„å®šä¹‰ï¼Œåˆ™è¿”å›nullã€‚
+     * @param cls Ò»¸ö¶ÔÏóµÄClassÊôĞÔ
+     * @return Õâ¸öÀàµÄclassÎÄ¼şÎ»ÖÃµÄ¾ø¶ÔÂ·¾¶¡£ Èç¹ûÃ»ÓĞÕâ¸öÀàµÄ¶¨Òå£¬Ôò·µ»Ønull¡£
      */
     public String getPathFromClass(Class cls) throws IOException {
         String path = null;
@@ -259,7 +259,7 @@ public class Public {
     }
 
     /**
-     * è·å–ç±»çš„classæ–‡ä»¶ä½ç½®çš„URLã€‚è¿™ä¸ªæ–¹æ³•æ˜¯æœ¬ç±»æœ€åŸºç¡€çš„æ–¹æ³•ï¼Œä¾›å…¶å®ƒæ–¹æ³•è°ƒç”¨ã€‚
+     * »ñÈ¡ÀàµÄclassÎÄ¼şÎ»ÖÃµÄURL¡£Õâ¸ö·½·¨ÊÇ±¾Àà×î»ù´¡µÄ·½·¨£¬¹©ÆäËü·½·¨µ÷ÓÃ¡£
      */
     public URL getClassLocationURL(final Class cls) {
         if (cls == null) {
@@ -301,7 +301,7 @@ public class Public {
     }
 
     /**
-     * å°†å­—ç¬¦ä¸²ç”¨MD5è¿›è¡Œç¼–ç ,å¾—åˆ°32ä½å­—ç¬¦ä¸²
+     * ½«×Ö·û´®ÓÃMD5½øĞĞ±àÂë,µÃµ½32Î»×Ö·û´®
      *
      * @param str
      * @return
@@ -325,7 +325,7 @@ public class Public {
     }
 
     /**
-     * å°†å­—ç¬¦ä¸²ç”¨MD5è¿›è¡Œç¼–ç ,å¾—åˆ°16ä½å­—ç¬¦ä¸²
+     * ½«×Ö·û´®ÓÃMD5½øĞĞ±àÂë,µÃµ½16Î»×Ö·û´®
      *
      * @param str
      * @return
@@ -338,7 +338,9 @@ public class Public {
         Public p = new Public();
         System.out.println(p.numF("159"));
 
-        System.out.println(Public.getMD5("123"));
+        System.out.println(Public.getMD5("xndsu61"));
         //System.out.println(compareTime(new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").parse("2010-07-23 15:42:00")));
+
+
     }
 }

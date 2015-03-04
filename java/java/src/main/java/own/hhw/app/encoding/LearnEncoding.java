@@ -22,12 +22,16 @@ public class LearnEncoding {
 
     @Test
     public void testByte() throws UnsupportedEncodingException {
-        //计算机能认识的只有1和0的字节流，而我们在记录的时候可以用二进制，十进制，十六进制等去表示字节流
+        //计算机能认识的只有1和0的字节流，而我们在记录的时候可以用二进制，八进制，十进制，十六进制等去表示字节流
+        //注：java中只能用十进制，八进制，十六进制表示一个数
+        // 1011 1110 0110 =be6
+        // 101 111 100 110=5746
         byte b4=(byte)-129;//小于-128就需要byte强制转型
-        byte b1=-128;   //十进制表示法
-        byte b2=127;   //十进制表示法
+        byte b1=-128;   //十进制表示法,二进制：1000 0000 hhw:task 还是没闹明白-128的二进制怎么是这样子的
+        byte b2=127;   //十进制表示法，二进制：0111 1111
         byte b5=(byte)128;//超过127，就需要用byte强制转型了，还不知道为什么
         byte b3=0x7F; //16进制表示法
+        byte b6=0177; //8进制表示法
 
         byte[] bs = "汉".getBytes("gbk");
         StringBuilder sb = new StringBuilder("");
@@ -37,11 +41,34 @@ public class LearnEncoding {
             sb.append(BCD_LOOKUP[(b & 0xF)]);
         }
         System.out.println(sb.toString());
+
     }
+
+    @Test
+    public void test42() throws UnsupportedEncodingException {
+
+    }
+
 
     @Test
     public void test1() throws UnsupportedEncodingException {
         System.out.println("好".getBytes("utf-8")[1]);
+    }
+
+    @Test
+    public void testByte4hex(){
+        System.out.println(168>>>4&0xf);
+        System.out.println(Integer.toHexString(0xf&168));
+        System.out.println(Integer.toOctalString(0xff & 168));
+        System.out.println("\u6c49");
+
+        System.out.println(Integer.toHexString(169>>>4&0xf));
+        System.out.println(Integer.toHexString(169&0xf));
+
+        System.out.println(Integer.toHexString(169&0xFF));
+        System.out.println(Integer.parseInt("a9",16));
+
+        System.out.println(Integer.toBinaryString(0xa9));
     }
 
     //hhw:question 编码，解码问题
@@ -55,11 +82,11 @@ public class LearnEncoding {
     第二种呢，我还没弄明白是这么回事，但是肯定进行了转码，也就是说改变了数据的存储格式
     */
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws UnsupportedEncodingException {
 
 //        try {
 
-        byte[] bs= new byte[0];
+     /*   byte[] bs= new byte[0];
         try {
             bs = "严".getBytes("gbk");
         } catch (UnsupportedEncodingException e) {
@@ -68,7 +95,7 @@ public class LearnEncoding {
         for(byte b:bs)
             {
                 System.out.println(b);
-            }
+            }*/
 //            byte[] b = "A".getBytes("IBM277");
 //            StringBuffer sb = new StringBuffer();
 //            for (int i = 0; i < b.length; i++)

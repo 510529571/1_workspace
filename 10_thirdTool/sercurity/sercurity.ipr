@@ -46,11 +46,12 @@
     <file url="file://$PROJECT_DIR$/Java-XML-Signature-master/src/test/resources/dpmerkey003480202006443.cer" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Java-XML-Signature-master/src/test/resources/log4j.properties" charset="GBK" />
     <file url="file://$PROJECT_DIR$/icbc2/src/main/java/com/sinitek/newtrade/pay/icbc/common/MySecureProtocolSocketFactory.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/threeDES/ThreeDes.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/sercurity/ThreeDes.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/threeDES/ThreeDesUtilBK2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/util/PublicTool.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/mySercurity/src/test/java/AESTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/mySercurity/src/test/java/CipherTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/mySercurity/src/test/java/RSATest.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/mySercurity/src/test/java/ThreeDESTest.java" charset="UTF-8" />
   </component>
   <component name="EntryPointsManager">
     <entry_points version="2.0" />

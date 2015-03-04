@@ -1,7 +1,6 @@
 package own.hhw.threeDES;
 
 import org.apache.commons.lang.ArrayUtils;
-import own.hhw.util.PublicTool;
 
 import java.io.*;
 

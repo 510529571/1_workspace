@@ -1,6 +1,8 @@
-package own.hhw.lang.exception;
+package own.hhw.exception.test;
 
 import org.junit.Test;
+import own.hhw.exception.MyException;
+import own.hhw.exception.MyRuntimeException;
 
 //hhw:tag return和throw都有跳出方法的功能，而且return和throw都应该是一个分支的最后一条语句
 public class WhereThrow {
@@ -14,7 +16,9 @@ public class WhereThrow {
             wt.function(1);
         } catch (MyException e) {
             e.printStackTrace();
-        } finally {
+        } catch (Exception ex){
+            ex.printStackTrace();
+        }finally {
             System.out.println("这里一定会执行！");
         }
         System.out.println("这里会被执行");
@@ -34,7 +38,7 @@ public class WhereThrow {
         } finally {
             System.out.println("这里一定会执行！");
         }
-        System.out.println("这里会被执行!");    //当catch中有throw或return语句时不执行这里
+        System.out.println("这里不会被执行!");    //当catch中有throw或return语句时不执行这里
     }
 
     public void function(int s) throws MyException {

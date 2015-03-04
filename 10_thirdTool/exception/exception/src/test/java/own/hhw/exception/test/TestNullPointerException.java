@@ -1,4 +1,4 @@
-package own.hhw.lang.exception;
+package own.hhw.exception.test;
 
 import org.junit.Test;
 

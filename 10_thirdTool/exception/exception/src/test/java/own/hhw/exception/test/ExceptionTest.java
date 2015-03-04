@@ -1,4 +1,4 @@
-package own.hhw.lang.exception;
+package own.hhw.exception.test;
 
 /**
  * Created with IntelliJ IDEA.

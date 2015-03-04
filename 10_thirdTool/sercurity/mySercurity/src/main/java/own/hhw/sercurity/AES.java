@@ -7,38 +7,34 @@ import javax.crypto.*;
 import javax.crypto.spec.SecretKeySpec;
 
 /**
- *加密解密
+ * 加密解密
  */
-public class AES
-{
+public class AES {
 
-	public static final String KEY_ALGORITHM = "AES";
-	public static final String CIPHER_ALGORITHM = "AES/ECB/PKCS5Padding";
+    public static final String KEY_ALGORITHM = "AES";
+    public static final String CIPHER_ALGORITHM = "AES/ECB/PKCS5Padding";
 
-	private static Key toKey(byte key[])
-		throws Exception
-	{
-		SecretKey secretKey = new SecretKeySpec(key, KEY_ALGORITHM);
-		return secretKey;
-	}
+    private static Key toKey(byte key[])
+            throws Exception {
+        SecretKey secretKey = new SecretKeySpec(key, KEY_ALGORITHM);
+        return secretKey;
+    }
 
-	public static byte[] decrypt(byte data[], byte key[])
-		throws Exception
-	{
-		Key k = toKey(key);
-		Cipher cipher = Cipher.getInstance(CIPHER_ALGORITHM);
-		cipher.init(2, k);
-		return cipher.doFinal(data);
-	}
+    public static byte[] decrypt(byte data[], byte key[])
+            throws Exception {
+        Key k = toKey(key);
+        Cipher cipher = Cipher.getInstance(CIPHER_ALGORITHM);
+        cipher.init(2, k);
+        return cipher.doFinal(data);
+    }
 
-	public static byte[] encrypt(byte data[], byte key[])
-		throws Exception
-	{
-		Key k = toKey(key);
-		Cipher cipher = Cipher.getInstance(CIPHER_ALGORITHM);
-		cipher.init(1, k);
-		return cipher.doFinal(data);
-	}
+    public static byte[] encrypt(byte data[], byte key[])
+            throws Exception {
+        Key k = toKey(key);
+        Cipher cipher = Cipher.getInstance(CIPHER_ALGORITHM);
+        cipher.init(1, k);
+        return cipher.doFinal(data);
+    }
 
     /**
      * 生成秘钥

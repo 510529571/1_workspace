@@ -1,7 +1,6 @@
 package use;
 
 import org.junit.Test;
-import own.hhw.util.ThreeDesUtil;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -33,25 +32,6 @@ public class MyTest {
         Map<String, String> sPara_resp = AESUtils.deal(sPara);
     }
 
-    /**
-     * 48Œª3desº”√‹≤‚ ‘
-     *
-     * @throws Exception
-     */
-    @Test
-    public void ThreeDES() throws Exception {
-        String key = "7MtrWM4ZeciAV49DrVfcHP4l9H8jSVLv";
-        String origPath = "F:\\plain1.txt";
-
-        String encryptPath = "F:\\";
-        String fileName = "ser.txt";
-
-        String targetPath = "F:\\";
-        String plainName = "plain2.txt";
-
-        ThreeDesUtil.encryptFileInHexBy3Des(origPath, encryptPath, fileName, key);
-        ThreeDesUtil.decryptFileInHexBy3Des(encryptPath + fileName, targetPath, plainName, key);
-    }
 
     @Test
     public void testURL() {

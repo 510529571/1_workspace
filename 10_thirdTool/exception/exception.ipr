@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactManager">
-    <artifact type="exploded-war" name="java:war exploded">
-      <output-path>$PROJECT_DIR$/out/artifacts/java_war_exploded</output-path>
-      <root id="root">
-        <element id="javaee-facet-resources" facet="java/web/Web" />
-        <element id="directory" name="WEB-INF">
-          <element id="directory" name="classes">
-            <element id="module-output" name="java" />
-          </element>
-        </element>
-      </root>
-    </artifact>
-  </component>
   <component name="CompilerConfiguration">
     <option name="DEFAULT_COMPILER" value="Javac" />
     <resourceExtensions />
@@ -35,8 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="java" />
-        <module name="myTool" />
+        <module name="exception" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.6" />
@@ -48,24 +34,17 @@
     <option name="SKIP_IMPORT_STATEMENTS" value="false" />
   </component>
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
-    <file url="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/Test_String.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/Zhuanshi.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/grammar/Test_static.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/yinyon/Test_Object.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/Public.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/exception/src/main/java/own/hhw/exception/test/ExceptionTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/exception/src/main/java/own/hhw/exception/test/WhereThrow.java" charset="GBK" />
   </component>
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
-  <component name="GradleSettings">
-    <option name="preferLocalInstallationToWrapper" value="true" />
-  </component>
-  <component name="IdProvider" IDEtalkID="F4791887333B8BBD3AEE5FEA670E8763" />
+  <component name="IdProvider" IDEtalkID="599B1AB2C4AB8F5769492E02B07089E5" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/java/pom.xml" />
-        <option value="$PROJECT_DIR$/myTool/pom.xml" />
+        <option value="$PROJECT_DIR$/exception/pom.xml" />
       </list>
     </option>
   </component>
@@ -192,8 +171,7 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/myTool/myTool.iml" filepath="$PROJECT_DIR$/myTool/myTool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK">
@@ -221,50 +199,6 @@
     <mapping directory="" vcs="" />
   </component>
   <component name="libraryTable">
-    <library name="Maven: com.jcraft:jsch:0.1.44-1">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/jcraft/jsch/0.1.44-1/jsch-0.1.44-1.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/jcraft/jsch/0.1.44-1/jsch-0.1.44-1-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/jcraft/jsch/0.1.44-1/jsch-0.1.44-1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: commons-lang:commons-lang:2.6">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: commons-logging:commons-logging:1.1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: javax.servlet:servlet-api:2.5">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5-sources.jar!/" />
-      </SOURCES>
-    </library>
     <library name="Maven: junit:junit:4.11">
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/" />

@@ -19,7 +19,18 @@ public class PublicTool {
     }
 
     public static void main(String[] args) throws IOException {
-        new File("F:\\sdf\\sss\\123.txt").getParentFile().mkdirs();
-        new File("F:\\sdf\\sss\\123.txt").createNewFile();
+       /* new File("F:\\sdf\\sss\\123.txt").getParentFile().mkdirs();
+        new File("F:\\sdf\\sss\\123.txt").createNewFile();*/
+
+        //hhw:task 和java项目，LearnEncoding类，testByte方法输出的字节码不一样，很奇怪
+        byte[] bs = "汉".getBytes("gbk");
+        StringBuilder sb = new StringBuilder("");
+        System.out.println(bs.length);
+        for(byte b:bs)
+        {
+            sb.append(Integer.toHexString(b >>> 4 & 0xF));
+            sb.append(Integer.toHexString(b & 0xF));
+        }
+        System.out.println(sb.toString());
     }
 }
