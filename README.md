@@ -26,4 +26,8 @@ workspace
 
 10_thirdTool
 第三方工具包的使用
+包括：
+cached,dubbo,	dwr,exception,freemarker,htmlparser,json,
+log4j,login,mq,netTransfers,pdf,poi,sercurity,servlet,
+sftp,socket,tag,thread,webService,xml
 
