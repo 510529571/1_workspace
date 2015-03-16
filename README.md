@@ -12,6 +12,9 @@ workspace
 3_mybaits
 包含mybatis的简单部署
 
+4_sercurity
+加密验签项目，包括RSA，3DES，AES
+
 6_designMode
 里面有关于设计模式的学习示例
 
@@ -24,8 +27,3 @@ workspace
 10_thirdTool
 第三方工具包的使用
 
-4_sercurity
-
-2_spring
-
-加密验签项目，包括RSA，3DES，AES
