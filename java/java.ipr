@@ -36,6 +36,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="java" />
+        <module name="mytest" />
         <module name="myTool" />
       </profile>
     </annotationProcessing>
@@ -66,6 +67,7 @@
       <list>
         <option value="$PROJECT_DIR$/java/pom.xml" />
         <option value="$PROJECT_DIR$/myTool/pom.xml" />
+        <option value="$PROJECT_DIR$/mytest/pom.xml" />
       </list>
     </option>
   </component>
@@ -194,6 +196,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/myTool/myTool.iml" filepath="$PROJECT_DIR$/myTool/myTool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytest/mytest.iml" filepath="$PROJECT_DIR$/mytest/mytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK">

@@ -200,9 +200,6 @@ public class ICBCUtils {
             return null;
         }
 
-
-
-
         try {
 //            Protocol myhttps = new Protocol("https", new AuthSSLProtocolSocketFactory(null, null, new URL("file:" + ConfigContext.icbc_truststore), null), 446);
 //            Protocol.registerProtocol("https", myhttps);

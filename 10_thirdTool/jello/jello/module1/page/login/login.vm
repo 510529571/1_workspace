@@ -1,0 +1,45 @@
+#extends("common:page/layout.vm")
+
+    #block("global_var")
+        #set($PAGE_TITLE="зЂВс")
+    #end
+
+    #block("content")
+        <div class="content">
+            <div class="row-fluid">
+                <div class="span4 offset3">
+                    <form class="form-horizontal" name="login" method="post" action="login">
+                        <div class="control-group">
+                            <label class="control-label" for="inputEmail">Email</label>
+                            <div class="controls">
+                                <input type="text" name="username" id="inputEmail" placeholder="Email">
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <label class="control-label" for="inputPassword">Password</label>
+                            <div class="controls">
+                                <input type="password" name="password" id="inputPassword" placeholder="Password">
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <label class="control-label" for="inputPassword">verifyCode</label>
+                            <div class="controls">
+                                <input type="text" name="verifyCode" id="inputVerifyCode" placeholder="verifyCode">
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <div class="controls">
+                                <label class="checkbox">
+                                    <input type="checkbox"> Remember me
+                                </label>
+                                <button type="submit" id="submit" class="btn">Sign in</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    #end
+
+#require("module1:page/login/login.vm")
+#end

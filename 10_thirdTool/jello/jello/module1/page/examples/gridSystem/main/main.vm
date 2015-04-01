@@ -1,0 +1,170 @@
+#extends("wtgf:page/layout/layout.vm")
+    #block("header_scripts")
+        
+    #end
+
+    #block("page_var")
+       
+    #end
+
+    #block("content_main")
+        <p class="empty-line"></p>
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="alert">
+                    您的预留验证信息为:码农搞基金！  如发现此信息与您预留的不一致，请立即停止交易，并拨打 95105828 寻求帮助。
+                </div>
+            </div>
+        </div>
+        <div class="row-fluid">
+            <div class="span6">
+                <h6 class="gfColor">我的直销资产</h6>
+            </div>
+            <div class="span6 text-right">
+                <p>广发钱袋子货币基金最新七日年化收益 4.3980%</p>
+            </div>
+        </div>
+        <div class="row-fluid">
+            <div class="span2 text-right">
+                <strong>总市值：</strong>                
+            </div>
+            <div class="span1">
+                <strong>9,147.41元</strong>
+            </div>
+        </div>
+        <div class="row-fluid">
+            <div class="span2 text-right">
+                钱袋子总份额： 
+            </div>
+            <div class="span1">
+                611.86元
+            </div>
+            <div class="span9">
+                <ul class="inline">
+                    <li><a href="javascript:void(0)">余额理财</a>&nbsp;&nbsp;<i class="icon-search"></i></li>
+                    <li>|</li>
+                    <li><a href="javascript:void(0)">充值</a></li>
+                    <li>|</li>
+                    <li><a href="javascript:void(0)">快速取现</a></li>
+                    <li>|</li>
+                    <li><a href="javascript:void(0)">还信用卡</a></li>
+                    <li>|</li>
+                    <li><a href="javascript:void(0)">跨行转账</a>【全部免费】</li>
+                </ul>
+            </div>
+        </div>
+        <div class="row-fluid">
+            <div class="span2 text-right">
+                其他基金市值： 
+            </div>
+            <div class="span1">
+                8,555.55元
+            </div>
+            <div class="span9">
+                <ul class="inline">
+                    <li><a href="javascript:void(0)">购买</a></li>
+                    <li>|</li>
+                    <li><a href="javascript:void(0)">充值</a></li>
+                    <li>|</li>
+                    <li><a href="javascript:void(0)">快速取现</a></li>
+                    <li>|</li>
+                    <li><a href="javascript:void(0)">还信用卡</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row-fluid">
+            <div class="span12 text-right">
+                <a href="#">什么是钱袋子？</a>
+            </div>
+        </div>
+        <div class="row-fluid">
+            <div class="span6">
+                <div class="panel">
+                    <div class="panel-title gfColor">
+                        广发资讯 
+                        <a href="#" class="panel-more">更多</a>
+                    </div>
+                    <div class="panel-content">
+                        <ul class="date-list">
+                            <li>
+                                <a href="#">asldkfjalskdjflasjf</a>
+                                <span class="date">2011-12-12</span>
+                            </li>
+                            <li>
+                                <a href="#">asldkfjalskdjflasjf</a>
+                                <span class="date">2011-12-12</span>
+                            </li>
+                            <li>
+                                <a href="#">asldkfjalskdjflasjf</a>
+                                <span class="date">2011-12-12</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="span6">
+                <div class="panel">
+                    <div class="panel-title gfColor">
+                        广发资讯 
+                        <a href="#" class="panel-more">更多</a>
+                    </div>
+                    <div class="panel-content">
+                        <ul class="date-list">
+                            <li>
+                                <a href="#">钱袋子货币[000509 ]暂停大额申购、转换转入业务</a>
+                                <span class="date">2011-12-12</span>
+                            </li>
+                            <li>
+                                <a href="#">C类收费支持基金和收费方式</a>
+                                <span class="date">2011-12-12</span>
+                            </li>
+                            <li>
+                                <a href="#">工、建、农、中、招、华夏、上海银行开通一键支付！</a>
+                                <span class="date">2011-12-12</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row-fluid">
+           <div class="span12">
+                <h6 class="gfColor">持有基金明细</h6>
+           </div>
+       </div>
+       <div class="row-fluid">
+           <div class="span12">
+                <table class="table table-bordered default">
+                    <tr>
+                        <th>销售渠道</th>
+                        <th>基金名称</th>
+                        <th>收费模式</th>
+                        <th>分红方式</th>
+                        <th>持有份额</th>
+                        <th>可用份额</th>
+                        <th>持有份额</th>
+                        <th>持有份额</th>
+                    </tr>
+                    <tr>
+                        <td>广发基金</td>
+                        <td>123</td>
+                        <td>asdf</td>
+                        <td>asdfasdf</td>
+                        <td>adsf</td>
+                        <td>asdfadsf</td>
+                        <td>wer</td>
+                        <td>asdfasdfa</td>
+                    </tr>
+                </table>
+           </div>
+        </div>
+        <div class="row-fluid">
+            <div class="span12 text-right">
+                该账户的总市值：<strong>9,147.41元</strong>
+            </div>
+        </div>
+    #end
+
+    #require("wtgf:page/examples/gridSystem/main/main.vm")    
+
+#end

@@ -1,0 +1,76 @@
+#extends("wtgf:page/layout/layout.vm")
+    #block("content_main")
+        <p class="empty-line"></p>
+        <div class="row-fluid">
+            <div class="span4">
+                <h6>还房贷还车贷</h6>
+            </div>
+            <div class="span6">
+                <ul class="nav nav-pills pull-right">
+                    <li class="active"><a href="#">还贷首页</a></li> 
+                    <li><a href="#">还贷记录</a></li> 
+                    <li><a href="#">还贷协议管理</a></li> 
+                </ul> 
+            </div>
+        </div>
+        <div class="row-fluid">
+            <div class="span10">
+                <p class="line"></p>
+            </div>
+        </div>
+        <form id="test" class="form-horizontal">
+            <div class="control-group">
+                <label class="control-label" for="inputEmail">持卡人</label>
+                <div class="controls">
+                    <input type="text" id="inputEmail" placeholder="梁仲智"/>
+                </div>
+            </div>
+            <div class="control-group">
+                <label class="control-label" for="inputEmail">收款方</label>
+                <div class="controls">
+                    <input type="text" id="inputEmail" placeholder="请选择银行"/>
+                </div>
+            </div>
+            <div class="control-group">
+                <label class="control-label" for="inputEmail">卡号</label>
+                <div class="controls">
+                    <input type="text" id="inputEmail"/>
+                </div>
+            </div>
+            <div class="control-group">
+                <label class="control-label" for="inputEmail">还款金额</label>
+                <div class="controls">
+                    <div class="input-append">
+                    <input type="text" id="inputEmail"/>
+                    <span class="add-on">.00</span>
+                    </div>&nbsp;
+                    <small class="muted">单笔可用额度：</small> 2000元，
+                    <small class="muted">每月转账限额：</small> 2000元 <a href="#"><i class="icon-question-sign"></i></a>
+                </div>
+            </div>
+            <div class="control-group">
+                <label class="control-label" for="huandai">还贷周期</label>
+                <div class="controls">
+                    <label class="radio inline" for="inlineCheckbox1">
+                        <input type="radio" id="inlineCheckbox1" name="radio1" value="value1" checked="checked"/> 单次
+                    </label>
+                    <label class="radio inline" for="inlineCheckbox2">
+                        <input type="radio" id="inlineCheckbox2" name="radio1" value="value2"/> 每月
+                    </label>
+                </div>
+            </div>
+            <div class="control-group">
+                <div class="controls">
+                    <label class="checkbox" for="inlineCheckbox123">
+                        <input type="checkbox" id="inlineCheckbox123" name="radio1" value="value2"/> 我已阅读并同意<a href="#">《广发基金钱袋子还款转账服务协议》</a>
+                    </label>
+                </div>
+            </div>
+            <div class="control-group">
+                <div class="controls">
+                    <button type="submit" class="btn btn-warning">下一步</button>
+                </div>
+            </div>
+        </form>
+    #end
+#end

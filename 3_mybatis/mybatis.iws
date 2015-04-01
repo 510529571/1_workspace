@@ -27,7 +27,7 @@
     <file path="/mybatis_boot.iml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1402391881965" ignored="false" />
     <file path="/fragment.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1419498986764" ignored="false" />
     <file path="/Test.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409551494582" ignored="false" />
-    <file path="/a.dummy" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1419929280825" ignored="false" />
+    <file path="/a.dummy" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426734574554" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/jpetstore-6/src/main/java/org/mybatis/jpetstore/service/AccountService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406713952453" ignored="false" />
     <file path="/AccountService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406713805103" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/jpetstore-6/src/main/java/org/mybatis/jpetstore/service2/AccountService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406538931241" ignored="false" />
@@ -602,7 +602,7 @@
     <file path="/JDBConnection.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1417081930962" ignored="false" />
     <file path="F:/workspace/gfyh/module/05.wtgf/src/app-context-gffunds.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1419470061141" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/icbc2/src/main/java/com/sinitek/newtrade/pay/icbc/common/ICBCUtils.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1419926352972" ignored="false" />
-    <file path="/ICBCUtils.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1419488370747" ignored="false" />
+    <file path="/ICBCUtils.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426674095173" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/icbc2/src/main/java/com/sinitek/newtrade/pay/icbc/common/Test_HttpClient.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1419495502024" ignored="false" />
     <file path="/Test_HttpClient.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1419491688050" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/icbc2/src/main/java/com/sinitek/newtrade/pay/icbc/common/Test_HttpsUrlConnection.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1419491498645" ignored="false" />
@@ -694,6 +694,19 @@
     <file path="$PROJECT_DIR$/../../2_github/spring_user/spring-mvc-mybatis-sample/src/main/webapp/WEB-INF/web.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1420011293412" ignored="false" />
     <file path="/resolvers-context.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1420014360166" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/spring_user/spring-mvc-mybatis-sample/src/main/webapp/WEB-INF/resolvers-context.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1420014364262" ignored="false" />
+    <file path="F:/workspace/nc/module/05.wtgf/src/mybatis_config.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426644445226" ignored="false" />
+    <file path="/mybatis_config.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426644445226" ignored="false" />
+    <file path="F:/workspace/nc/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/common/ICBCUtils.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426674636022" ignored="false" />
+    <file path="F:/workspace/nc/build/src/Sinitek.NewTrade.Pay.ICBC_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/icbc/AccountVerifySZResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426645144645" ignored="false" />
+    <file path="F:/workspace/nc/build/src/Sinitek.NewTrade.Pay.ICBC_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/icbc/common/ICBCUtils.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426663065566" ignored="false" />
+    <file path="F:/workspace/nc/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/common/MySecureProtocolSocketFactory.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426663012216" ignored="false" />
+    <file path="F:/workspace/nc/build/src/Sinitek.NewTrade.Pay.ICBC_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/icbc/common/MySecureProtocolSocketFactory.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426663065566" ignored="false" />
+    <file path="F:/workspace/nc/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/AccountVerifySZResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426668802358" ignored="false" />
+    <file path="/AccountVerifySZResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426668779119" ignored="false" />
+    <file path="F:/workspace/nc/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/service/AccountVerifySZSerivce.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426733333107" ignored="false" />
+    <file path="/AgentPaymentSZService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426674133983" ignored="false" />
+    <file path="F:/workspace/nc/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/service/AgentPaymentSZService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426733342278" ignored="false" />
+    <file path="F:/workspace/nc/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/service/QuerySZService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426733349347" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -708,6 +721,43 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint url="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/read/test/SessionRead.java" line="29" class="own.hhw.read.test.SessionRead" package="own.hhw.read.test">
         <option name="ENABLED" value="false" />
@@ -815,43 +865,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </line_breakpoints>
-    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint>
-        <option name="NOTIFY_CAUGHT" value="true" />
-        <option name="NOTIFY_UNCAUGHT" value="true" />
-        <option name="ENABLED" value="false" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint>
-        <option name="NOTIFY_CAUGHT" value="true" />
-        <option name="NOTIFY_UNCAUGHT" value="true" />
-        <option name="ENABLED" value="false" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -865,9 +878,7 @@
         <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/util/MybatisUtil.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="20" column="59" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -876,10 +887,7 @@
         <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7-sources.jar!/org/apache/ibatis/session/SqlSessionFactoryBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="79" column="26" selection-start="2619" selection-end="2619" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#3054#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -888,10 +896,7 @@
         <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7-sources.jar!/org/apache/ibatis/builder/xml/XMLConfigBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="108" column="55" selection-start="4132" selection-end="4132" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#15761#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -899,7 +904,7 @@
       <file leaf-file-name="configuration.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/configuration.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="50" selection-start="1225" selection-end="1269" vertical-scroll-proportion="-0.19633508">
+            <state line="38" column="25" selection-start="1967" selection-end="1967" vertical-scroll-proportion="0.4908377">
               <folding />
             </state>
           </provider>
@@ -1051,6 +1056,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1495,8 +1502,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1511,19 +1516,19 @@
     <property name="options.lastSelected" value="MavenSettings" />
     <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.1/mybatis-3.2.1.jar!/" />
     <property name="project.structure.side.proportion" value="0.21982336" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="Downloaded.Files.Path" value="F:\work\workspace\mybatis\lib" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="Downloaded.Files.Path" value="F:\work\workspace\mybatis\lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -1691,6 +1696,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1717,19 +1735,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1928,12 +1933,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32733813" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2495935" sideWeight="0.67146283" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48321342" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -1955,6 +1959,7 @@
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32733813" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="IntelliJad Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853717" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="EJB" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
@@ -2032,120 +2037,88 @@
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7-sources.jar!/org/apache/ibatis/session/Configuration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="26" selection-start="4325" selection-end="4338" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="92" column="26" selection-start="4325" selection-end="4338" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/SqlSessionUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="19" selection-start="1835" selection-end="1835" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="43" column="19" selection-start="1835" selection-end="1835" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7-sources.jar!/org/apache/ibatis/session/SqlSessionFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="17" selection-start="836" selection-end="836" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="24" column="17" selection-start="836" selection-end="836" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/SqlSessionTemplate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="29" selection-start="3171" selection-end="3171" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="77" column="29" selection-start="3171" selection-end="3171" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/config/NamespaceHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="13" selection-start="927" selection-end="927" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="28" column="13" selection-start="927" selection-end="927" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/config/MapperScannerBeanDefinitionParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="13" selection-start="1603" selection-end="1603" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="44" column="13" selection-start="1603" selection-end="1603" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/support/SqlSessionDaoSupport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="22" selection-start="1508" selection-end="1508" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="41" column="22" selection-start="1508" selection-end="1508" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/transaction/SpringManagedTransaction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="13" selection-start="1562" selection-end="1562" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="44" column="13" selection-start="1562" selection-end="1562" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/transaction/SpringManagedTransactionFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="13" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="33" column="13" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/MyBatisExceptionTranslator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="13" selection-start="1410" selection-end="1410" vertical-scroll-proportion="0.17341772">
-          <folding />
-        </state>
+        <state line="39" column="13" selection-start="1410" selection-end="1410" vertical-scroll-proportion="0.17341772" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/MyBatisSystemException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="13" selection-start="1224" selection-end="1224" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="31" column="13" selection-start="1224" selection-end="1224" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/SqlSessionFactoryBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="240" column="31" selection-start="7408" selection-end="7422" vertical-scroll-proportion="0.34556574">
-          <folding />
-        </state>
+        <state line="240" column="31" selection-start="7408" selection-end="7422" vertical-scroll-proportion="0.34556574" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/util/MybatisUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="59" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7-sources.jar!/org/apache/ibatis/session/SqlSessionFactoryBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="79" column="26" selection-start="2619" selection-end="2619" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#3054#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7-sources.jar!/org/apache/ibatis/builder/xml/XMLConfigBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="108" column="55" selection-start="4132" selection-end="4132" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#15761#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/configuration.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="50" selection-start="1225" selection-end="1269" vertical-scroll-proportion="-0.19633508">
+        <state line="38" column="25" selection-start="1967" selection-end="1967" vertical-scroll-proportion="0.4908377">
           <folding />
         </state>
       </provider>

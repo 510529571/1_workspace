@@ -1,0 +1,5 @@
+#extends("wtgf:page/layout/layout.vm")
+    #block("content_main")
+    
+    #end
+#end

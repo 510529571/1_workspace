@@ -1,0 +1,134 @@
+#extends("wtgf:page/layout/layoutNoNav.vm")
+    #block("page_var")
+        #set($HEADER_TITLE="欢迎进入广发基金网上开户注册系统！")
+        #set($BOOTSTRAP_CONTAINER="")
+        #set($IS_LOGIN=0)
+    #end
+    #block("content_main")
+        <p class="empty-line"></p>
+        <div class="container">
+            <div class="row">
+                <div class="span8 offset2">
+                    <div class="alert text-center" id="topSteps">
+                        <ol class="inline">
+                            <li class="text-orange inline">1.身份认证</li>
+                            <li class="inline"><i class="icon-arrow-right"></i></li>
+                            <li class="text-gray inline">2.补充资料</li>
+                            <li><i class="icon-arrow-right"></i></li>
+                            <li class="text-gray inline">3.开户成功</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="span8 offset2">
+                    <form name="formName" class="form-horizontal">
+                    <!--由于bootstrap定义的表单元素默认是span3宽度的，而idType用span1的话会不够宽，所以用span2-->
+                    <!--从而为了对齐，其他表单元素都定义成span5的宽度了-->
+                        <div class="control-group">
+                            <label class="control-label" for="idNum"><span class="text-red">*</span> 证件号码</label>
+                            <div class="controls controls-row">
+                                <select id="idType" class="span2">
+                                    <option value="1">身份证</option>
+                                    <option value="2">军官证</option>
+                                </select>
+                                <input type="text" name="idNum" class="span3" id="idNum"/>
+                            </div>
+                        </div>
+                        
+                        <div class="control-group">
+                            <label class="control-label" for="idNum2"><span class="text-red">*</span> 密码</label>
+                            <div class="controls">
+                                <input type="password" name="password"id="password" class="span5"/>
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <label class="control-label" for="email"><span class="text-red">*</span> 邮箱</label>
+                            <div class="controls">
+                                <input type="text" name="email" id="email" class="span5"/>
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <label class="control-label" for="email"><span class="text-red">*</span> 手机号码</label>
+                            <div class="controls">
+                                <input type="text" name="telphone" id="telphone" class="span5"/>
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <label class="control-label" for="phone"><span class="text-red">*</span> 电话号码</label>
+                            <div class="controls">
+                                <input type="text" name="phone" id="phone" class="span5"/>
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <label class="control-label" for="verifyCode"><span class="text-red">*</span> 手机验证码</label>
+                            <div class="controls">
+                                <input type="text" name="verifyCode" id="verifyCode" class="span4"/>
+                                <button class="btn" id="verifyCodeBtn" type="button">获取验证码</button>
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <label class="control-label" for="buyNum"><span class="text-red">*</span> 申购数</label>
+                            <div class="controls">
+                                <input type="text" name="buyNum" id="buyNum" class="span5"/>
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <label class="control-label" for="dateEle"><span class="text-red">*</span> 日期</label>
+                            <div class="controls">
+                                <input type="text" name="dateEle" id="dateEle" class="span5"/>
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <label class="control-label" for="noRuleEle">无要求字段测试</label>
+                            <div class="controls">
+                                <input type="text" name="noRuleEle" id="noRuleEle" class="span5"/>
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <label class="control-label" for="customTest"><span class="text-red">*</span> 自定义规则测试</label>
+                            <div class="controls">
+                                <input type="text" name="customTest" id="customTest" class="span5"/>
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <label class="control-label"><span class="text-red">*</span> 错误信息位置：</label>
+                            <div class="controls">
+                                <input type="text" name="posTestInput" id="posTestInput" class="span4"/>
+                                <button class="btn" id="posTestBtn" type="button">定位元素</button>
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <label class="control-label"><span class="text-red">*</span> 动态添加测试</label>
+                            <div class="controls">
+                                <label class="radio inline">
+                                    <input type="radio" checked="checked" id="addTest1" value="1" name="addTest"/> 类别1
+                                </label>
+                                <label class="radio inline">
+                                    <input type="radio" id="addTest2" value="2" name="addTest"/> 类别2
+                                </label>
+                            </div>
+                        </div>
+
+                        <div class="control-group addTestTarget">
+                            <label class="control-label"><span class="text-red">*</span> 动态添加字段</label>
+                            <div class="controls">
+                                <input type="text" name="addTestInput" id="addTestInput" class="span5"/>
+                            </div>
+                        </div>
+                        
+                        
+
+                        
+                        <div class="control-group">
+                            <div class="controls">
+                                <button type="submit" class="btn">下一步</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    #end
+    #require("wtgf:page/examples/validate/validate.vm")
+#end

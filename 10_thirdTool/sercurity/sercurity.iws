@@ -7,13 +7,13 @@
     <file path="/AES.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1403244431320" ignored="false" />
     <file path="/RSA.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1403142693602" ignored="false" />
     <file path="/MyTest.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1403165879459" ignored="false" />
-    <file path="/fragment.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1423451726635" ignored="false" />
+    <file path="/fragment.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426576483572" ignored="false" />
     <file path="F:/workspace/tonlianzhifu_temp/module/05.wtgf/web/include/channeloption_select.jsp" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1403168936234" ignored="false" />
     <file path="/channeloption_select.jsp" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1403168717495" ignored="false" />
     <file path="F:/workspace/tonlianzhifu_temp/module/05.wtgf/src/com/sinitek/newtrade/web/account/gf/AgentPaymentProtocolAction.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1403497971189" ignored="false" />
     <file path="/AgentPaymentProtocolAction.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1403229418095" ignored="false" />
     <file path="F:/workspace/tonlianzhifu_temp/module/04.wtbase/03.pay/13.allinpay/src/com/sinitek/newtrade/pay/allinpay/AgentPaymentProtocolSignResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1403169620295" ignored="false" />
-    <file path="/a.dummy" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425346825737" ignored="false" />
+    <file path="/a.dummy" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426734574554" ignored="false" />
     <file path="F:/workspace/tonlianzhifu_temp/module/05.wtgf/web/account/sendbankinfo.jsp" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1403497971192" ignored="false" />
     <file path="F:/workspace/tonlianzhifu_temp/module/05.wtgf/web/waitretry.jsp" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1403497971361" ignored="false" />
     <file path="F:/workspace/tonlianzhifu_temp/module/05.wtgf/web/wallet/recharging.jsp" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1403497971191" ignored="false" />
@@ -256,7 +256,7 @@
     <file path="F:/workspace/gfyh/module/04.wtbase/03.pay/14.cgb/src/com/sinitek/newtrade/pay/cgb/resolver/VirementDataFlowResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1409120655662" ignored="false" />
     <file path="F:/workspace/gfyh/module/04.wtbase/03.pay/14.cgb/src/com/sinitek/newtrade/pay/cgb/resolver/SmtsImportFileResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1408431048943" ignored="false" />
     <file path="F:/workspace/gfyh/module/04.wtbase/03.pay/14.cgb/src/com/sinitek/newtrade/pay/cgb/resolver/SMGPayResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1409120635754" ignored="false" />
-    <file path="/SMGPayResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1409120580642" ignored="false" />
+    <file path="/SMGPayResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426581472596" ignored="false" />
     <file path="/CGBUtils.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1409120861470" ignored="false" />
     <file path="F:/workspace/gfyh/module/04.wtbase/03.pay/14.cgb/src/com/sinitek/newtrade/pay/cgb/bean/VerifyBean.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1408434083346" ignored="false" />
     <file path="F:/workspace/gfyh/module/04.wtbase/03.pay/14.cgb/src/com/sinitek/newtrade/pay/cgb/bean/PayBean.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1408439027806" ignored="false" />
@@ -267,7 +267,7 @@
     <file path="F:/workspace/gfyh/module/04.wtbase/01.core/src/com/sinitek/newtrade/core/payconfig/api/virement/IVirementFileResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1408441226450" ignored="false" />
     <file path="$PROJECT_DIR$/../../1_workspace_temp/0_hhw/hhw/java/src/own/hhw/app/encrypt/md5/Md5.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1408519240513" ignored="false" />
     <file path="/Pkcs12KeyProvider.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1408609751502" ignored="false" />
-    <file path="/log4j.properties" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1420708332088" ignored="false" />
+    <file path="/log4j.properties" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426586509865" ignored="false" />
     <file path="$PROJECT_DIR$/../../1_workspace_temp/0_hhw/hhw/log4j/src/com/sample1/Log4j2Sample.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1408591765908" ignored="false" />
     <file path="/Log4j2Sample.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1408583581037" ignored="false" />
     <file path="$PROJECT_DIR$/../../1_workspace_temp/0_hhw/hhw/log4j/src/log4j.properties" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1408529978446" ignored="false" />
@@ -393,7 +393,7 @@
     <file path="/Manage.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1418870306684" ignored="false" />
     <file path="/Client.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1418870632174" ignored="false" />
     <file path="/ConfigContext.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1418955972289" ignored="false" />
-    <file path="/ICBCUtils.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1419836933286" ignored="false" />
+    <file path="/ICBCUtils.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426674095172" ignored="false" />
     <file path="/Server.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1418893675024" ignored="false" />
     <file path="F:/workspace/toujiyoudao/module/01.core/testsrc/serviceclient.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1419218891631" ignored="false" />
     <file path="F:/workspace/toujiyoudao/module/01.core/src/com/sinitek/sfm/paygate/core/enums/clever/FileType.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1419218891631" ignored="false" />
@@ -533,11 +533,11 @@
     <file path="$PROJECT_DIR$/../../../2_github/spring_user/spring-mvc-mybatis-sample/src/main/webapp/WEB-INF/web.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1420011293412" ignored="false" />
     <file path="/resolvers-context.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1420014360166" ignored="false" />
     <file path="$PROJECT_DIR$/../../../2_github/spring_user/spring-mvc-mybatis-sample/src/main/webapp/WEB-INF/resolvers-context.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1420014364262" ignored="false" />
-    <file path="$PROJECT_DIR$/../../2_spring/spring_boot/web/WEB-INF/web.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1420699034670" ignored="false" />
+    <file path="$PROJECT_DIR$/../../2_spring/spring_boot/web/WEB-INF/web.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426586534266" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_spring/spring_boot/src/main/java/own/hhw/step1/action/PrintAction.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1420708361906" ignored="false" />
     <file path="/PrintAction.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1420707703577" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_spring/spring_boot/src/main/java/own/hhw/step1/service/PrintService.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1420709226561" ignored="false" />
-    <file path="$PROJECT_DIR$/../../2_spring/spring_boot/src/main/resources/servlet-context.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1420711133287" ignored="false" />
+    <file path="$PROJECT_DIR$/../../2_spring/spring_boot/src/main/resources/servlet-context.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426586319000" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_spring/spring_boot/src/main/resources/resolvers-context.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1420453089704" ignored="false" />
     <file path="/servlet-context.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1420711133287" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_spring/spring_boot/web/view/print.jsp" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1420453874650" ignored="false" />
@@ -545,15 +545,15 @@
     <file path="/DoVirementAction.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1420702756328" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_spring/spring_boot/src/main/java/own/hhw/step1/util/LogUtil.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1420708714971" ignored="false" />
     <file path="/LogUtil.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1420708692671" ignored="false" />
-    <file path="$PROJECT_DIR$/../../2_spring/spring_boot/src/main/resources/log4j.properties" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1420708806299" ignored="false" />
+    <file path="$PROJECT_DIR$/../../2_spring/spring_boot/src/main/resources/log4j.properties" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426586514406" ignored="false" />
     <file path="/PrintService.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1420709225499" ignored="false" />
     <file path="F:/workspace/firstpay/module/05.wtgf/src/serviceclient.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1420767281926" ignored="false" />
     <file path="F:/workspace/baidu/wallet-main/pom.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1421373860164" ignored="false" />
     <file path="F:/workspace/firstpay/module/04.wtbase/03.pay/16.firstpay2/src/com/sinitek/newtrade/pay/firstpay2/common/TripleDESEncrypt.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425264538275" ignored="false" />
     <file path="/TripleDESEncrypt.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425264534435" ignored="false" />
-    <file path="F:/workspace/firstpay/module/06.wtmanage/src/com/sinitek/newtrade/manage/paychannel/MyPayLiqDWR.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425362015131" ignored="false" />
-    <file path="/Test.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1423533393165" ignored="false" />
-    <file path="/ThreeDesUtilBK2.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425264606217" ignored="false" />
+    <file path="F:/workspace/firstpay/module/06.wtmanage/src/com/sinitek/newtrade/manage/paychannel/MyPayLiqDWR.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1427182109373" ignored="false" />
+    <file path="/Test.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425454379771" ignored="false" />
+    <file path="/ThreeDesUtilBK2.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1427180797620" ignored="false" />
     <file path="$PROJECT_DIR$/../Test/test/src/main/java/Test.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1423533395339" ignored="false" />
     <file path="$PROJECT_DIR$/../Test/test/src/main/java/String.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1423476368437" ignored="false" />
     <file path="$PROJECT_DIR$/../Test/test/src/main/java/lang/Object.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1423476405599" ignored="false" />
@@ -561,12 +561,12 @@
     <file path="$PROJECT_DIR$/../Test/test/src/main/java/java/lang/Class.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1423477217037" ignored="false" />
     <file path="/Class.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1423476554466" ignored="false" />
     <file path="$PROJECT_DIR$/../Test/test/src/main/java/java/lang/String.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1423532953169" ignored="false" />
-    <file path="F:/workspace/firstpay/module/04.wtbase/03.pay/16.firstpay2/src/com/sinitek/newtrade/pay/firstpay2/common/ThreeDesUtilBK2.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425362719156" ignored="false" />
-    <file path="F:/workspace/firstpay/build/src/Sinitek.NewTrade.Pay.firstpay2_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/firstpay2/common/ThreeDesUtilBK2.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425362728067" ignored="false" />
-    <file path="F:/workspace/firstpay/build/bin/Sinitek.NewTrade.Pay.firstpay2_0.9.0.jar!/com/sinitek/newtrade/pay/firstpay2/firstpayconfig.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425288701454" ignored="false" />
-    <file path="F:/workspace/firstpay/module/04.wtbase/03.pay/16.firstpay2/src/com/sinitek/newtrade/pay/firstpay2/VirementFileResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425265320299" ignored="false" />
-    <file path="/VirementFileResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425265249412" ignored="false" />
-    <file path="F:/workspace/firstpay/build/src/Sinitek.NewTrade.Pay.firstpay2_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/firstpay2/VirementFileResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425265345560" ignored="false" />
+    <file path="F:/workspace/firstpay/module/04.wtbase/03.pay/16.firstpay2/src/com/sinitek/newtrade/pay/firstpay2/common/ThreeDesUtilBK2.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1427180883493" ignored="false" />
+    <file path="F:/workspace/firstpay/build/src/Sinitek.NewTrade.Pay.firstpay2_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/firstpay2/common/ThreeDesUtilBK2.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1427181104237" ignored="false" />
+    <file path="F:/workspace/firstpay/build/bin/Sinitek.NewTrade.Pay.firstpay2_0.9.0.jar!/com/sinitek/newtrade/pay/firstpay2/firstpayconfig.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1427181692449" ignored="false" />
+    <file path="F:/workspace/firstpay/module/04.wtbase/03.pay/16.firstpay2/src/com/sinitek/newtrade/pay/firstpay2/VirementFileResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1427181671587" ignored="false" />
+    <file path="/VirementFileResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1427181662162" ignored="false" />
+    <file path="F:/workspace/firstpay/build/src/Sinitek.NewTrade.Pay.firstpay2_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/firstpay2/VirementFileResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1427181692449" ignored="false" />
     <file path="F:/workspace/firstpay/module/04.wtbase/03.pay/16.firstpay2/src/com/sinitek/newtrade/pay/firstpay2/common/config.properties" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425361712568" ignored="false" />
     <file path="F:/workspace/firstpay/module/04.wtbase/03.pay/16.firstpay2/src/com/sinitek/newtrade/pay/firstpay2/SmtsDataFlowImportResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425288697210" ignored="false" />
     <file path="F:/workspace/firstpay/build/src/Sinitek.NewTrade.Pay.firstpay2_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/firstpay2/SmtsDataFlowImportResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425288701454" ignored="false" />
@@ -576,7 +576,51 @@
     <file path="F:/workspace/firstpay/module/02.dsmanage/src/com/sinitek/ds/counter/trade/GFBankRedeemAction.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425289736944" ignored="false" />
     <file path="F:/workspace/firstpay/module/02.dsmanage/src/springCfg/spring_gf.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425348655239" ignored="false" />
     <file path="F:/workspace/firstpay/module/02.dsmanage/src/springCfg/spring-core.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425348564816" ignored="false" />
-    <file path="/MyPayLiqDWR.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425349700476" ignored="false" />
+    <file path="/MyPayLiqDWR.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1427181230047" ignored="false" />
+    <file path="F:/workspace/toujiyoudao/module/02.web/src/com/sinitek/sfm/paygate/web/alipay/cipher/pkgbuilder/RSACipher.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425461540002" ignored="false" />
+    <file path="/RSACipher.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425461533725" ignored="false" />
+    <file path="F:/workspace/toujiyoudao/module/02.web/src/alipay_clever.properties" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425455330844" ignored="false" />
+    <file path="F:/workspace/toujiyoudao/module/02.web/src/com/sinitek/sfm/paygate/web/alipay/cipher/pkgbuilder/Test.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425454387999" ignored="false" />
+    <file path="F:/workspace/toujiyoudao/module/02.web/src/com/sinitek/sfm/paygate/web/alipay/CleverInvestAction.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425458364304" ignored="false" />
+    <file path="F:/workspace/toujiyoudao/module/02.web/src/alipay.cer" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425461554585" ignored="false" />
+    <file path="/RSATest.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425460720991" ignored="false" />
+    <file path="/RSAKeyGenerator.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1425460979505" ignored="false" />
+    <file path="/SendNotNCPackage.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426574098806" ignored="false" />
+    <file path="F:/workspace/nc/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/service/AgentPaymentSZService.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426733342278" ignored="false" />
+    <file path="F:/workspace/nc/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/common/ICBCUtils.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426674636009" ignored="false" />
+    <file path="F:/workspace/nc/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/common/MySecureProtocolSocketFactory.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426663012216" ignored="false" />
+    <file path="F:/workspace/nc/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/AccountVerifySZResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426668802357" ignored="false" />
+    <file path="/AccountVerifySZResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426668779117" ignored="false" />
+    <file path="F:/workspace/nc/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/service/AccountVerifySZSerivce.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426733333107" ignored="false" />
+    <file path="/AccountVerifySZSerivce.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426581292502" ignored="false" />
+    <file path="/AgentPaymentSZService.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426674133983" ignored="false" />
+    <file path="F:/workspace/nc/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/AgentPaymentResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426581365479" ignored="false" />
+    <file path="/AgentPaymentResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426581343558" ignored="false" />
+    <file path="F:/workspace/nc/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/SMGPayResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426581473633" ignored="false" />
+    <file path="F:/workspace/nc/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/service/QuerySZService.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426733349340" ignored="false" />
+    <file path="/QuerySZService.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426581748984" ignored="false" />
+    <file path="F:/workspace/nc/module/05.wtgf/web/WEB-INF/applicationContext.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426582740868" ignored="false" />
+    <file path="F:/workspace/nc/module/05.wtgf/src/serviceclient.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426582741996" ignored="false" />
+    <file path="F:/workspace/nc/module/05.wtgf/web/WEB-INF/dataAccessContext-local.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426582741996" ignored="false" />
+    <file path="F:/workspace/nc/module/05.wtgf/webservice/src/datasource.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426582741996" ignored="false" />
+    <file path="F:/workspace/nc/module/05.wtgf/mobileapp/src/com/sinitek/newtrade/web/gfapp/cache/MobileFundInfoContext.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426584772622" ignored="false" />
+    <file path="/MobileFundInfoContext.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426584772209" ignored="false" />
+    <file path="F:/workspace/nc/module/05.wtgf/mobileapp/src/com/gffunds/mapi/controller/MBillInfoListAction.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426640076516" ignored="false" />
+    <file path="/MBillInfoListAction.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426640041356" ignored="false" />
+    <file path="$PROJECT_DIR$/../../2_spring/spring_boot/src/main/resources/spring-context.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426586609375" ignored="false" />
+    <file path="F:/workspace/nc/module/05.wtgf/mobileapp/src/com/gffunds/mapi/service/MNwalletBuyBillService.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426640005372" ignored="false" />
+    <file path="/MNwalletBuyBillService.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426640004986" ignored="false" />
+    <file path="F:/workspace/nc/module/05.wtgf/mobileapp/src/com/gffunds/mapi/service/MBillInfoListService.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426640026851" ignored="false" />
+    <file path="/MBillInfoListService.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426640026478" ignored="false" />
+    <file path="F:/workspace/nc/module/05.wtgf/mobileapp/src/com/gffunds/mapi/controller/MNwalletBuyBillAction.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426642408589" ignored="false" />
+    <file path="/MNwalletBuyBillAction.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426640086774" ignored="false" />
+    <file path="F:/workspace/nc/module/05.wtgf/src/mybatis_config.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426644445226" ignored="false" />
+    <file path="/mybatis_config.xml" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426644445226" ignored="false" />
+    <file path="F:/workspace/nc/build/src/Sinitek.NewTrade.Pay.ICBC_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/icbc/AccountVerifySZResolver.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426645144561" ignored="false" />
+    <file path="F:/workspace/nc/build/src/Sinitek.NewTrade.Pay.ICBC_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/icbc/common/ICBCUtils.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426663065566" ignored="false" />
+    <file path="F:/workspace/nc/build/src/Sinitek.NewTrade.Pay.ICBC_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/icbc/common/MySecureProtocolSocketFactory.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1426663065566" ignored="false" />
+    <file path="/*.regexp" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1427180386962" ignored="false" />
+    <file path="F:/workspace/nc/module/05.wtgf/src/com/sinitek/newtrade/web/trade/gf/BuyAction.java" changelist="e7647cdc-3fa5-4f1e-b1d3-361df8bbc193" time="1427183459676" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -601,6 +645,24 @@
     <sortChildren value="false" />
   </component>
   <component name="DebuggerManager">
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/icbc2/src/main/java/com/sinitek/newtrade/pay/icbc/common/ICBCUtils.java" line="79" class="com.sinitek.newtrade.pay.icbc.common.ICBCUtils" package="com.sinitek.newtrade.pay.icbc.common">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -637,7 +699,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -647,48 +708,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ThreeDes.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/sercurity/ThreeDes.java">
+      <file leaf-file-name="MySecureProtocolSocketFactory.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/icbc2/src/main/java/com/sinitek/newtrade/pay/icbc/common/MySecureProtocolSocketFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="267" column="0" selection-start="8225" selection-end="8225" vertical-scroll-proportion="1.9958593">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="System.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/src.zip!/java/lang/System.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="0" selection-start="2878" selection-end="2878" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MANIFEST.MF" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/jre/lib/rt.jar!/META-INF/MANIFEST.MF">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="319" selection-end="377" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AES.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/sercurity/AES.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="39" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Object.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/src.zip!/java/lang/Object.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="21" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0">
+            <state line="14" column="72" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -703,37 +726,75 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Base64.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/Base64.java">
+      <file leaf-file-name="SecureProtocolSocketFactory.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/icbc2/lib/commons-httpclient-2.0-rc2.jar!/org/apache/commons/httpclient/protocol/SecureProtocolSocketFactory.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="19" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0">
+            <state line="6" column="102" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Md5Encrypt.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/Md5Encrypt.java">
+      <file leaf-file-name="ProtocolSocketFactory.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/icbc2/lib/commons-httpclient-2.0-rc2.jar!/org/apache/commons/httpclient/protocol/ProtocolSocketFactory.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="52" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0">
+            <state line="6" column="17" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cipher.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/jre/lib/jce.jar!/javax/crypto/Cipher.class">
+      <file leaf-file-name="RSAKeyGenerator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/sercurity/RSAKeyGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="44" selection-start="2260" selection-end="2260" vertical-scroll-proportion="0.0">
+            <state line="23" column="15" selection-start="826" selection-end="826" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreeDesUtilBK2.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/threeDES/ThreeDesUtilBK2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="43" selection-start="511" selection-end="520" vertical-scroll-proportion="0.13956639">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JUnitMatchers.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/matchers/JUnitMatchers.java">
+      <file leaf-file-name="ThreeDes.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/sercurity/ThreeDes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="45" selection-start="813" selection-end="813" vertical-scroll-proportion="0.0">
+            <state line="125" column="56" selection-start="4216" selection-end="4216" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayUtils.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar!/org/apache/commons/lang/ArrayUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="13" selection-start="2047" selection-end="2047" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Server.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/icbc2/src/main/java/com/sinitek/newtrade/pay/icbc/common/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="13" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ICBCUtils.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/icbc2/src/main/java/com/sinitek/newtrade/pay/icbc/common/ICBCUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="190" column="34" selection-start="6847" selection-end="6847" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -749,12 +810,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/icbc2/src/main/java/com/sinitek/newtrade/pay/icbc/common/MySecureProtocolSocketFactory.java" />
-        <option value="$PROJECT_DIR$/icbc2/src/main/java/com/sinitek/newtrade/pay/icbc/common/Test_HttpsUrlConnection.java" />
         <option value="$PROJECT_DIR$/icbc2/src/main/java/com/sinitek/newtrade/pay/icbc/common/Test_HttpClient.java" />
         <option value="$PROJECT_DIR$/icbc2/src/main/java/icbc/Main.java" />
-        <option value="$PROJECT_DIR$/icbc2/src/main/java/icbc/SendNotNCPackage.java" />
-        <option value="$PROJECT_DIR$/icbc2/src/main/java/com/sinitek/newtrade/pay/icbc/common/ICBCUtils.java" />
         <option value="$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/threeDES/ThreeDes.java" />
         <option value="$PROJECT_DIR$/mySercurity/src/test/java/ThreeDESTest.java" />
         <option value="$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/threeDES/Main.java" />
@@ -765,6 +822,10 @@
         <option value="$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/threeDES/ThreeDesUtilBK2.java" />
         <option value="$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/sercurity/ThreeDes.java" />
         <option value="$PROJECT_DIR$/mySercurity/pom.xml" />
+        <option value="$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/sercurity/RSAKeyGenerator.java" />
+        <option value="$PROJECT_DIR$/mySercurity/src/test/java/RSATest.java" />
+        <option value="$PROJECT_DIR$/icbc2/src/main/java/icbc/SendNotNCPackage.java" />
+        <option value="$PROJECT_DIR$/icbc2/src/main/java/com/sinitek/newtrade/pay/icbc/common/ICBCUtils.java" />
       </list>
     </option>
   </component>
@@ -872,6 +933,88 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sercurity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySecurity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sercurity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySecurity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sercurity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySecurity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sercurity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySecurity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sercurity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySecurity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="own.hhw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -929,6 +1072,46 @@
               <option name="myItemId" value="sercurity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: commons-lang:commons-lang:2.6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="commons-lang-2.6.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sercurity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: commons-lang:commons-lang:2.6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="commons-lang-2.6.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sercurity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1024,7 +1207,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sercurity" />
+              <option name="myItemId" value="util" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1034,7 +1217,57 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="icbc" />
+              <option name="myItemId" value="mySercurity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="threeDES" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sercurity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySercurity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sercurity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1184,88 +1417,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sercurity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mySecurity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sercurity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mySecurity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sercurity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mySecurity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sercurity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mySecurity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sercurity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mySecurity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="own.hhw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1318,95 +1469,7 @@
       <recent name="F:\work\3_project\1_workspace\4_sercurity\Java-XML-Signature-master\src\test\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreeDes">
-    <configuration default="false" name="Md5Encrypt" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="own.hhw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="own.hhw.Md5Encrypt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="mySercurity" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="PublicTool" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="own.hhw.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="own.hhw.util.PublicTool" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="mySercurity" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="own.hhw.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="own.hhw.util.Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="mySercurity" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ThreeDesUtilBK2" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="own.hhw.threeDES.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="own.hhw.threeDES.ThreeDesUtilBK2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="mySercurity" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.RSAKeyGenerator">
     <configuration default="false" name="ThreeDes" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1426,6 +1489,102 @@
       <module name="mySercurity" />
       <envs />
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="RSATest.test" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="mySercurity" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RSATest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="RSAKeyGenerator" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="own.hhw.sercurity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="own.hhw.sercurity.RSAKeyGenerator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mySercurity" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="RSATest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="mySercurity" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RSATest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ICBCUtils" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.sinitek.newtrade.pay.icbc.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.sinitek.newtrade.pay.icbc.common.ICBCUtils" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="icbc2" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -1581,19 +1740,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 6.0" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Md5Encrypt" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PublicTool" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ThreeDesUtilBK2" />
-      <item index="5" class="java.lang.String" itemvalue="Application.ThreeDes" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ThreeDes" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.RSATest.test" />
+      <item index="3" class="java.lang.String" itemvalue="Application.RSAKeyGenerator" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.RSATest" />
+      <item index="5" class="java.lang.String" itemvalue="Application.ICBCUtils" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ThreeDes" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ThreeDesUtilBK2" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PublicTool" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Md5Encrypt" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RSAKeyGenerator" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ICBCUtils" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.RSATest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.RSATest.test" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ThreeDes" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1649,35 +1808,35 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2495935" sideWeight="0.6534772" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28896883" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38009593" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297362" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853717" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297362" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2495935" sideWeight="0.71702635" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28699186" sideWeight="0.67026377" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853717" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3691057" sideWeight="0.71702635" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28297362" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3691057" sideWeight="0.71702635" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28297362" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30095923" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IntelliJad Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853717" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="EJB" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2512195" sideWeight="0.59592324" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4222488" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
@@ -1787,83 +1946,73 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mySercurity/src/test/java/use/MyTest.java">
+    <entry file="file://$PROJECT_DIR$/icbc2/src/main/java/com/sinitek/newtrade/pay/icbc/common/Test_HttpsUrlConnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="775" selection-end="775" vertical-scroll-proportion="0.0" />
+        <state line="18" column="13" selection-start="427" selection-end="427" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/threeDES/ThreeDesUtilBK2.java">
+    <entry file="file://$PROJECT_DIR$/icbc2/src/main/java/icbc/SendNotNCPackage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="5" selection-start="3002" selection-end="3002" vertical-scroll-proportion="0.0" />
+        <state line="133" column="25" selection-start="4340" selection-end="4340" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/Assert.java">
+    <entry file="jar://$PROJECT_DIR$/icbc2/lib/tools.src.zip!/cn/com/icbc/CMS/commontools/TranslationTool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="28" selection-start="1579" selection-end="1593" vertical-scroll-proportion="0.0" />
+        <state line="88" column="0" selection-start="2404" selection-end="2641" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mySercurity/pom.xml">
+    <entry file="file://$PROJECT_DIR$/icbc2/para.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="1346" selection-end="1346" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/jre/lib/deploy.jar!/com/sun/deploy/cache/Cache.class">
+    <entry file="file://$PROJECT_DIR$/icbc2/src/main/java/com/sinitek/newtrade/pay/icbc/common/ConfigContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/jre/lib/deploy.jar!/sun/net/www/protocol/http/AuthCacheBridge.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/jre/lib/rt.jar!/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="319" selection-end="377" vertical-scroll-proportion="0.0">
+        <state line="27" column="25" selection-start="819" selection-end="819" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/src.zip!/java/lang/Object.java">
+    <entry file="file://$PROJECT_DIR$/icbc2/src/main/java/icbc/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="21" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0">
+        <state line="9" column="13" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/jre/lib/jce.jar!/javax/crypto/Cipher.class">
+    <entry file="file://$PROJECT_DIR$/icbc2/src/main/java/com/sinitek/newtrade/pay/icbc/common/Server.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="44" selection-start="2260" selection-end="2260" vertical-scroll-proportion="0.0">
+        <state line="8" column="13" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/src.zip!/java/lang/System.java">
+    <entry file="jar://$PROJECT_DIR$/icbc2/lib/commons-httpclient-2.0-rc2.jar!/org/apache/commons/httpclient/protocol/ProtocolSocketFactory.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="0" selection-start="2878" selection-end="2878" vertical-scroll-proportion="0.0">
+        <state line="6" column="17" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/matchers/JUnitMatchers.java">
+    <entry file="jar://$PROJECT_DIR$/icbc2/lib/commons-httpclient-2.0-rc2.jar!/org/apache/commons/httpclient/protocol/SecureProtocolSocketFactory.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="45" selection-start="813" selection-end="813" vertical-scroll-proportion="0.0">
+        <state line="6" column="102" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/Md5Encrypt.java">
+    <entry file="file://$PROJECT_DIR$/icbc2/src/main/java/com/sinitek/newtrade/pay/icbc/common/MySecureProtocolSocketFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="52" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0">
+        <state line="14" column="72" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/Base64.java">
+    <entry file="file://$PROJECT_DIR$/icbc2/src/main/java/com/sinitek/newtrade/pay/icbc/common/ICBCUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="19" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0">
+        <state line="190" column="34" selection-start="6847" selection-end="6847" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1875,18 +2024,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/sercurity/AES.java">
+    <entry file="file://$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/sercurity/RSAKeyGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="39" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0">
+        <state line="23" column="15" selection-start="826" selection-end="826" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar!/org/apache/commons/lang/ArrayUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="13" selection-start="2047" selection-end="2047" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/sercurity/ThreeDes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="267" column="0" selection-start="8225" selection-end="8225" vertical-scroll-proportion="1.9958593">
+        <state line="125" column="56" selection-start="4216" selection-end="4216" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mySercurity/src/main/java/own/hhw/threeDES/ThreeDesUtilBK2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="43" selection-start="511" selection-end="520" vertical-scroll-proportion="0.13956639">
           <folding />
         </state>
       </provider>

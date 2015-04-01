@@ -1,0 +1,42 @@
+#extends("wtgf:page/layout/layout.vm")
+
+    ##jello默认会将页面所有的javascript都挪到页面底部以达到更好的页面性能
+    ##但是有一些javascript需要在页面最初的时候运行，如统计页面加载时间就需要在页面顶部使用javascript记录一个时间
+    ##因此这里用于放置一些javascript，在页面加载的时候运行
+    #block("header_scripts")
+        <script type="text/javascript">
+            //记录一下当前时间，然后绑定一个window.onload事件，再记录一个时间，就能统计出页面加载的时间了   
+            var beginTime = new Date();
+        </script>
+    #end
+
+    ##所有页面相关的velocity变量都必须声明在这里 
+    ##例如这里可以设置一个velocity变量用于在widget里面使用
+    ##也可以在这里覆盖layout模板的velocity变量，如页面的标题
+    ##如果有一些模板变量需要提供给js使用，只需要赋值给$GF_VIEWINFO
+    #block("page_var")
+        #set($HEADER_TITLE = "新的页面title")
+        #set($IS_LOGIN = 0)
+        #set($GF_VIEWINFO.var1 = $tplVar)
+    #end
+
+    ##页面内容
+    #block("content_main")
+        
+        <div class="row-fluid">
+            <div class="span12">
+
+            </div>
+        </div>
+
+    #end
+
+    ##用于加载外部js，或者没有实现amd规范的js文件（就是没有modules.export的那些js）
+    ##如果没有特殊情况，不要在这里写具体的js，具体的js都应该写在模板对应的js中
+    #block("bottom_scripts")
+        #script("")#end
+    #end
+    
+    ##这里的vm路径记得修改为当前页面的路径，这样jello才能找到这个vm对应的js、css等资源自动加载进来
+    #require("wtgf:page/examples/template/template.vm")
+#end

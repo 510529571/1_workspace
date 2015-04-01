@@ -1,0 +1,16 @@
+#extends("wtgf:page/layout/layout.vm")
+
+    #block("header_scripts")
+    #end
+
+    #block("page_var")
+    #end
+
+    #block("content_main")
+    #end
+
+    #block("bottom_scripts")
+    #end
+    
+    #require("wtgf:page/examples/template/template.vm")
+#end

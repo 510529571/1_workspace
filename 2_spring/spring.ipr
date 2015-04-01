@@ -4,7 +4,6 @@
     <artifact type="exploded-war" name="spring_boot:war exploded">
       <output-path>$PROJECT_DIR$/out/artifacts/spring_boot_war_exploded</output-path>
       <root id="root">
-        <element id="javaee-facet-resources" facet="spring_boot/web/Web" />
         <element id="directory" name="WEB-INF">
           <element id="directory" name="classes">
             <element id="module-output" name="spring_boot" />
@@ -19,12 +18,13 @@
             <element id="library" level="project" name="Maven: org.springframework:spring-expression:3.2.0.RELEASE" />
             <element id="library" level="project" name="Maven: org.springframework:spring-web:3.2.0.RELEASE" />
             <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:3.2.0.RELEASE" />
-            <element id="library" level="project" name="Maven: net.sourceforge.stripes:stripes:1.5.7-classloaderfix" />
             <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+            <element id="library" level="project" name="Maven: net.sourceforge.stripes:stripes:1.5.7-classloaderfix" />
             <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.7.4" />
             <element id="library" level="project" name="Maven: org.aspectj:aspectjrt:1.7.4" />
           </element>
         </element>
+        <element id="javaee-facet-resources" facet="spring_boot/web/Web" />
       </root>
     </artifact>
   </component>
@@ -70,7 +70,6 @@
     <file url="file://$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1" charset="GBK" />
     <file url="file://$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/test/SampleTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/spring_boot/src/main/resources/spring.xml" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/spring_mvc" charset="UTF-8" />
   </component>
   <component name="EntryPointsManager">
     <entry_points version="2.0" />

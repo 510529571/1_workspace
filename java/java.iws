@@ -27,12 +27,12 @@
     <file path="$PROJECT_DIR$/../dwr/dwr/dwr.iml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1417159177858" ignored="false" />
     <file path="/test_string.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418004535169" ignored="false" />
     <file path="F:/workspace/toujiyoudao/module/02.web/src/com/sinitek/sfm/paygate/web/utils/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418005157086" ignored="false" />
-    <file path="/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423533393165" ignored="false" />
+    <file path="/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1425956109411" ignored="false" />
     <file path="F:/workspace/gfyh/module/05.wtgf/src/com/sinitek/newtrade/web/fundservice/alipay/ModifyDividendMethodAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418007247089" ignored="false" />
     <file path="F:/workspace/gfyh/module/05.wtgf/src/com/sinitek/newtrade/web/trade/gf/ModifyDividendMethodAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418007453417" ignored="false" />
     <file path="/ModifyDividendMethodAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418007448736" ignored="false" />
-    <file path="/a.dummy" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419238390083" ignored="false" />
-    <file path="/fragment.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601939073" ignored="false" />
+    <file path="/a.dummy" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427448049382" ignored="false" />
+    <file path="/fragment.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427448249323" ignored="false" />
     <file path="$PROJECT_DIR$/../1_struts2/struts2_boot/src/main/java/own/hhw/Download.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418114415461" ignored="false" />
     <file path="$PROJECT_DIR$/../5_struts1/struts1/pom.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418118018177" ignored="false" />
     <file path="$PROJECT_DIR$/../5_struts1/struts1/src/main/java/Download.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418114466873" ignored="false" />
@@ -152,12 +152,12 @@
     <file path="$PROJECT_DIR$/../10_thirdTool/exception/exception/src/test/java/own/hhw/exception/test/ExceptionTest.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422601954918" ignored="false" />
     <file path="F:/workspace/shengchan_bug/02.project/build/src/Sinitek.NewTrade.Pay.AllInPay_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/allinpay/AccountVerifyDataFlowResolver.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422603041401" ignored="false" />
     <file path="F:/workspace/shengchan_bug/02.project/build/bin/Sinitek.NewTrade.Pay.AllInPay_0.9.0.jar!/com/sinitek/newtrade/pay/allinpay/common/AllInPayUtils.class" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422603041401" ignored="false" />
-    <file path="F:/workspace/firstpay/module/06.wtmanage/src/com/sinitek/newtrade/manage/paychannel/MyPayLiqDWR.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422953451548" ignored="false" />
+    <file path="F:/workspace/firstpay/module/06.wtmanage/src/com/sinitek/newtrade/manage/paychannel/MyPayLiqDWR.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427182109376" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/src/test/java/use/MyTest.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422953505581" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/src/main/java/own/hhw/sercurity/AES.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1422954679906" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/src/main/java/own/hhw/util/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423016166961" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/src/main/java/own/hhw/threeDES/ThreeDesUtilBK2.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423462322913" ignored="false" />
-    <file path="/ThreeDesUtilBK2.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423452782052" ignored="false" />
+    <file path="/ThreeDesUtilBK2.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427180797620" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/sercurity/mySercurity/src/main/java/own/hhw/sercurity/ThreeDes.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423463316633" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/Test/test/src/main/java/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423533395338" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/Test/test/src/main/java/String.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423476368437" ignored="false" />
@@ -166,6 +166,44 @@
     <file path="$PROJECT_DIR$/../10_thirdTool/Test/test/src/main/java/java/lang/Class.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423477217037" ignored="false" />
     <file path="/Class.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423476554466" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/Test/test/src/main/java/java/lang/String.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423532953169" ignored="false" />
+    <file path="/ServletResponseWrapper.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1425956060351" ignored="false" />
+    <file path="/String.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427447193107" ignored="false" />
+    <file path="F:/workspace/bug_correct/02.project/module/04.wtbase/03.pay/13.allinpay/src/com/sinitek/newtrade/pay/allinpay/common/AllInPayUtils.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1426041645247" ignored="false" />
+    <file path="/AllInPayUtils.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1426040513927" ignored="false" />
+    <file path="F:/workspace/bug_correct/02.project/build/src/Sinitek.NewTrade.Pay.AllInPay_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/allinpay/common/AllInPayUtils.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1426040563131" ignored="false" />
+    <file path="F:/workspace/bug_correct/02.project/module/05.wtgf/web/trade/trendbalancetrade.jsp" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1426055534031" ignored="false" />
+    <file path="F:/workspace/gfyh/module/08.fe/wtgf/page/account/openaccount/openaccount_step5/openaccount_step5.js" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1426059712259" ignored="false" />
+    <file path="F:/workspace/gfyh/module/08.fe/wtgf/page/layout/layout.vm" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1426059720420" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/jello/jello/module1/page/template/page.vm" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1426060210588" ignored="false" />
+    <file path="/page.vm" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1426061383287" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/jello/jello/module1/page/template/page/page.vm" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1426061383938" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/jello/jello/module1/page/register/register.js" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1426060439780" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/jello/jello/module1/page/register/register.vm" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1426061376203" ignored="false" />
+    <file path="/register.vm" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1426061375781" ignored="false" />
+    <file path="/register.js" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1426060435974" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/jello/jello/module1/server.conf" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1426060745568" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/jello/jello/module1/fis-conf.js" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1426060726224" ignored="false" />
+    <file path="/server.conf" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1426060745568" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/jello/jello/common/server.conf" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1426060913145" ignored="false" />
+    <file path="F:/workspace/firstpay/module/04.wtbase/03.pay/16.firstpay2/src/com/sinitek/newtrade/pay/firstpay2/common/ThreeDesUtilBK2.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427180883493" ignored="false" />
+    <file path="F:/workspace/firstpay/build/src/Sinitek.NewTrade.Pay.firstpay2_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/firstpay2/common/ThreeDesUtilBK2.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427181104235" ignored="false" />
+    <file path="F:/workspace/firstpay/build/bin/Sinitek.NewTrade.Pay.firstpay2_0.9.0.jar!/com/sinitek/newtrade/pay/firstpay2/firstpayconfig.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427181692449" ignored="false" />
+    <file path="/*.regexp" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427180386962" ignored="false" />
+    <file path="F:/workspace/firstpay/module/04.wtbase/03.pay/16.firstpay2/src/com/sinitek/newtrade/pay/firstpay2/VirementFileResolver.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427181671587" ignored="false" />
+    <file path="/VirementFileResolver.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427181662162" ignored="false" />
+    <file path="F:/workspace/firstpay/build/src/Sinitek.NewTrade.Pay.firstpay2_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/firstpay2/VirementFileResolver.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427181692449" ignored="false" />
+    <file path="/MyPayLiqDWR.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427181230047" ignored="false" />
+    <file path="F:/workspace/nc/module/05.wtgf/src/com/sinitek/newtrade/web/trade/gf/BuyAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427183459676" ignored="false" />
+    <file path="/Base64.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427447603536" ignored="false" />
+    <file path="F:/workspace/netbank/src/com/will/netbank/icbc/controller/ICBCNotNCServer.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427449556875" ignored="false" />
+    <file path="/ICBCNotNCServer.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427448600047" ignored="false" />
+    <file path="F:/workspace/netbank/src/com/will/netbank/icbc/controller/ICBCNotNCServer1.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427448251463" ignored="false" />
+    <file path="F:/workspace/netbank/src/com/will/netbank/icbc/controller/ICBCServer.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427448950105" ignored="false" />
+    <file path="/ICBCServer.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427448430131" ignored="false" />
+    <file path="/log4j.properties" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427449666008" ignored="false" />
+    <file path="F:/workspace/netbank/src/config/log4j/log4j.properties" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427449731269" ignored="false" />
+    <file path="F:/workspace/netbank/src/config/netbank.properties" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427449155576" ignored="false" />
+    <file path="F:/workspace/netbank/src/com/will/netbank/icbc/utils/ICBCConfig.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427449151596" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,6 +218,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -216,7 +255,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -226,90 +264,93 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LearnEncoding.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/LearnEncoding.java">
+      <file leaf-file-name="Urlstream.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/stream/Urlstream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="8" selection-start="1597" selection-end="2083" vertical-scroll-proportion="0.28320312">
+            <state line="28" column="27" selection-start="1108" selection-end="1108" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test_HtmlEcoder.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/Test_HtmlEcoder.java">
+      <file leaf-file-name="MyFile.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/MyFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="24" selection-start="295" selection-end="299" vertical-scroll-proportion="0.0">
+            <state line="9" column="13" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="javaRSA.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encrypt/javaRSA.java">
+      <file leaf-file-name="PublicTool.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/PublicTool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="13" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#1315#1331#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThreeDES.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encrypt/ThreeDES/ThreeDES.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="13" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="json.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/main/java/json.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="26" column="13" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
+        </entry>
+      </file>
+      <file leaf-file-name="Test_Stream.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/Test_Stream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="0" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String_temp.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/src/java/lang/String_temp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="0" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Base64.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/src/java/lang/Base64.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="29" selection-start="520" selection-end="520" vertical-scroll-proportion="-6.8965516">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="34" selection-start="1064" selection-end="1064" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Public.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/Public.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="343" column="0" selection-start="10143" selection-end="10143" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpleTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/junit/SimpleTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="13" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/2.txt">
+        <entry file="file://$PROJECT_DIR$/mytest/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Base64.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mytest/src/main/java/Base64.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="58" selection-start="482" selection-end="482" vertical-scroll-proportion="0.63195693">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Urlstream.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/Urlstream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="13" selection-start="535" selection-end="535" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyConsole.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/MyConsole.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="13" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -325,15 +366,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/Test_StringWriter.java" />
-        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/grammar/Test_final.java" />
-        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/Test_Date.java" />
-        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/servlet/User.java" />
-        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/servlet/MyServlet2.java" />
-        <option value="$PROJECT_DIR$/java/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/PublicTool.java" />
-        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/Test_Stream.java" />
-        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/math/Test_Math.java" />
         <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/ObjectStreamWriteAndRead.java" />
         <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/MyConsole.java" />
         <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/Urlstream.java" />
@@ -341,6 +373,15 @@
         <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/exception/WhereThrow.java" />
         <option value="$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/Public.java" />
         <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/LearnEncoding.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/javax/servlet/Test.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/javax/servlet/ServletResponseWrapper.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/Test.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/java/lang/String.java" />
+        <option value="$PROJECT_DIR$/test/src/servlet/ServletResponseWrapper.java" />
+        <option value="$PROJECT_DIR$/test/src/java/lang/String.java" />
+        <option value="$PROJECT_DIR$/test/src/java/lang/String_temp.java" />
+        <option value="$PROJECT_DIR$/test/src/java/lang/Base64.java" />
+        <option value="$PROJECT_DIR$/mytest/src/main/java/Base64.java" />
       </list>
     </option>
   </component>
@@ -450,6 +491,270 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: javax.servlet:servlet-api:2.5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="servlet-api-2.5.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: javax.servlet:servlet-api:2.5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="servlet-api-2.5.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="servlet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="servlet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myTool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myTool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myTool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myTool" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mytest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mytest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mytest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mytest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -470,78 +775,26 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\work\3_project\1_workspace\java\test\src" />
       <recent name="F:\work\3_project\1_workspace\java\myTool\src\main\java\own\hhw" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\work\3_project\1_workspace\java\java\web\WEB-INF" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LearnEncoding.testByte4hex">
-    <configuration default="false" name="Public" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="own.hhw.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="own.hhw.util.Public" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="myTool" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="LearnEncoding.testByte" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="own.hhw.app.encoding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="java" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="own.hhw.app.encoding" />
-      <option name="MAIN_CLASS_NAME" value="own.hhw.app.encoding.LearnEncoding" />
-      <option name="METHOD_NAME" value="testByte" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Base64">
     <configuration default="false" name="LearnEncoding.test42" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -620,6 +873,45 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="own.hhw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="own.hhw.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Base64" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Base64" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mytest" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -656,6 +948,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -682,19 +987,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -734,19 +1026,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Public" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.LearnEncoding.testByte" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.LearnEncoding.test42" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LearnEncoding" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.LearnEncoding.testByte4hex" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.LearnEncoding.test42" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LearnEncoding" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.LearnEncoding.testByte4hex" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Base64" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.LearnEncoding.testByte4hex" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LearnEncoding" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.LearnEncoding.test42" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.LearnEncoding.testByte" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Public" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Base64" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Base64" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.LearnEncoding.testByte4hex" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LearnEncoding" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -791,7 +1083,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -812,7 +1104,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33089432" sideWeight="0.78297365" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33495936" sideWeight="0.7673861" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33495936" sideWeight="0.7673861" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2326139" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -886,117 +1178,115 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/junit/SimpleTest.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5-sources.jar!/javax/servlet/ServletResponseWrapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
+        <state line="91" column="36" selection-start="2511" selection-end="2531" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/javax/servlet/ServletResponseWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="18" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/2.txt">
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="9" column="32" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="23" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/servlet/ServletResponseWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/ObjectStreamWriteAndRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="6" selection-start="2024" selection-end="2024" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/Urlstream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="56" selection-start="1575" selection-end="1578" vertical-scroll-proportion="0.0" />
+        <state line="23" column="13" selection-start="535" selection-end="535" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/MyConsole.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="14" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/Test_String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="33" selection-start="1679" selection-end="1704" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/JDBConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0">
+        <state line="4" column="13" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/List2Josn.java">
+    <entry file="file://$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/PublicTool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="55" selection-start="730" selection-end="730" vertical-scroll-proportion="0.0">
+        <state line="26" column="13" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/junit/SimpleTest.java">
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/MyFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
+        <state line="9" column="13" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/2.txt">
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/stream/Urlstream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="27" selection-start="1108" selection-end="1108" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/Test_Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="0" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/java/lang/String_temp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/java/lang/Base64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="29" selection-start="520" selection-end="520" vertical-scroll-proportion="-6.8965516">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mytest/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/pom.xml">
+    <entry file="file://$PROJECT_DIR$/mytest/src/main/java/Base64.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="34" selection-start="1064" selection-end="1064" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/Public.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="343" column="0" selection-start="10143" selection-end="10143" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/json.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/Test_HtmlEcoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="295" selection-end="299" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encrypt/ThreeDES/ThreeDES.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0">
+        <state line="20" column="58" selection-start="482" selection-end="482" vertical-scroll-proportion="0.63195693">
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encrypt/javaRSA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="13" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1315#1331#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/LearnEncoding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="8" selection-start="1597" selection-end="2083" vertical-scroll-proportion="0.28320312">
-          <folding />
         </state>
       </provider>
     </entry>

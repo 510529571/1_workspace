@@ -131,6 +131,7 @@ public class SendNotNCPackage implements Runnable{
 		mypost.addParameter("Cert", Cert);
 		mypost.addParameter("reqData", reqData);
 
+        int timeout=10000;
 		// ·¢ËÍHTTPS±¨ÎÄ
 		try {
 			Protocol myhttps = new Protocol("https",

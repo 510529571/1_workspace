@@ -1,0 +1,14 @@
+#extends("common:page/layout.vm")
+
+    #block("global_var")
+        #set($PAGE_TITLE="×ÓÌâÄ¿")
+    #end
+
+    #block("content")
+        <div class="content">
+            <h1>Hello World!!</h1>
+            <h2>Welcome!$userName</h2>
+        </div>
+    #end
+    #require("module1:page/template/page/page.vm")
+#end

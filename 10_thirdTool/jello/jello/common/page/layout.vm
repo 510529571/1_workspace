@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+#html("common:static/js/mod.js")
+
+	#set($PAGE_TITLE="默认题目")
+    #set($USE_BOOTSTRAP=1)
+    #block("global_var")
+
+    #end
+
+    #head()
+        <meta http-equiv="Content-Type" content="text/html; charset=gbk"/>
+        <title>$PAGE_TITLE</title>
+        #require("common:static/css/base.css")
+        #if($USE_BOOTSTRAP==1)
+            <link type="text/css" rel="stylesheet" href="/static/common/bootstrap/css/bootstrap.css"/>
+        #end
+        <!--hhw:task jquery.js要用这种方式引入-->
+        <script type="text/javascript" src="/static/common/js/jquery.js"></script>
+    #end
+    #body()
+         <div id="page">
+            <div id="header" style="height: 41px">
+            #block("header")
+                #widget("common:page/header/header.vm")
+            #end
+            </div>
+
+
+            <div class="content">
+                #block("content")
+                #end
+            </div>
+
+            <div id="header">
+            #block("footer")
+                #widget("common:page/footer/footer.vm")
+            #end
+            </div>
+        </div>
+        #if($USE_BOOTSTRAP==1)
+           <script type="text/javascript" src="/static/common/bootstrap/js/bootstrap.js"></script>
+        #end
+    #end
+#require("common:page/layout.vm")
+#end
