@@ -21,9 +21,9 @@
     <file path="$PROJECT_DIR$/../test/trunk/mybatis.iws" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1402389831448" ignored="false" />
     <file path="$PROJECT_DIR$/spring_boot/src/main/java/spring_step1/own/hhw/step1/service/PrintServiceImpl.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1402389548677" ignored="false" />
     <file path="$PROJECT_DIR$/spring_boot/src/main/java/spring_step1/test/SampleTest.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1402389548677" ignored="false" />
-    <file path="/fragment.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1420445297858" ignored="false" />
+    <file path="/fragment.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428043407828" ignored="false" />
     <file path="$PROJECT_DIR$/spring_boot/src/main/java/step1/service/PrintServiceImpl.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1402389575030" ignored="false" />
-    <file path="/pom.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1421117131409" ignored="false" />
+    <file path="/pom.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428045006053" ignored="false" />
     <file path="$PROJECT_DIR$/../struts2/struts2_boot/pom.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1402653187444" ignored="false" />
     <file path="$PROJECT_DIR$/../struts2/struts2_boot/src/main/resources/own/hhw/Test1Action.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1402651505783" ignored="false" />
     <file path="$PROJECT_DIR$/../struts2/struts2_boot/src/main/webapp/WEB-INF/web.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1402653539223" ignored="false" />
@@ -43,7 +43,7 @@
     <file path="/my.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1419496289434" ignored="false" />
     <file path="/note.dtd" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1406788846949" ignored="false" />
     <file path="F:/workspace/tonlianzhifu/module/05.wtgf/web/account/fundaccountinfo.jsp" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1406789586070" ignored="false" />
-    <file path="/a.dummy" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1426586692851" ignored="false" />
+    <file path="/a.dummy" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428048084888" ignored="false" />
     <file path="F:/workspace/tonlianzhifu/module/05.wtgf/web/promision/prompresub.jsp" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1406789700824" ignored="false" />
     <file path="F:/workspace/tonlianzhifu/module/05.wtgf/web/trade/csportfoliofixtrade.jsp" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1406789732706" ignored="false" />
     <file path="F:/workspace/tonlianzhifu/module/05.wtgf/web/trade/fixbalancetrade.jsp" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1406789749744" ignored="false" />
@@ -133,7 +133,7 @@
     <file path="$PROJECT_DIR$/spring_temp/src/main/java/demo/record/User.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1419498910475" ignored="false" />
     <file path="$PROJECT_DIR$/spring_temp/src/main/java/demo/action/UserAction.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1419498910475" ignored="false" />
     <file path="$PROJECT_DIR$/spring_temp/src/main/java/spring/demo/record/User.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1419499019726" ignored="false" />
-    <file path="/SampleTest.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1419586014009" ignored="false" />
+    <file path="/SampleTest.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1427943983014" ignored="false" />
     <file path="F:/workspace/gfyh/module/04.wtbase/03.pay/08.alipay/src/com/sinitek/newtrade/pay/alipay/AccountVerifyResolver.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1419560775824" ignored="false" />
     <file path="/AccountVerifyResolver.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1419560740138" ignored="false" />
     <file path="F:/workspace/gfyh/module/06.wtmanage/src/com/sinitek/newtrade/manage/paychannel/CGBOrderAction.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1419573008349" ignored="false" />
@@ -177,6 +177,47 @@
     <file path="/MBillInfoListAction.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1426640041356" ignored="false" />
     <file path="F:/workspace/nc/module/05.wtgf/mobileapp/src/com/gffunds/mapi/controller/MNwalletBuyBillAction.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1426640086773" ignored="false" />
     <file path="/MNwalletBuyBillAction.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1426640086773" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/bank/bank_context_4.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428044486643" ignored="false" />
+    <file path="/bank_context_4.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1427965992662" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/icbc/common/ICBCUtil.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1427959883650" ignored="false" />
+    <file path="/ICBCUtil.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1427945531509" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/icbc/AccoVerifySMGResolver.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1427965635068" ignored="false" />
+    <file path="/AccoVerifySMGResolver.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428040959768" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/common/BankUtil.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428025670675" ignored="false" />
+    <file path="/BankUtil.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1427966155084" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/test/java/com/gffunds/gfpay/test/SampleTest.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428043550016" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/bank_context.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1427960018387" ignored="false" />
+    <file path="/bank_context.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1427960018387" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/pom.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428052050877" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/gfpay-service.iml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428052084181" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/AccoVerifySMGResolver.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428041948885" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/AccoVerifyWebResolver.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1427964752156" ignored="false" />
+    <file path="/AccoVerifyWebResolver.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1427958217837" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/common/AllinpayUtil.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428052978089" ignored="false" />
+    <file path="/AllinpayUtil.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428052936621" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/bank/bank_context_I.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428047930151" ignored="false" />
+    <file path="/bank_context_I.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1427959866542" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/test/java/com/gffunds/gfpay/test/AllinpayTest.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428043546761" ignored="false" />
+    <file path="/AllinpayTest.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1427960091233" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/com/gffunds/gfpay/bank/allinpay/key/systemconfig.properties" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1427961446768" ignored="false" />
+    <file path="F:/workspace_git/gfpay/pom.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428048866457" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/api/AccoVerifyApi.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428052565570" ignored="false" />
+    <file path="/AccoVerifyApi.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428052557596" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/common/verify/IAccoVerifySMGResolver.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428031882487" ignored="false" />
+    <file path="/IAccoVerifySMGResolver.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1427965637708" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/common/ParamKey.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1427969247443" ignored="false" />
+    <file path="/ParamKey.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1427969236287" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/common/SignPojo.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1427968089995" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/common/BeforeResolver.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428030893453" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/intf/IAccoVerifyApi.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428041711801" ignored="false" />
+    <file path="/IAccoVerifyApi.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428041711043" ignored="false" />
+    <file path="/Dummy.txt" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428043407828" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/src/main/java/com/gffunds/gfpay/controllers/HelloController.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428044637832" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/pom.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428046046529" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/src/main/resources/app-context.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428047930151" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/dubboContext.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428048751327" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/src/test/java/com/gffunds/gfpay/AccoVerifyApiTests.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428050808907" ignored="false" />
+    <file path="/AccoVerifyApiTests.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428050773425" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +232,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -228,6 +268,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -237,55 +278,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PrintServiceImpl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/service/PrintServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="13" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="log4j.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_boot/src/main/resources/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="22" selection-start="77" selection-end="82" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/test/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="13" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spring-context.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="spring-context.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring_boot/src/main/resources/spring-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.34895834">
+            <state line="32" column="51" selection-start="1434" selection-end="1434" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintAction.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/action/PrintAction.java">
+      <file leaf-file-name="spring-aop-2.5.xsd" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/3.2.0.RELEASE/spring-aop-3.2.0.RELEASE.jar!/org/springframework/aop/config/spring-aop-2.5.xsd">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="24" selection-start="584" selection-end="595" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="55" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintDaoImpl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/dao/PrintDaoImpl.java">
+      <file leaf-file-name="bean.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring/src/main/java/bean.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="13" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -294,16 +308,7 @@
       <file leaf-file-name="spring.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring_boot/src/main/resources/spring.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="44" selection-start="1206" selection-end="1206" vertical-scroll-proportion="-9.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="servlet-context.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_boot/src/main/resources/servlet-context.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="4" selection-start="933" selection-end="933" vertical-scroll-proportion="-8.0">
+            <state line="16" column="27" selection-start="956" selection-end="956" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -312,25 +317,52 @@
       <file leaf-file-name="LogUtil.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/util/LogUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="21" selection-start="559" selection-end="559" vertical-scroll-proportion="0.0">
+            <state line="20" column="53" selection-start="512" selection-end="517" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_boot/web/WEB-INF/web.xml">
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
-            <state />
-          </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
-            <state />
-          </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
-            <state />
-          </provider>
+      <file leaf-file-name="源码学习.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring/doc/源码学习.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="47" selection-start="532" selection-end="532" vertical-scroll-proportion="-5.8333335">
+            <state line="9" column="35" selection-start="627" selection-end="663" vertical-scroll-proportion="0.29960054">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProceedingJoinPoint.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.7.4/aspectjweaver-1.7.4-sources.jar!/org/aspectj/lang/ProceedingJoinPoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="3" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_boot/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="6" selection-start="1731" selection-end="2068" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aspectj_1_5_0.dtd" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.7.4/aspectjweaver-1.7.4.jar!/aspectj_1_5_0.dtd">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="10" selection-start="1820" selection-end="1820" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="servlet-context.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_boot/src/main/resources/servlet-context.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="4" selection-start="933" selection-end="933" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -509,6 +541,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -580,15 +613,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
+              <option name="myItemId" value="view" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -607,44 +636,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="properties" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring_boot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -667,104 +658,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring_boot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring_boot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring_boot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="action" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -820,7 +713,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spring_step1" />
+              <option name="myItemId" value="spring_servlet_proxy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -834,11 +727,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spring_step1" />
+              <option name="myItemId" value="spring_servlet_proxy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="spring_servlet_proxy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -852,11 +745,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spring_step1" />
+              <option name="myItemId" value="spring_servlet_proxy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="step1" />
+              <option name="myItemId" value="spring_servlet_proxy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -874,15 +767,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spring_step1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dao" />
+              <option name="myItemId" value="doc" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -896,13 +781,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spring_servlet_proxy" />
+              <option name="myItemId" value="doc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="权限设计" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -936,13 +824,13 @@
       <recent name="F:\work\workspace\spring\spring_boot\src\main\java\own\hhw" />
       <recent name="F:\work\workspace\spring\spring_boot\src\main\java" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\work\3_project\1_workspace\2_spring\spring_temp\src\main\java" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="li.spring" />
       <recent name="li" />
       <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\work\3_project\1_workspace\2_spring\spring_temp\src\main\java" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 6.0">
@@ -1234,11 +1122,11 @@
       </method>
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.SampleTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Application" />
-      <item index="4" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 6.0" />
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 6.0" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SampleTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Application" />
     </list>
     <recent_temporary>
       <list size="4">
@@ -1264,7 +1152,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1277,7 +1165,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33252034" sideWeight="0.39808154" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853717" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1285,12 +1172,13 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34308943" sideWeight="0.74580336" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297362" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33252034" sideWeight="0.58992803" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33252034" sideWeight="0.67026377" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22182254" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297362" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853717" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1359,123 +1247,119 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring/spring_step1/own/hhw/step1/dao/PrintDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring/spring_step1/own/hhw/step1/dao/PrintDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="17" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring/spring_step1/test/SampleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="1197" selection-end="1197" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring/spring_step1/spring.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="8" selection-start="605" selection-end="605" vertical-scroll-proportion="-10.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/service/PrintService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="17" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/test/SampleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="13" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/test/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/dao/PrintDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="13" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_boot/src/main/resources/spring.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="44" selection-start="1206" selection-end="1206" vertical-scroll-proportion="-9.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/action/PrintAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="24" selection-start="584" selection-end="595" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/service/PrintServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="13" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/util/LogUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="21" selection-start="559" selection-end="559" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring_boot/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="77" selection-end="82" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="3" column="22" selection-start="77" selection-end="82" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring_boot/web/WEB-INF/web.xml">
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
         <state />
       </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
         <state />
       </provider>
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="47" selection-start="532" selection-end="532" vertical-scroll-proportion="-5.8333335">
+        <state line="13" column="47" selection-start="532" selection-end="532" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_boot/src/main/resources/properties/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/spring_servlet_proxy/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="53" selection-start="679" selection-end="690" vertical-scroll-proportion="-9.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/spring_step1/test/SampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="60" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/spring_step1/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="8" selection-start="605" selection-end="605" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/src/main/java/bean.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring_boot/src/main/resources/servlet-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="4" selection-start="933" selection-end="933" vertical-scroll-proportion="-8.0">
+        <state line="17" column="4" selection-start="933" selection-end="933" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/3.2.0.RELEASE/spring-aop-3.2.0.RELEASE.jar!/org/springframework/aop/config/spring-aop-2.5.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="55" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring_boot/src/main/resources/spring-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.34895834">
+        <state line="32" column="51" selection-start="1434" selection-end="1434" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_boot/src/main/resources/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="27" selection-start="956" selection-end="956" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.7.4/aspectjweaver-1.7.4-sources.jar!/org/aspectj/lang/ProceedingJoinPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="3" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.7.4/aspectjweaver-1.7.4.jar!/aspectj_1_5_0.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="10" selection-start="1820" selection-end="1820" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_boot/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="6" selection-start="1731" selection-end="2068" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/util/LogUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="53" selection-start="512" selection-end="517" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/doc/源码学习.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="35" selection-start="627" selection-end="663" vertical-scroll-proportion="0.29960054">
           <folding />
         </state>
       </provider>

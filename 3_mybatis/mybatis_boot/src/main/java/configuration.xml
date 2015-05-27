@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
+    <properties resource="property/mybatis.properties"></properties>
 	<settings>
 		<!-- 这个配置使全局的映射器启用或禁用缓存 -->
 		<setting name="cacheEnabled" value="true" />
@@ -30,8 +31,8 @@
 			<dataSource type="POOLED">
 				<property name="driver" value="oracle.jdbc.driver.OracleDriver" />
 				<property name="url" value="jdbc:oracle:thin:@10.88.115.115:1521:iftestdb" />
-				<property name="username" value="xnnsu74" />
-				<property name="password" value="xnnsu74" />
+				<property name="username" value="${username}" />
+				<property name="password" value="${password}" />
                 <!-- POOLED  -->
                 <property name="poolMaximumActiveConnections" value="3"/>
                 <property name="poolMaximumIdleConnections" value="0"/>

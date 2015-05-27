@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="GBK"?>
+<!DOCTYPE generatorConfiguration
+        PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+
+<generatorConfiguration>
+
+    <classPathEntry location="F:\work\3_project\9_maven\stone\com\oracle\ojdbc\14.0\ojdbc-14.0.jar"/>
+
+    <context id="MySqlTables" targetRuntime="MyBatis3">
+
+        <!--        <jdbcConnection driverClass="oracle.jdbc.OracleDriver"
+                                connectionURL="jdbc:oracle:thin:@10.88.115.115:1521:IFTESTDB"
+                                userId="xnnsu2"
+                                password="xnnsu2">
+                </jdbcConnection>-->
+        <jdbcConnection driverClass="oracle.jdbc.OracleDriver"
+                        connectionURL="jdbc:oracle:thin:@10.88.115.78:1521:NTTESTDB"
+                        userId="gfpay"
+                        password="gfpay">
+        </jdbcConnection>
+
+        <javaTypeResolver>
+            <property name="forceBigDecimals" value="false"/>
+        </javaTypeResolver>
+
+        <!-- generate Model -->
+        <javaModelGenerator targetPackage="own.hhw.domain"
+                            targetProject="F:\work\3_project\1_workspace\3_mybatis\auto_create_dao\src\main\java">
+            <property name="enableSubPackages" value="true"/>
+            <property name="trimStrings" value="true"/>
+        </javaModelGenerator>
+
+        <!-- generate xml -->
+        <sqlMapGenerator targetPackage="own.hhw.dao"
+                         targetProject="F:\work\3_project\1_workspace\3_mybatis\auto_create_dao\src\main\resources">
+            <property name="enableSubPackages" value="true"/>
+        </sqlMapGenerator>
+
+        <!-- generate Mapper -->
+        <javaClientGenerator type="XMLMAPPER" targetPackage="own.hhw.dao"
+                             targetProject="F:\work\3_project\1_workspace\3_mybatis\auto_create_dao\src\main\java">
+            <property name="enableSubPackages" value="true"/>
+        </javaClientGenerator>
+
+
+        <table schema="" tableName="pay_info" domainObjectName="PayInfo"></table>
+
+    </context>
+</generatorConfiguration>

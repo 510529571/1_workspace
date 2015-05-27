@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/../test/trunk/mybatis.iws" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1402394704319" ignored="false" />
     <file path="$PROJECT_DIR$/../hhw/hhw/mybatis/pom.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1402390192819" ignored="false" />
-    <file path="/pom.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1420008703366" ignored="false" />
+    <file path="/pom.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428647435085" ignored="false" />
     <file path="$PROJECT_DIR$/mybatis_boot/src/main/java/hhw/resultMap/po/Ptable.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1402390250300" ignored="false" />
     <file path="$PROJECT_DIR$/mybatis_boot/src/main/java/hhw/util/MybatisUtil.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1402390250300" ignored="false" />
     <file path="$PROJECT_DIR$/mybatis_boot/src/main/java/hhw/resultMap/po/Ctable1.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1402390250300" ignored="false" />
@@ -25,9 +25,9 @@
     <file path="$PROJECT_DIR$/mybatis_boot/src/main/java/hhw/sql/test/SessionSql.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1402390250300" ignored="false" />
     <file path="$PROJECT_DIR$/../hhw/hhw/mybatis/mybatis.iml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1402391084401" ignored="false" />
     <file path="/mybatis_boot.iml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1402391881965" ignored="false" />
-    <file path="/fragment.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1419498986764" ignored="false" />
+    <file path="/fragment.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431070914171" ignored="false" />
     <file path="/Test.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409551494582" ignored="false" />
-    <file path="/a.dummy" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426734574554" ignored="false" />
+    <file path="/a.dummy" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1432537020815" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/jpetstore-6/src/main/java/org/mybatis/jpetstore/service/AccountService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406713952453" ignored="false" />
     <file path="/AccountService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406713805103" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/jpetstore-6/src/main/java/org/mybatis/jpetstore/service2/AccountService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406538931241" ignored="false" />
@@ -41,7 +41,7 @@
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/jpetstore-6/src/main/java/org/mybatis/jpetstore/service1/CatalogService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406539155445" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/jpetstore-6/src/main/java/org/mybatis/jpetstore/service1/AccountServiceImpl.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406539260847" ignored="false" />
     <file path="/applicationContext.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1419845074407" ignored="false" />
-    <file path="/configuration.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1417072930240" ignored="false" />
+    <file path="/configuration.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1432523405588" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/jpetstore-6/src/main/java/org/mybatis/jpetstore/web/actions/CartActionBean.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406713011101" ignored="false" />
     <file path="/CartActionBean.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406712995836" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/jpetstore-6/src/main/java/org/mybatis/jpetstore/service/OrderService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406713946341" ignored="false" />
@@ -61,8 +61,8 @@
     <file path="/walletfixtrade.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406789815859" ignored="false" />
     <file path="F:/workspace/tonlianzhifu/module/05.wtgf/web/wallet/fundprom.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406789853774" ignored="false" />
     <file path="/fundprom.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406789848529" ignored="false" />
-    <file path="/CardBinMapper.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406792573772" ignored="false" />
-    <file path="/Select.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1407981176995" ignored="false" />
+    <file path="/CardBinMapper.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1430809694015" ignored="false" />
+    <file path="/Select.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431413267753" ignored="false" />
     <file path="F:/workspace/tongliankaika/module/05.wtgf/src/com/sinitek/newtrade/web/util/gf/fast/FastRedeemUserBankCard.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406794704318" ignored="false" />
     <file path="/FastRedeemUserBankCard.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406793977209" ignored="false" />
     <file path="F:/workspace/tongliankaika/module/05.wtgf/src/com/gffunds/service/implementations/wallet/WalletRepayService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406794019881" ignored="false" />
@@ -335,7 +335,7 @@
     <file path="F:/workspace/trunk_merge/module/05.wtgf/META-INF/weblogic-ejb-jar.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1407986825419" ignored="false" />
     <file path="F:/workspace/trunk_merge/module/05.wtgf/web/WEB-INF/newtrade_common_el.tld" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1407986825419" ignored="false" />
     <file path="F:/workspace/trunk_merge/module/05.wtgf/META-INF/ejb-jar.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1407986825419" ignored="false" />
-    <file path="F:/workspace/trunk_merge/module/05.wtgf/web/WEB-INF/applicationContext.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1407986825419" ignored="false" />
+    <file path="F:/workspace/trunk_merge/module/05.wtgf/web/WEB-INF/applicationContext.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1430990916276" ignored="false" />
     <file path="F:/workspace/trunk_merge/module/05.wtgf/src/com/sinitek/newtrade/web/repayment/gf/text_repayment.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1407986825419" ignored="false" />
     <file path="F:/workspace/trunk_merge/module/05.wtgf/web/WEB-INF/newtrade_moneyfund.tld" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1407986825419" ignored="false" />
     <file path="F:/workspace/trunk_merge/module/05.wtgf/src/com/sinitek/newtrade/web/repayment/gf/RepayDebitCardAction.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1407986825419" ignored="false" />
@@ -367,7 +367,7 @@
     <file path="F:/workspace/trunk_merge/module/05.wtgf/mobileapp/src/com/sinitek/newtrade/web/walletapp/NewWallteOverviewAction.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1407986825419" ignored="false" />
     <file path="F:/workspace/trunk_merge/module/05.wtgf/web/WEB-INF/newtrade_portfolioinfo.tld" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1407986825419" ignored="false" />
     <file path="F:/workspace/trunk_merge/module/05.wtgf/mobileapp/src/com/sinitek/newtrade/web/walletapp/NewWalletQueryOfExExchangeAction.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1407986825419" ignored="false" />
-    <file path="F:/workspace/trunk_merge/module/05.wtgf/web/WEB-INF/dataAccessContext-local.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1407986825419" ignored="false" />
+    <file path="F:/workspace/trunk_merge/module/05.wtgf/web/WEB-INF/dataAccessContext-local.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1430990916276" ignored="false" />
     <file path="F:/workspace/trunk_merge/module/05.wtgf/web/WEB-INF/newtrade_pay.tld" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1407986825419" ignored="false" />
     <file path="F:/workspace/trunk_merge/module/05.wtgf/mobileapp/src/com/sinitek/newtrade/web/walletapp/NewWalletPersonalAction.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1407986825419" ignored="false" />
     <file path="F:/workspace/trunk_merge/module/05.wtgf/web/WEB-INF/newtrade_pay_el.tld" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1407986825419" ignored="false" />
@@ -466,7 +466,7 @@
     <file path="$PROJECT_DIR$/../designMode/decorator/src/main/java/step3/Sneakers.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1408958963887" ignored="false" />
     <file path="$PROJECT_DIR$/../designMode/decorator/src/main/java/step3/BigTrouser.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1408958971346" ignored="false" />
     <file path="$PROJECT_DIR$/../designMode/decorator/src/main/java/step3/Suit.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1408958980733" ignored="false" />
-    <file path="/Cache.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409911344900" ignored="false" />
+    <file path="/Cache.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431412916688" ignored="false" />
     <file path="F:/workspace/gfyh/module/04.wtbase/03.pay/14.cgb/src/com/sinitek/newtrade/pay/cgb/common/CGBUtils.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409281572933" ignored="false" />
     <file path="F:/workspace/gfyh/module/04.wtbase/03.pay/14.cgb/src/com/sinitek/newtrade/pay/cgb/resolver/SMGPayResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409023144419" ignored="false" />
     <file path="$PROJECT_DIR$/../4_sercurity/Java-XML-Signature-master/src/main/java/com/gffunds/sercurity/xml/DocumentUtil.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409023246159" ignored="false" />
@@ -511,21 +511,17 @@
     <file path="/DefaultSqlSession.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409562171753" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/test/java/org/apache/ibatis/jdbc/SQLTest.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409535968394" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/test/java/org/apache/ibatis/parsing/XPathParserTest.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409535968394" ignored="false" />
-    <file path="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/test/java/log4j.properties" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409561641208" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/test/java/org/apache/ibatis/jdbc/PooledDataSourceTest.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409535968394" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/test/java/org/apache/ibatis/jdbc/NullTest.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409535968394" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/test/java/org/apache/ibatis/logging/LogFactoryTest.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409535968394" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/main/java/org/apache/ibatis/io/Resources.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409535968394" ignored="false" />
-    <file path="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/test/java/org/apache/ibatis/BaseDataTest.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409561641208" ignored="false" />
     <file path="/BaseBuilder.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409540205513" ignored="false" />
     <file path="$PROJECT_DIR$/../../1_workspace_temp/0_hhw/hhw/java/src/own/hhw/app/xml/Test.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409551523528" ignored="false" />
-    <file path="/log4j.properties" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1410246281847" ignored="false" />
+    <file path="/log4j.properties" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431053837217" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/test/java/org/apache/ibatis/cache/FifoCacheTest.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409561611098" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/test/java/org/apache/ibatis/cache/BaseCacheTest.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409561641208" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/test/java/org/apache/ibatis/cache/SuperCacheTest.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409561641208" ignored="false" />
-    <file path="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/test/java/resources/nodelet_test.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409561641208" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/test/java/org/apache/ibatis/cache/LruCacheTest.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409561641208" ignored="false" />
-    <file path="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/test/java/org/apache/ibatis/transaction/managed/ManagedTransactionFactoryTest.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409561641208" ignored="false" />
     <file path="/WrapperDataTable.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409628119481" ignored="false" />
     <file path="/BaseTypeHandler.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409640624614" ignored="false" />
     <file path="/MoreTable.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1410247529024" ignored="false" />
@@ -558,7 +554,7 @@
     <file path="$PROJECT_DIR$/../framework/xmlreader/src/main/java/own/hhw/impl/PayStarter.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1416990673085" ignored="false" />
     <file path="$PROJECT_DIR$/../framework/xmlreader/src/main/java/own/hhw/IPayStarter.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1416990666912" ignored="false" />
     <file path="$PROJECT_DIR$/../framework/xmlreader/src/main/java/own/hhw/Main.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1416990510900" ignored="false" />
-    <file path="/Main.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1417082418677" ignored="false" />
+    <file path="/Main.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1427874225237" ignored="false" />
     <file path="$PROJECT_DIR$/../framework/xmlreader/src/main/java/Main.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1416990561646" ignored="false" />
     <file path="/PayStarter.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1416990671852" ignored="false" />
     <file path="/IPayStarter.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1416990666912" ignored="false" />
@@ -686,7 +682,7 @@
     <file path="$PROJECT_DIR$/../10_thirdTool/servlet/servlet/web/WEB-INF/web.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1419989715074" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/spring-mvc-showcase/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1420008282472" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/spring-mvc-showcase/src/main/webapp/WEB-INF/web.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1419992654266" ignored="false" />
-    <file path="/web.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1420009867118" ignored="false" />
+    <file path="/web.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428631617997" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/spring_user/spring-mvc-mybatis-sample/pom.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1420011293412" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/spring_user/spring_user.ipr" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1420014640949" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/spring_user/spring-mvc-mybatis-sample/Makefile" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1420011293412" ignored="false" />
@@ -695,7 +691,7 @@
     <file path="/resolvers-context.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1420014360166" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/spring_user/spring-mvc-mybatis-sample/src/main/webapp/WEB-INF/resolvers-context.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1420014364262" ignored="false" />
     <file path="F:/workspace/nc/module/05.wtgf/src/mybatis_config.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426644445226" ignored="false" />
-    <file path="/mybatis_config.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426644445226" ignored="false" />
+    <file path="/mybatis_config.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431323867429" ignored="false" />
     <file path="F:/workspace/nc/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/common/ICBCUtils.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426674636022" ignored="false" />
     <file path="F:/workspace/nc/build/src/Sinitek.NewTrade.Pay.ICBC_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/icbc/AccountVerifySZResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426645144645" ignored="false" />
     <file path="F:/workspace/nc/build/src/Sinitek.NewTrade.Pay.ICBC_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/icbc/common/ICBCUtils.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426663065566" ignored="false" />
@@ -707,6 +703,211 @@
     <file path="/AgentPaymentSZService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426674133983" ignored="false" />
     <file path="F:/workspace/nc/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/service/AgentPaymentSZService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426733342278" ignored="false" />
     <file path="F:/workspace/nc/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/service/QuerySZService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1426733349347" ignored="false" />
+    <file path="/generatorConfig.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1430987215978" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/intf/IAccoVerifyApi.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428655370567" ignored="false" />
+    <file path="/IAccoVerifyApi.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428552552361" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/src/main/resources/generatorConfig.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428478842088" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-common/src/main/java/com/gffunds/gfpay/common/dao/AccoInfoMapper.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428478828686" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-common/src/main/resources/com/gffunds/gfpay/common/dao/AccoInfoMapper.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428478828686" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-common/src/main/java/com/gffunds/gfpay/common/domain/AccoInfo.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428478828686" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-common/src/main/java/com/gffunds/gfpay/common/domain/AccoInfoExample.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428478828686" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/api/AccoVerifyApi.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428660261700" ignored="false" />
+    <file path="/AccoVerifyApi.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428660255065" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-common/src/main/java/com/gffunds/gfpay/common/domain/VerifyInfo.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428478849418" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-common/src/main/java/com/gffunds/gfpay/common/domain/VerifyInfoExample.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428478849418" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-common/src/main/java/com/gffunds/gfpay/common/dao/VerifyInfoMapper.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428478849418" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-common/src/main/resources/com/gffunds/gfpay/common/dao/VerifyInfoMapper.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428478849418" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/service/verify/VerifyInfoService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428564022016" ignored="false" />
+    <file path="/VerifyInfoService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428564017455" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/verify/AccoVerifySMGBankResp.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428479118050" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/verify/AccoVerifySMGCheckReq.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428560110153" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/common/verify/IAccoVerifySMGResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428552764304" ignored="false" />
+    <file path="/IAccoVerifySMGResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428552762792" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/AccoVerifySMGResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428652366490" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/icbc/AccoVerifySMGResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428552910385" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/common/AllinpayUtil.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429236733961" ignored="false" />
+    <file path="/AllinpayUtil.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428645437494" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/common/PayConfigManager.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429170429946" ignored="false" />
+    <file path="/PayConfigManager.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429170318444" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/bank_context.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429170390895" ignored="false" />
+    <file path="/bank_context.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428548013581" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/bank/bank_context_4.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428484626811" ignored="false" />
+    <file path="/bank_context_4.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428484624740" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/service/verify/VerifyCodeInfoService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428564562686" ignored="false" />
+    <file path="/VerifyCodeInfoService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428564552783" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/service.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429234451365" ignored="false" />
+    <file path="/service.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429234447638" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/src/test/java/com/gffunds/gfpay/AccoVerifyApiTests.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428660320497" ignored="false" />
+    <file path="/AccoVerifyApiTests.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428571527426" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/properties/bankcore.properties" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429254762681" ignored="false" />
+    <file path="/bankcore.properties" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429254235574" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/service/system/IParamFactoryService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428544778696" ignored="false" />
+    <file path="/IParamFactoryService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428544778696" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/properties/banksmg.properties" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428544096313" ignored="false" />
+    <file path="/banksmg.properties" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428544091465" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/service/system/IPayParamService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428545101560" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/service/system/PayParamPropService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428547847750" ignored="false" />
+    <file path="/PayParamPropService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428547771781" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/service/system/PayParamDBService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428545101560" ignored="false" />
+    <file path="/PayParamDBService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428545090746" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/common/BankUtil.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428547826472" ignored="false" />
+    <file path="/BankUtil.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428547825046" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/common/AllinpayStart.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429254995380" ignored="false" />
+    <file path="/AllinpayStart.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429254995380" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/bank/bank_context_I.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429255077292" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/verify/AccoVerifySMGBankReq.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428548441771" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/verify/AccoVerifySMGReq.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428548501853" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/src/main/java/com/gffunds/gfpay/controllers/HelloController.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428630859601" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/verify/AccoVerifySMGResp.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428548506572" ignored="false" />
+    <file path="/AccoVerifySMGResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428645259742" ignored="false" />
+    <file path="/HelloController.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428630720747" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/verify/AccoVerifySMGCheckResp.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428553822852" ignored="false" />
+    <file path="/AccoVerifySMGCheckResp.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428553782606" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/exception/ReturnCode.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428652189252" ignored="false" />
+    <file path="/ReturnCode.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428652189252" ignored="false" />
+    <file path="F:/workspace/netbank/src/com/will/netbank/allinpay/service/handler/auth/AllinpayOnlineAuthHandler.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428561071149" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/common/ParamKey.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429236088621" ignored="false" />
+    <file path="/ParamKey.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429236088621" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/service/verify/AccoInfoService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428573745979" ignored="false" />
+    <file path="/AccoInfoService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428573320276" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/src/main/resources/logback.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428574738062" ignored="false" />
+    <file path="/logback.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428574449914" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/src/main/java/com/gffunds/gfpay/controllers/VerifyController.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428656647822" ignored="false" />
+    <file path="/VerifyController.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428655605725" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/src/main/webapp/WEB-INF/pages/verifyWebStart.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428631026078" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/src/main/webapp/WEB-INF/pages/verifyWebAutoJump.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428631103044" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/src/main/webapp/WEB-INF/pages/verify/verifyResult.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428631133880" ignored="false" />
+    <file path="/verifyWebStart.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428635032390" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/src/main/webapp/WEB-INF/pages/verify/verifyWebStart.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428634059760" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/src/main/webapp/WEB-INF/web.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428649453443" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/src/main/webapp/WEB-INF/test.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428631776304" ignored="false" />
+    <file path="F:/workspace/baidu/wallet-main/partner-controller/src/main/webapp/WEB-INF/web.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429173604069" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/src/main/webapp/WEB-INF/pages/verify/verifyPre.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428654898040" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/AccoVerifyWebResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428655775837" ignored="false" />
+    <file path="/AccoVerifyWebResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428655491907" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/common/verify/IAccoVerifyWebResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428655418829" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/src/main/webapp/WEB-INF/pages/verify/verifyWebAutoJump.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428653930695" ignored="false" />
+    <file path="/verifyWebAutoJump.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428649674420" ignored="false" />
+    <file path="F:/workspace_git/gfpay/pom.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428647438717" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/pom.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428647456442" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/verify/AccoVerifyWebFormResp.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428647719534" ignored="false" />
+    <file path="/AccoVerifyWebFormResp.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428647711484" ignored="false" />
+    <file path="/verifyPre.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428654810112" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/src/main/webapp/WEB-INF/pages/verify/verifyReturn.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428653798435" ignored="false" />
+    <file path="/verifyReturn.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428653797310" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/icbc/AccoVerifyWebResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428655461987" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/exception/PayException.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428652262453" ignored="false" />
+    <file path="/PayException.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428652248002" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/verify/AccoVerifyWebResultReq.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428655332581" ignored="false" />
+    <file path="/AccoVerifyWebResultReq.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428655330908" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/verify/AccoVerifyWebResultResp.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428655877173" ignored="false" />
+    <file path="F:/workspace_git/gfpay/README" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428656582504" ignored="false" />
+    <file path="/README" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428656582504" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/common/VerifyCodeState.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428659023546" ignored="false" />
+    <file path="/VerifyCodeState.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428659192764" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/common/VerifyCodeInfoState.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428659192764" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/common/VerifyInfoCodeFlag.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428659416837" ignored="false" />
+    <file path="/VerifyInfoCodeFlag.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428659407094" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/common/VerifyCodeFlag.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1428659495430" ignored="false" />
+    <file path="/CardBinMapper.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429171460793" ignored="false" />
+    <file path="/Ptable.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429149910130" ignored="false" />
+    <file path="/App.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429171592910" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/api/PayApi.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429153642176" ignored="false" />
+    <file path="/PayApi.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429153417665" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/intf/IPayApi.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429153252895" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/pay/PayWebResultReq.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429152873917" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/pay/PayWebResultResp.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429153361521" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/PayWebResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429153962695" ignored="false" />
+    <file path="/PayWebResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429153800994" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/common/verify/IPayWebResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429153962695" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/pay/PayWebFormResp.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429153881407" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-common/src/main/resources/com/gffunds/gfpay/common/dao/AgentpaymentFlowExtMapper.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429171445187" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-common/src/main/java/com/gffunds/gfpay/common/dao/AgentpaymentFlowExtMapper.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429170698048" ignored="false" />
+    <file path="/AgentpaymentFlowExtMapper.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429170698048" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/service/agentpayment/AgentpaymentFlowService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429168907668" ignored="false" />
+    <file path="/AgentpaymentFlowService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429171228764" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/agentpayment/AgentPayReq.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429233860854" ignored="false" />
+    <file path="/AgentPayReq.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429168437953" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/virement/VirementReq.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429257190319" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/pay/PaySMGReq.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429168607257" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/pay/PayWebFormReq.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429168626972" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/api/AgentPayApi.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429256412863" ignored="false" />
+    <file path="/AgentPayApi.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429236279138" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/service/agentpayment/AgentpayService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429230807565" ignored="false" />
+    <file path="/AgentpayService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429177006306" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/intf/IAgentPayApi.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429170467086" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/AgentPayResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429255120844" ignored="false" />
+    <file path="/AgentPayResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429241031080" ignored="false" />
+    <file path="/AgentpaymentFlowExtMapper.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429170811207" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/src/test/java/com/gffunds/gfpay/AgentPayApi.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429233159194" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/src/test/java/com/gffunds/gfpay/AgentPayApiTest.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429234583417" ignored="false" />
+    <file path="/AgentPayApiTest.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429234117901" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/dubboServerContext.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429233459579" ignored="false" />
+    <file path="/dubboServerContext.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429233400210" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/common/verify/IAgentPayResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429237065492" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/api/VirementApi.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429256586438" ignored="false" />
+    <file path="/VirementApi.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429256581325" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/intf/IVirementApi.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429256557751" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/service/virement/VirementFlowService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429257931901" ignored="false" />
+    <file path="/VirementFlowService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429257810810" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/common/verify/IVirementResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429257125785" ignored="false" />
+    <file path="/IVirementResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429256492124" ignored="false" />
+    <file path="/VirementResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429257110767" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/VirementResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429257365357" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-controller/src/test/java/com/gffunds/gfpay/VirementApiTest.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429257674507" ignored="false" />
+    <file path="/VirementApiTest.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429257673068" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/domain/statement/StatementImportResp.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429263605573" ignored="false" />
+    <file path="/StatementImportResp.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429263583571" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/api/StatementImportApi.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429264110761" ignored="false" />
+    <file path="/StatementImportApi.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429264109726" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-intf/src/main/java/com/gffunds/gfpay/intf/IStatementImportApi.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429263922235" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/StatementImportFileResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429264035966" ignored="false" />
+    <file path="/StatementImportFileResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429264035000" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/common/verify/IStatementImportFileResolver.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1429264028803" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/src/com/gffunds/domain/FundShowMapper.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1430987279490" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/src/com/gffunds/domain/FundShow.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431068437251" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/src/com/gffunds/domain/FundShowExample.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1430987279094" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/web/FundShowMapper.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1430987380495" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/web/WEB-INF/web.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1430987380495" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/src/com/gffunds/dao/FundShowMapper.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431067661203" ignored="false" />
+    <file path="/FundShowMapper.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431067445768" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/src/com/gffunds/dao/FundShowMapper.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1430989825776" ignored="false" />
+    <file path="/FundShowMapper.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1430989825477" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/src/com/gffunds/service/interfaces/fund/ISpecialFundService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1430988731907" ignored="false" />
+    <file path="/ISpecialFundService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1430988639618" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/src/com/gffunds/service/implementations/fund/SpecialFundService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431070478330" ignored="false" />
+    <file path="/SpecialFundService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431070317750" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/src/com/gffunds/service/implementations/login/IpLockedService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1430988215949" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/mobileapp/src/com/gffunds/mapi/controller/SpecialFundAction.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1430988354478" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/src/com/gffunds/controller/SpecialFundAction.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431052976849" ignored="false" />
+    <file path="/SpecialFundAction.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431052976849" ignored="false" />
+    <file path="/FundShow.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431071211078" ignored="false" />
+    <file path="F:/workspace/trunk_merge/module/05.wtgf/web/include/page/mainmenu.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1430990916276" ignored="false" />
+    <file path="F:/workspace/trunk_merge/module/05.wtgf/web/scripts/buypre.js" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1430990916276" ignored="false" />
+    <file path="F:/workspace/trunk_merge/module/05.wtgf/web/trade/specialfundbuy.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1430990916276" ignored="false" />
+    <file path="F:/workspace/trunk_merge/module/05.wtgf/web/include/page/leftmenu.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1430990916276" ignored="false" />
+    <file path="F:/workspace/trunk_merge/module/05.wtgf/src/com/gffunds/controller/DeleRequestQueryController.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1430990916276" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/web/WEB-INF/dataAccessContext-local.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431066223561" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/src/metadbconfig.properties" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1432536932569" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/src/serviceclient.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1432536932569" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/src/log4j2.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431053738613" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/web/WEB-INF/log4j.properties" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431068529502" ignored="false" />
+    <file path="/dataAccessContext-local.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431066223561" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/src/com/gffunds/controller/SpecialFundController.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431071484825" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/src/com/gffunds/dto/FundShow.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431071047545" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/src/com/gffunds/dto/FundShowDto.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431071224748" ignored="false" />
+    <file path="/FundShowDto.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431071068703" ignored="false" />
+    <file path="/SpecialFundController.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431071329096" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/web/special/specialshare.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431073451242" ignored="false" />
+    <file path="/specialshare.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431073439990" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/src/com/sinitek/newtrade/web/trade/gf/SpecialBuyAction.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431074308302" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../2_工作资料/2_广发项目/6_升级补丁/0_打包工具/PackerV2/env.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431075990001" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/src/mybatis_config.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1431324332045" ignored="false" />
+    <file path="/mybatis.properties" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1432523297008" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/04.wtbase/03.pay/07.chinapnr/src/com/sinitek/newtrade/pay/chinapnr/pkgbuild/PayService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1432536079617" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/src/cacheContext.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1432536932569" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/web/WEB-INF/applicationContext.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1432536932569" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/04.wtbase/03.pay/07.chinapnr/src/com/sinitek/newtrade/pay/chinapnr/common/ChinaPNRUtils.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1432542901554" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -721,7 +922,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -804,51 +1004,6 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/main/java/org/apache/ibatis/mapping/MappedStatement.java" line="264" class="org.apache.ibatis.mapping.MappedStatement" package="org.apache.ibatis.mapping">
-        <option name="ENABLED" value="false" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="&#13;&#13;JAVA" />
-        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/main/java/org/apache/ibatis/scripting/xmltags/DynamicSqlSource.java" line="36" class="org.apache.ibatis.scripting.xmltags.DynamicSqlSource" package="org.apache.ibatis.scripting.xmltags">
-        <option name="ENABLED" value="false" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="&#13;&#13;JAVA" />
-        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/main/java/org/apache/ibatis/cache/TransactionalCacheManager.java" line="50" class="org.apache.ibatis.cache.TransactionalCacheManager" package="org.apache.ibatis.cache">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
       <breakpoint url="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/cache/test/SessionSelect.java" line="90" class="own.hhw.cache.test.SessionSelect" package="own.hhw.cache.test">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
@@ -865,6 +1020,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -874,28 +1030,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MybatisUtil.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/util/MybatisUtil.java">
+      <file leaf-file-name="MapperFactoryBean.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/mapper/MapperFactoryBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="59" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
+            <state line="89" column="10" selection-start="2815" selection-end="2815" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SqlSessionFactoryBuilder.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7-sources.jar!/org/apache/ibatis/session/SqlSessionFactoryBuilder.java">
+      <file leaf-file-name="SessionSelect.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/cache/test/SessionSelect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="26" selection-start="2619" selection-end="2619" vertical-scroll-proportion="0.0">
+            <state line="28" column="0" selection-start="688" selection-end="688" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="XMLConfigBuilder.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7-sources.jar!/org/apache/ibatis/builder/xml/XMLConfigBuilder.java">
+      <file leaf-file-name="configuration.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auto_create_dao/src/main/resources/configuration.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="108" column="55" selection-start="4132" selection-end="4132" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SessionSelect.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/select/test/SessionSelect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="26" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -904,8 +1069,55 @@
       <file leaf-file-name="configuration.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/configuration.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="25" selection-start="1967" selection-end="1967" vertical-scroll-proportion="0.4908377">
+            <state line="31" column="49" selection-start="1563" selection-end="1563" vertical-scroll-proportion="0.8783784">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis_boot/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="12" selection-start="979" selection-end="1448" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mybatis.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/property/mybatis.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="16" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log4j.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mybatis-3-config.dtd" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7.jar!/org/apache/ibatis/builder/xml/mybatis-3-config.dtd">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="10" selection-start="978" selection-end="978" vertical-scroll-proportion="-5.15625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Select.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/select/mapper/Select.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="0" selection-start="656" selection-end="656" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1407981332190" expanded="true" signature="508:531" placeholder="/*注意下面是用的是$做..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -920,22 +1132,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/main/java/org/apache/ibatis/builder/BaseBuilder.java" />
-        <option value="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/main/java/org/apache/ibatis/cache/Cache.java" />
-        <option value="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/main/java/org/apache/ibatis/session/SqlSessionManager.java" />
-        <option value="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/main/java/org/apache/ibatis/session/defaults/DefaultSqlSession.java" />
-        <option value="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/main/java/org/apache/ibatis/session/defaults/DefaultSqlSessionFactory.java" />
-        <option value="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/main/java/org/apache/ibatis/scripting/xmltags/MixedSqlNode.java" />
-        <option value="$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/cache/po/WrapperDataTable.java" />
-        <option value="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/src/main/java/org/apache/ibatis/type/BaseTypeHandler.java" />
+        <option value="$PROJECT_DIR$/jpetstore-6/src/main/webapp/WEB-INF/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/auto_create_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/auto_create_dao/src/main/java/own/hhw/util/MybatisUtil.java" />
+        <option value="$PROJECT_DIR$/auto_create_dao/src/main/resources/configuration.xml" />
+        <option value="$PROJECT_DIR$/auto_create_dao/src/test/java/own/hhw/Main.java" />
+        <option value="$PROJECT_DIR$/mybatis_boot/src/main/java/com/bedpotato/mapper/Ptable.java" />
+        <option value="$PROJECT_DIR$/mybatis_boot/src/main/java/com/bedpotato/mapper/CardBinMapper.java" />
+        <option value="$PROJECT_DIR$/mybatis_boot/src/main/java/com/bedpotato/mybatisTest/App.java" />
+        <option value="$PROJECT_DIR$/mybatis_boot/src/main/java/com/bedpotato/mapper/CardBinMapper.xml" />
+        <option value="$PROJECT_DIR$/auto_create_dao/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/mybatis_ehcache1/src/main/java/configuration.xml" />
         <option value="$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/cache/mapper/Cache.xml" />
-        <option value="$PROJECT_DIR$/mybatis_boot/src/main/java/log4j.properties" />
-        <option value="$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/cache/po/DataTable.java" />
-        <option value="$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/cache/po/MoreTable.java" />
-        <option value="$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/cache/test/SessionSelect.java" />
+        <option value="$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/select/mapper/Select.xml" />
+        <option value="$PROJECT_DIR$/mybatis_boot/src/main/java/mybatis.properties" />
         <option value="$PROJECT_DIR$/mybatis_boot/src/main/java/configuration.xml" />
         <option value="$PROJECT_DIR$/mybatis_boot/pom.xml" />
-        <option value="$PROJECT_DIR$/jpetstore-6/src/main/webapp/WEB-INF/applicationContext.xml" />
       </list>
     </option>
   </component>
@@ -963,46 +1175,6 @@
           <option name="myItemId" value="" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="mybatis_boot" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Dependencies" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="mybatis_boot" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Dependencies" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="cglib:cglib:2.2.2" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="mybatis_boot" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Lifecycle" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
-        </PATH_ELEMENT>
       </PATH>
       <PATH>
         <PATH_ELEMENT>
@@ -1018,6 +1190,42 @@
         <PATH_ELEMENT>
           <option name="myItemId" value="" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="auto_create_dao" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="auto_create_dao" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="mybatis-generator" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="auto_create_dao" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
         </PATH_ELEMENT>
       </PATH>
     </treeState>
@@ -1052,12 +1260,12 @@
       <hideEmptyPackages />
       <abbreviatePackageNames />
       <autoscrollToSource />
-      <autoscrollFromSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="false" />
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1080,72 +1288,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Maven: org.springframework:spring-beans:4.0.1.RELEASE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-beans-4.0.1.RELEASE.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beans" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Maven: org.springframework:spring-beans:4.0.1.RELEASE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-beans-4.0.1.RELEASE.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beans" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="factory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Maven: org.springframework:spring-beans:4.0.1.RELEASE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring-beans-4.0.1.RELEASE.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="Maven: org.mybatis:mybatis-spring:1.2.2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
@@ -1155,58 +1297,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Maven: org.mybatis:mybatis-spring:1.2.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis-spring-1.2.2.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="transaction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Maven: org.mybatis:mybatis-spring:1.2.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis-spring-1.2.2.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="support" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1258,7 +1348,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="annotation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1279,10 +1369,6 @@
               <option name="myItemId" value="mybatis-spring-1.2.2.jar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="META-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1294,11 +1380,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Maven: org.mybatis:mybatis:3.2.7" />
+              <option name="myItemId" value="Maven: org.mybatis:mybatis:3.2.1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis-3.2.7.jar" />
+              <option name="myItemId" value="mybatis-3.2.1.jar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1316,37 +1402,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Maven: org.mybatis:mybatis:3.2.7" />
+              <option name="myItemId" value="Maven: org.mybatis:mybatis:3.2.1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis-3.2.7.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ibatis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="session" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Maven: org.mybatis:mybatis:3.2.7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis-3.2.7.jar" />
+              <option name="myItemId" value="mybatis-3.2.1.jar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1368,11 +1428,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Maven: org.mybatis:mybatis:3.2.7" />
+              <option name="myItemId" value="Maven: org.mybatis:mybatis:3.2.1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis-3.2.7.jar" />
+              <option name="myItemId" value="mybatis-3.2.1.jar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1384,7 +1444,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="xml" />
+              <option name="myItemId" value="annotation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1398,11 +1458,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Maven: org.mybatis:mybatis:3.2.7" />
+              <option name="myItemId" value="Maven: org.mybatis:mybatis:3.2.1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis-3.2.7.jar" />
+              <option name="myItemId" value="mybatis-3.2.1.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ibatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="annotations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.mybatis:mybatis:3.2.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis-3.2.1.jar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1418,7 +1504,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis_boot" />
+              <option name="myItemId" value="mybatis_ehcache1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1428,7 +1514,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis_boot" />
+              <option name="myItemId" value="mybatis_ehcache1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis_ehcache1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis_ehcache1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1450,7 +1572,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis_boot" />
+              <option name="myItemId" value="mybatis_ehcache1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1480,6 +1602,166 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis_ehcache1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis_ehcache1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="po" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis_ehcache1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cache" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis_boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis_boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis_boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="property" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="mybatis_boot" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -1500,13 +1782,295 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis_boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="select" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis_boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="select" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis_boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="select" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis_boot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bedpotato" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto_create_dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto_create_dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto_create_dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto_create_dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto_create_dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="domain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto_create_dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auto_create_dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.117847994" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -1516,19 +2080,19 @@
     <property name="options.lastSelected" value="MavenSettings" />
     <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.1/mybatis-3.2.1.jar!/" />
     <property name="project.structure.side.proportion" value="0.21982336" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="MemberChooser.showClasses" value="true" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
-    <property name="dynamic.classpath" value="false" />
     <property name="Downloaded.Files.Path" value="F:\work\workspace\mybatis\lib" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -1536,98 +2100,132 @@
       <recent name="own.hhw.read.test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\work\3_project\1_workspace\3_mybatis\auto_create_dao\src\main\resources" />
       <recent name="F:\work\3_project\1_workspace\3_mybatis\mybatis_ehcache1\src\main\java" />
       <recent name="F:\work\workspace\mybatis\mybatis_boot\src\main\resources\own\hhw\cache" />
       <recent name="F:\work\workspace\mybatis\mybatis_boot\src\main\resources\own\hhw\sql" />
       <recent name="F:\work\workspace\mybatis\mybatis_boot\src\main\resources\own\hhw\resultMap" />
-      <recent name="F:\work\workspace\mybatis\mybatis_boot\src\main\resources\own\hhw\select\mapper" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="own.hhw.resultMap" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\work\3_project\1_workspace\3_mybatis\mybatis_boot\src\main\java\property" />
       <recent name="F:\work\3_project\1_workspace\3_mybatis\Mybatis_Ehcache\src" />
       <recent name="F:\work\3_project\1_workspace\3_mybatis\Mybatis_Ehcache\src\org\qiuqiu\vo" />
       <recent name="F:\work\3_project\1_workspace\3_mybatis\mybatis_boot\src\main\java\com\bedpotato\mapper" />
       <recent name="F:\work\3_project\1_workspace\3_mybatis\mybatis_boot\src\main\java" />
-      <recent name="F:\work\3_project\1_workspace\3_mybatis\mybatis_boot\src\main\java\own\hhw\sql\mapper" />
     </key>
   </component>
   <component name="RunManager" selected="Application.SessionSelect">
-    <configuration default="false" name="ResultMapTest" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="App.insert4List" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="own.hhw.resultMap.test.*" />
+          <option name="PATTERN" value="com.bedpotato.mybatisTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="own.hhw.resultMap.test.ResultMapTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <module name="mybatis_boot" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="com.bedpotato.mybatisTest" />
+      <option name="MAIN_CLASS_NAME" value="com.bedpotato.mybatisTest.App" />
+      <option name="METHOD_NAME" value="insert4List" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="mybatis_boot" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
       <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
+      <patterns />
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="SessionRead" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="App.insert4Map" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="own.hhw.read.test.*" />
+          <option name="PATTERN" value="com.bedpotato.mybatisTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="own.hhw.read.test.SessionRead" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <module name="mybatis_boot" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="com.bedpotato.mybatisTest" />
+      <option name="MAIN_CLASS_NAME" value="com.bedpotato.mybatisTest.App" />
+      <option name="METHOD_NAME" value="insert4Map" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="mybatis_boot" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
       <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
+      <patterns />
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="App.insert4ListMap" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="org.qiuqiu.test.*" />
+          <option name="PATTERN" value="com.bedpotato.mybatisTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="org.qiuqiu.test.Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <module name="mybatis_boot" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="com.bedpotato.mybatisTest" />
+      <option name="MAIN_CLASS_NAME" value="com.bedpotato.mybatisTest.App" />
+      <option name="METHOD_NAME" value="insert4ListMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Mybatis_Ehcache" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
       <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="App.update4List" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.bedpotato.mybatisTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="mybatis_boot" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.bedpotato.mybatisTest" />
+      <option name="MAIN_CLASS_NAME" value="com.bedpotato.mybatisTest.App" />
+      <option name="METHOD_NAME" value="update4List" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -1635,11 +2233,11 @@
     <configuration default="false" name="SessionSelect" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="own.hhw.cache.test.*" />
+          <option name="PATTERN" value="own.hhw.select.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="own.hhw.cache.test.SessionSelect" />
+      <option name="MAIN_CLASS_NAME" value="own.hhw.select.test.SessionSelect" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1650,13 +2248,7 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="mybatis_boot" />
       <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -1696,19 +2288,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1735,6 +2314,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1862,20 +2454,21 @@
         </option>
       </method>
     </configuration>
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 6.0" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ResultMapTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SessionRead" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SessionSelect" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.App.insert4List" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.App.insert4Map" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.App.insert4ListMap" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.App.update4List" />
+      <item index="5" class="java.lang.String" itemvalue="Application.SessionSelect" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Application.SessionSelect" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SessionSelect" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SessionSelect" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ResultMapTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SessionSelect" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.App.insert4List" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.App.update4List" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.App.insert4ListMap" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.App.insert4Map" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1946,22 +2539,22 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853717" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853717" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2804878" sideWeight="0.67745805" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2804878" sideWeight="0.8021583" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297362" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35528454" sideWeight="0.67266184" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32254195" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35528454" sideWeight="0.558753" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44124702" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2495935" sideWeight="0.8117506" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32733813" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29256594" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="IntelliJad Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853717" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="EJB" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
     </layout>
@@ -2035,90 +2628,116 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7-sources.jar!/org/apache/ibatis/session/Configuration.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.1/mybatis-3.2.1-sources.jar!/org/apache/ibatis/annotations/CacheNamespace.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="26" selection-start="4325" selection-end="4338" vertical-scroll-proportion="0.0" />
+        <state line="28" column="49" selection-start="1087" selection-end="1087" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/SqlSessionUtils.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.1/mybatis-3.2.1-sources.jar!/org/apache/ibatis/builder/annotation/MapperAnnotationBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="19" selection-start="1835" selection-end="1835" vertical-scroll-proportion="0.0" />
+        <state line="91" column="28" selection-start="3873" selection-end="3873" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7-sources.jar!/org/apache/ibatis/session/SqlSessionFactory.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.1/mybatis-3.2.1-sources.jar!/org/apache/ibatis/binding/MapperRegistry.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="17" selection-start="836" selection-end="836" vertical-scroll-proportion="0.0" />
+        <state line="49" column="23" selection-start="1775" selection-end="1775" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/SqlSessionTemplate.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.1/mybatis-3.2.1-sources.jar!/org/apache/ibatis/session/Configuration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="29" selection-start="3171" selection-end="3171" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/config/NamespaceHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="13" selection-start="927" selection-end="927" vertical-scroll-proportion="0.0" />
+        <state line="626" column="22" selection-start="21893" selection-end="21893" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/config/MapperScannerBeanDefinitionParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="13" selection-start="1603" selection-end="1603" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/support/SqlSessionDaoSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="22" selection-start="1508" selection-end="1508" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/transaction/SpringManagedTransaction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="13" selection-start="1562" selection-end="1562" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/transaction/SpringManagedTransactionFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="13" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/MyBatisExceptionTranslator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="13" selection-start="1410" selection-end="1410" vertical-scroll-proportion="0.17341772" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/MyBatisSystemException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="13" selection-start="1224" selection-end="1224" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/SqlSessionFactoryBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="240" column="31" selection-start="7408" selection-end="7422" vertical-scroll-proportion="0.34556574" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/util/MybatisUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="59" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
+        <state line="39" column="8" selection-start="1519" selection-end="1519" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7-sources.jar!/org/apache/ibatis/session/SqlSessionFactoryBuilder.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/annotation/MapperScan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="26" selection-start="2619" selection-end="2619" vertical-scroll-proportion="0.0">
+        <state line="24" column="33" selection-start="964" selection-end="964" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7-sources.jar!/org/apache/ibatis/builder/xml/XMLConfigBuilder.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/mapper/MapperFactoryBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="55" selection-start="4132" selection-end="4132" vertical-scroll-proportion="0.0">
+        <state line="89" column="10" selection-start="2815" selection-end="2815" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/cache/test/SessionSelect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="688" selection-end="688" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_create_dao/src/main/resources/configuration.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/select/mapper/Select.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="656" selection-end="656" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1407981332190" expanded="true" signature="508:531" placeholder="/*注意下面是用的是$做..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/select/test/SessionSelect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="26" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7.jar!/org/apache/ibatis/builder/xml/mybatis-3-config.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="10" selection-start="978" selection-end="978" vertical-scroll-proportion="-5.15625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_boot/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="12" selection-start="979" selection-end="1448" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/property/mybatis.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="16" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/configuration.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="25" selection-start="1967" selection-end="1967" vertical-scroll-proportion="0.4908377">
+        <state line="31" column="49" selection-start="1563" selection-end="1563" vertical-scroll-proportion="0.8783784">
           <folding />
         </state>
       </provider>
@@ -2142,7 +2761,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -2170,7 +2789,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.21982336" />
               </list>
             </option>
           </splitter-proportions>

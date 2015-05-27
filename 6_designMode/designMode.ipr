@@ -22,10 +22,21 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="14_interpreter" />
+        <module name="builder" />
+        <module name="command" />
         <module name="decorator" />
         <module name="dynamic-proxy-sample" />
+        <module name="iterator" />
+        <module name="mediator" />
+        <module name="memento" />
         <module name="myproxy" />
         <module name="myproxy2" />
+        <module name="observer" />
+        <module name="responsibility" />
+        <module name="strategy" />
+        <module name="template" />
+        <module name="visitor" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.6" />
@@ -37,7 +48,6 @@
     <option name="SKIP_IMPORT_STATEMENTS" value="false" />
   </component>
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
-    <file url="file://$PROJECT_DIR$/decorator/src/main/java/step1/Main.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dynamic-proxy/src/main/java/own/hhw/example1/JiaShi.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/dynamic-proxy/src/main/java/own/hhw/example1/KindWoman.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/dynamic-proxy/src/main/java/own/hhw/example1/PanJinLian.java" charset="GBK" />
@@ -48,6 +58,7 @@
     <file url="file://$PROJECT_DIR$/dynamic-proxy/src/main/java/own/hhw/example2/PanJinLian.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/dynamic-proxy/src/main/java/own/hhw/example2/WangPo.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/dynamic-proxy/src/main/java/own/hhw/example2/XiMenQiang.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/myproxy/src/main/java/chapter6/e6_2/Main.java" charset="UTF-8" />
   </component>
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
@@ -65,6 +76,17 @@
         <option value="$PROJECT_DIR$/myproxy/pom.xml" />
         <option value="$PROJECT_DIR$/dynamic-proxy/pom.xml" />
         <option value="$PROJECT_DIR$/decorator/pom.xml" />
+        <option value="$PROJECT_DIR$/strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/template/pom.xml" />
+        <option value="$PROJECT_DIR$/observer/pom.xml" />
+        <option value="$PROJECT_DIR$/builder/pom.xml" />
+        <option value="$PROJECT_DIR$/memento/pom.xml" />
+        <option value="$PROJECT_DIR$/command/pom.xml" />
+        <option value="$PROJECT_DIR$/responsibility/pom.xml" />
+        <option value="$PROJECT_DIR$/iterator/pom.xml" />
+        <option value="$PROJECT_DIR$/mediator/pom.xml" />
+        <option value="$PROJECT_DIR$/visitor/pom.xml" />
+        <option value="$PROJECT_DIR$/14_interpreter/pom.xml" />
       </list>
     </option>
   </component>
@@ -191,8 +213,19 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/04_builder/04_builder.iml" filepath="$PROJECT_DIR$/04_builder/04_builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_template/06_template.iml" filepath="$PROJECT_DIR$/06_template/06_template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_mediator/07_mediator.iml" filepath="$PROJECT_DIR$/07_mediator/07_mediator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_observer/08_observer.iml" filepath="$PROJECT_DIR$/08_observer/08_observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_visitor/09_visitor.iml" filepath="$PROJECT_DIR$/09_visitor/09_visitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_command/10_command.iml" filepath="$PROJECT_DIR$/10_command/10_command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_responsibility/11_responsibility.iml" filepath="$PROJECT_DIR$/11_responsibility/11_responsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_strategy/12_strategy.iml" filepath="$PROJECT_DIR$/12_strategy/12_strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_iterator/13_iterator.iml" filepath="$PROJECT_DIR$/13_iterator/13_iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_interpreter/14_interpreter.iml" filepath="$PROJECT_DIR$/14_interpreter/14_interpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_memento/15_memento.iml" filepath="$PROJECT_DIR$/15_memento/15_memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_decorator/16_decorator.iml" filepath="$PROJECT_DIR$/16_decorator/16_decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Design-Patterns/Java-Design-Patterns.iml" filepath="$PROJECT_DIR$/Java-Design-Patterns/Java-Design-Patterns.iml" />
-      <module fileurl="file://$PROJECT_DIR$/decorator/decorator.iml" filepath="$PROJECT_DIR$/decorator/decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/dynamic-proxy/dynamic-proxy-sample.iml" filepath="$PROJECT_DIR$/dynamic-proxy/dynamic-proxy-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/myproxy/myproxy.iml" filepath="$PROJECT_DIR$/myproxy/myproxy.iml" />
     </modules>

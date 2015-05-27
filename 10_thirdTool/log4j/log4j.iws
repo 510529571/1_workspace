@@ -4,11 +4,11 @@
     <list default="true" id="33fd723d-d71c-4ad4-9b79-19a19b533689" name="Default" comment="" />
     <ignored path="log4j.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/pom.xml" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408590681217" ignored="false" />
+    <file path="/pom.xml" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427943436012" ignored="false" />
     <file path="$PROJECT_DIR$/../../1_workspace_temp/0_hhw/hhw/log4j/src/com/sample1/Log4j2Sample.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408591765908" ignored="false" />
     <file path="$PROJECT_DIR$/../../1_workspace_temp/0_hhw/hhw/log4j/log4j.iml" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408591526315" ignored="false" />
     <file path="/log4j.properties" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1422353573441" ignored="false" />
-    <file path="/fragment.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1415954102365" ignored="false" />
+    <file path="/fragment.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427968088669" ignored="false" />
     <file path="$PROJECT_DIR$/../4_sercurity/Java-XML-Signature-master/src/test/resources/log4j.properties" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408588525000" ignored="false" />
     <file path="$PROJECT_DIR$/../4_sercurity/Java-XML-Signature-master/pom.xml" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408588449289" ignored="false" />
     <file path="$PROJECT_DIR$/../4_sercurity/Java-XML-Signature-master/src/test/java/XmlRoundtripTest.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408612641594" ignored="false" />
@@ -52,7 +52,7 @@
     <file path="/ProcessOpenAccountInfoAction.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408674881122" ignored="false" />
     <file path="F:/workspace/gfyh/module/05.wtgf/web/scripts/bankUtil.js" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408675735093" ignored="false" />
     <file path="/bankUtil.js" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408675239054" ignored="false" />
-    <file path="/a.dummy" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1426039922556" ignored="false" />
+    <file path="/a.dummy" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427963631558" ignored="false" />
     <file path="F:/workspace/trunk_merge/module/05.wtgf/web/include/page/mainmenu.jsp" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408677830136" ignored="false" />
     <file path="F:/workspace/trunk_merge/module/05.wtgf/web/WEB-INF/applicationContext.xml" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408677830136" ignored="false" />
     <file path="F:/workspace/trunk_merge/module/05.wtgf/web/upheap.jsp" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1408677830136" ignored="false" />
@@ -153,6 +153,38 @@
     <file path="F:/workspace/netbank/src/com/will/netbank/cgb/CGBMainServlet.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427357607263" ignored="false" />
     <file path="/CGBMainServlet.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427357596264" ignored="false" />
     <file path="F:/workspace/netbank/src/config/log4j/log4j.properties" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427357734008" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/bank/bank_context_4.xml" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427966022999" ignored="false" />
+    <file path="/bank_context_4.xml" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427965992662" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/icbc/common/ICBCUtil.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427959883650" ignored="false" />
+    <file path="/ICBCUtil.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427945531509" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/icbc/AccoVerifySMGResolver.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427965635068" ignored="false" />
+    <file path="/AccoVerifySMGResolver.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427969126061" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/common/BankUtil.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427967633106" ignored="false" />
+    <file path="/BankUtil.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427966155084" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/test/java/com/gffunds/gfpay/test/SampleTest.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427944052499" ignored="false" />
+    <file path="/SampleTest.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427943983014" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/bank_context.xml" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427960018387" ignored="false" />
+    <file path="/bank_context.xml" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427960018387" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/pom.xml" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427967864722" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/gfpay-service.iml" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427967970383" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/AccoVerifySMGResolver.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427969324499" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/AccoVerifyWebResolver.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427964752156" ignored="false" />
+    <file path="/AccoVerifyWebResolver.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427958217837" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/common/AllinpayUtil.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427969270614" ignored="false" />
+    <file path="/AllinpayUtil.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427969268602" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/bank/bank_context_I.xml" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427959868016" ignored="false" />
+    <file path="/bank_context_I.xml" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427959866542" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/test/java/com/gffunds/gfpay/test/AllinpayTest.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427960094585" ignored="false" />
+    <file path="/AllinpayTest.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427960091233" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/com/gffunds/gfpay/bank/allinpay/key/systemconfig.properties" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427961446768" ignored="false" />
+    <file path="F:/workspace_git/gfpay/pom.xml" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427967899563" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/api/AccoVerifyApi.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427967922244" ignored="false" />
+    <file path="/AccoVerifyApi.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427967911907" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/common/verify/IAccoVerifySMGResolver.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427965638009" ignored="false" />
+    <file path="/IAccoVerifySMGResolver.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427965637708" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/common/ParamKey.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427969247442" ignored="false" />
+    <file path="/ParamKey.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427969236287" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/common/SignPojo.java" changelist="33fd723d-d71c-4ad4-9b79-19a19b533689" time="1427968089995" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +199,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -204,6 +235,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -216,16 +248,16 @@
       <file leaf-file-name="HelloOWN.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/src/main/java/own/HelloOWN.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="22" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+            <state line="14" column="47" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloCOM.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="HelloCOM.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/src/main/java/com/HelloCOM.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="13" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
+            <state line="8" column="13" selection-start="149" selection-end="149" vertical-scroll-proportion="0.22522523">
               <folding />
             </state>
           </provider>
@@ -258,15 +290,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Log4j2Sample.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j2/src/main/java/com/sample1/Log4j2Sample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="30" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="HelloOWN.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j2/src/main/java/own/HelloOWN.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -285,10 +308,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="log4j.properties" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="log4j.properties" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/src/main/resources/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="1317" selection-end="1564" vertical-scroll-proportion="0.67277485">
+            <state line="34" column="0" selection-start="1317" selection-end="1564" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/src/test/java/HelloTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="13" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -324,11 +356,11 @@
         <option value="$PROJECT_DIR$/commons-logging-and-log4j/src/main/java/com/sample1/Log4j2Sample.java" />
         <option value="$PROJECT_DIR$/commons-logging-and-log4j2/src/main/java/com/sample1/Log4j2Sample.java" />
         <option value="$PROJECT_DIR$/commons-logging-and-log4j2/src/main/resources/log4j2.xml" />
-        <option value="$PROJECT_DIR$/commons-logging-and-log4j/src/main/java/own/HelloOWN.java" />
         <option value="$PROJECT_DIR$/commons-logging-and-log4j2/src/main/java/Hello.java" />
         <option value="$PROJECT_DIR$/commons-logging-and-log4j2/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/commons-logging-and-log4j/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/commons-logging-and-log4j/src/main/java/Hello.java" />
+        <option value="$PROJECT_DIR$/commons-logging-and-log4j/src/main/java/own/HelloOWN.java" />
       </list>
     </option>
   </component>
@@ -809,6 +841,14 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -908,8 +948,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -927,9 +967,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -1080,19 +1120,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1119,6 +1146,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1188,8 +1228,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1287,11 +1327,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-sources.jar!/org/apache/commons/logging/impl/LogFactoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="268" column="17" selection-start="10538" selection-end="10538" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-sources.jar!/org/apache/commons/logging/LogFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="656" column="34" selection-start="29366" selection-end="29366" vertical-scroll-proportion="0.0">
@@ -1356,20 +1391,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/src/main/java/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="58" selection-start="198" selection-end="201" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/src/main/java/com/HelloCOM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="11" selection-start="642" selection-end="642" vertical-scroll-proportion="0.0">
@@ -1377,16 +1398,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/src/main/java/own/HelloOWN.java">
+    <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="22" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+        <state line="34" column="0" selection-start="1317" selection-end="1564" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/src/main/resources/log4j.properties">
+    <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/src/main/java/own/HelloOWN.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="1317" selection-end="1564" vertical-scroll-proportion="0.67277485">
+        <state line="14" column="47" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/src/main/java/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="58" selection-start="198" selection-end="201" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/src/test/java/HelloTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commons-logging-and-log4j/src/main/java/com/HelloCOM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="149" selection-end="149" vertical-scroll-proportion="0.22522523">
           <folding />
         </state>
       </provider>

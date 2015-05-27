@@ -83,8 +83,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="auto_create_dao" />
         <module name="jpetstore" />
-        <module name="mybatis" />
         <module name="mybatis (1)" />
         <module name="mybatis-memcached" />
         <module name="mybatis_boot" />
@@ -104,9 +104,7 @@
   <component name="DependencyValidationManager">
     <option name="SKIP_IMPORT_STATEMENTS" value="false" />
   </component>
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
-    <file url="file://$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3" charset="UTF-8" />
-  </component>
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
@@ -125,13 +123,13 @@
         <option value="$PROJECT_DIR$/jpetstore-6/pom.xml" />
         <option value="$PROJECT_DIR$/memcached-cache-master/pom.xml" />
         <option value="$PROJECT_DIR$/mybatis_ehcache1/pom.xml" />
+        <option value="$PROJECT_DIR$/auto_create_dao/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/mybatis-3/pom.xml" />
         <option value="$PROJECT_DIR$/mybatis/pom.xml" />
-        <option value="$PROJECT_DIR$/mybatis_ehcache1/pom.xml" />
         <option value="$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/pom.xml" />
       </set>
     </option>
@@ -259,8 +257,10 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/auto_create_dao/auto_create_dao.iml" filepath="$PROJECT_DIR$/auto_create_dao/auto_create_dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/jpetstore-6/jpetstore.iml" filepath="$PROJECT_DIR$/jpetstore-6/jpetstore.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis_boot/mybatis_boot.iml" filepath="$PROJECT_DIR$/mybatis_boot/mybatis_boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_ehcache1/mybatis_ehcache1.iml" filepath="$PROJECT_DIR$/mybatis_ehcache1/mybatis_ehcache1.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK">
@@ -400,6 +400,19 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.mybatis:mybatis:3.2.1">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.1/mybatis-3.2.1.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/mybatis-3.2.1-javadoc.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.1/mybatis-3.2.1-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$PROJECT_DIR$/../../2_github/mybatis-3/mybatis-3/mybatis-3.2.1-sources.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.1/mybatis-3.2.1-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: org.mybatis:mybatis:3.2.7">

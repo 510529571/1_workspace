@@ -19,8 +19,7 @@ import org.apache.catalina.util.StringManager;
  * @deprecated
  */
 
-public class RequestStream
-    extends ServletInputStream {
+public class RequestStream extends ServletInputStream {
 
 
     // ----------------------------------------------------------- Constructors

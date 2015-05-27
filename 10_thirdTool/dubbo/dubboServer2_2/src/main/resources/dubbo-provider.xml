@@ -9,11 +9,11 @@
     <dubbo:application name="hello-world-app"/>
 
     <!--zookeeper注册中心 -->
-    <dubbo:registry  protocol="zookeeper" address="10.88.134.193:2181"/>
+    <dubbo:registry  protocol="zookeeper" address="10.88.134.193:2181?client=zkclient"/>
     <!--使用multicast广播注册中心暴露服务地址 -->
     <!--<dubbo:registry  address="multicast://224.5.6.7:1230" />-->
     <dubbo:protocol name="dubbo" port="20883"/>
-    <dubbo:service interface="com.xw.test.service.HelloService2" ref="helloService2"/>
+    <dubbo:service interface="com.xw.test.service.HelloService2" ref="helloService2" version="1.2"/>
     <!-- 和本地bean一样实现服务 -->
     <bean id="helloService2" class="com.xw.test.service.impl.HelloService2Impl"/>
 </beans>

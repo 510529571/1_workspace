@@ -6,13 +6,85 @@
     <ignored path=".idea/workspace.xml" />
     <file path="$USER_HOME$/.m2/settings.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1421055537496" ignored="false" />
     <file path="$PROJECT_DIR$/../cached/memcached_google/pom.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1421056926149" ignored="false" />
-    <file path="/pom.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1421138417268" ignored="false" />
+    <file path="/pom.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427943436011" ignored="false" />
     <file path="$PROJECT_DIR$/../mq/activeMQ/pom.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1421117135743" ignored="false" />
-    <file path="/dubbo-provider.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1421142138199" ignored="false" />
-    <file path="/fragment.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1421138400610" ignored="false" />
+    <file path="/dubbo-provider.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432190849356" ignored="false" />
+    <file path="/fragment.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427968088669" ignored="false" />
     <file path="/DubboServerTest.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1421137538609" ignored="false" />
-    <file path="/DubboConsumerTest.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1421139174072" ignored="false" />
+    <file path="/DubboConsumerTest.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432190973778" ignored="false" />
     <file path="/readme.md" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1421139955322" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/test/java/com/gffunds/gfpay/test/SampleTest.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427944052499" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/pom.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427967864722" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/gfpay-service.iml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427967970383" ignored="false" />
+    <file path="/SampleTest.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427943983014" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/bank/bank_context_4.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427966023000" ignored="false" />
+    <file path="/bank_context_4.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427965992662" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/icbc/common/ICBCUtil.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427959883651" ignored="false" />
+    <file path="/ICBCUtil.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427945531509" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/AccoVerifySMGResolver.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427969324499" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/AccoVerifyWebResolver.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427964752156" ignored="false" />
+    <file path="/AccoVerifySMGResolver.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427969126062" ignored="false" />
+    <file path="/AccoVerifyWebResolver.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427958217836" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/common/AllinpayUtil.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427969270614" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/common/BankUtil.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427967633107" ignored="false" />
+    <file path="/BankUtil.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427966155084" ignored="false" />
+    <file path="/AllinpayUtil.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427969268602" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/bank/bank_context_I.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427959868016" ignored="false" />
+    <file path="/bank_context_I.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427959866542" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/test/java/com/gffunds/gfpay/test/AllinpayTest.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427960094585" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/bank_context.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427960018387" ignored="false" />
+    <file path="/bank_context.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427960018387" ignored="false" />
+    <file path="/AllinpayTest.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427960091233" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/com/gffunds/gfpay/bank/allinpay/key/systemconfig.properties" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427961446768" ignored="false" />
+    <file path="F:/workspace_git/gfpay/pom.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427967899563" ignored="false" />
+    <file path="/a.dummy" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432179321824" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/api/AccoVerifyApi.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427967922245" ignored="false" />
+    <file path="/AccoVerifyApi.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427967911907" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/common/verify/IAccoVerifySMGResolver.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427965638009" ignored="false" />
+    <file path="/IAccoVerifySMGResolver.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427965637709" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/icbc/AccoVerifySMGResolver.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427965635068" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/common/ParamKey.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427969247443" ignored="false" />
+    <file path="/ParamKey.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427969236287" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/bank/allinpay/common/SignPojo.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1427968089995" ignored="false" />
+    <file path="/dubboContext.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432106218239" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/wallet-service/src/main/resources/dubboContext.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432177449083" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/13.dscore4dubbo/service/src/main/resources/spring/dubbo-config.properties" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432177181853" ignored="false" />
+    <file path="/dubbo-config.properties" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432175584302" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/13.dscore4dubbo/service/src/main/resources/spring/dubboContext.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432176389862" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/wallet-controller/src/main/resources/properties/dubbo.properties" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432189140051" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/13.dscore4dubbo/pom.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432176382679" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/13.dscore4dubbo/service/pom.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432176389862" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/13.dscore4dubbo/service/src/main/resources/spring/jdbc.properties" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432199506366" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/13.dscore4dubbo/service/src/main/java/com/gffunds/common/BusinCheck.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432176389862" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/pom.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432189111684" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/wallet-service/pom.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432189097719" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/webapp/WEB-INF/pages/baiduTradeList.jsp" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432258828402" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/wallet-controller/src/main/resources/properties/jdbc.properties" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432189132685" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/wallet-controller/src/main/resources/mybatis_config.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432179116715" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/wallet-controller/src/main/resources/properties/application.properties" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432189143832" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/wallet-service/src/main/java/com/gffunds/wallet/service/api/baidu/bean/BaiduRequest.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432188496088" ignored="false" />
+    <file path="/BaiduRequest.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432182578771" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/wallet-controller/src/main/resources/db_context.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432189153038" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/wallet-service/src/main/java/com/gffunds/wallet/service/api/ApiManager.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432189249909" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/webapp/WEB-INF/pages/baidufundinfolist.jsp" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432189249909" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/partner-controller/src/main/resources/properties/jdbc.properties" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432189249909" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/webapp/WEB-INF/pages/baidufundmarketlist.jsp" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432189249909" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/wallet-common/src/main/java/com/gffunds/wallet/common/util/CommonParam.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432189249909" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/webapp/WEB-INF/pages/baiduwithdraw.jsp" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432189249909" ignored="false" />
+    <file path="/dubbo-consumer.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432190883728" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/partner-controller/src/main/resources/TrustMerchant.properties" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432195861776" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/partner-controller/src/main/resources/mybatis_config.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432197670029" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/partner-controller/src/main/resources/metadbconfig.properties" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432198213737" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/partner-controller/src/main/webapp/test.jsp" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432198395120" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/partner-controller/src/main/resources/properties/dubbo.properties" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432199277312" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/13.dscore4dubbo/service/src/main/resources/log4j.properties" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432257515082" ignored="false" />
+    <file path="/log4j.properties" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432257408598" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/13.dscore4dubbo/service/src/main/resources/spring/db_context.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432200099304" ignored="false" />
+    <file path="/db_context.xml" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432200086506" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/wallet-service/src/main/java/com/gffunds/wallet/service/api/baidu/BaiduTradeQueryApiService.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432259339622" ignored="false" />
+    <file path="/BaiduTradeQueryApiService.java" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432259337173" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/webapp/WEB-INF/pages/result.jsp" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432259266928" ignored="false" />
+    <file path="/result.jsp" changelist="81e3e710-55ab-49df-a587-ffe7668bc305" time="1432259254038" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,28 +145,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DubboConsumerTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="DubboConsumerTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dubboConsumer/src/test/java/DubboConsumerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="725" selection-end="725" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="readme.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/readme.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="46" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dubbo-provider.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dubboServer2/src/main/resources/dubbo-provider.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="8" selection-start="976" selection-end="976" vertical-scroll-proportion="0.6097561">
+            <state line="45" column="60" selection-start="1482" selection-end="1482" vertical-scroll-proportion="0.8051392">
               <folding />
             </state>
           </provider>
@@ -109,40 +163,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dubboServer2_2/pom.xml">
+      <file leaf-file-name="DubboServerTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubboServer/src/test/java/DubboServerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0">
+            <state line="16" column="38" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dubbo.xsd" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.0.13/dubbo-2.0.13.jar!/com/alibaba/dubbo/config/spring/schema/dubbo.xsd">
+      <file leaf-file-name="DubboServerTest2.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubboServer2/src/test/java/com/xw/test/service/DubboServerTest2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="59" selection-start="2548" selection-end="2554" vertical-scroll-proportion="0.0">
+            <state line="27" column="27" selection-start="758" selection-end="758" vertical-scroll-proportion="0.0">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloService2Impl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dubboServer2_2/src/main/java/com/xw/test/service/impl/HelloService2Impl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="34" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DubboServerTest2_2.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dubboServer2_2/src/test/java/com/xw/test/service/impl/DubboServerTest2_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="37" selection-start="839" selection-end="839" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -150,16 +184,52 @@
       <file leaf-file-name="dubbo-provider.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dubboServer2_2/src/main/resources/dubbo-provider.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="16" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0">
+            <state line="15" column="97" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dubboServer2/pom.xml">
+      <file leaf-file-name="HelloService2.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubboInterface/src/com/xw/test/service/HelloService2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="20" selection-start="0" selection-end="2535" vertical-scroll-proportion="0.0">
+            <state line="7" column="17" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HelloService.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubboInterface/src/com/xw/test/service/HelloService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="17" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dubbo-provider.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubboServer/src/main/resources/dubbo-provider.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="60" selection-start="608" selection-end="608" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dubbo-provider.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubboServer2/src/main/resources/dubbo-provider.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="8" selection-start="976" selection-end="976" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dubbo-consumer.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dubboConsumer/src/main/resources/dubbo-consumer.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="40" selection-start="1046" selection-end="1061" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -177,20 +247,20 @@
       <list>
         <option value="$PROJECT_DIR$/dubboServer/src/main/java/com/xw/test/service/impl/HelloServiceImpl2.java" />
         <option value="$PROJECT_DIR$/dubboServer/src/main/java/com/xw/test/service/impl/HelloService2Impl.java" />
-        <option value="$PROJECT_DIR$/dubboConsumer/src/main/resources/dubbo-consumer.xml" />
         <option value="$PROJECT_DIR$/dubboServer2/src/main/java/com/xw/test/service/impl/HelloServiceImpl.java" />
         <option value="$PROJECT_DIR$/dubboServer/src/main/java/com/xw/test/service/impl/HelloServiceImpl.java" />
         <option value="$PROJECT_DIR$/dubboServer2/src/main/resources/dubbo-provider.xml" />
         <option value="$PROJECT_DIR$/dubboServer2/src/test/java/com/xw/test/service/DubboServerTest.java" />
         <option value="$PROJECT_DIR$/dubboServer/src/test/java/DubboServerTest.java" />
         <option value="$PROJECT_DIR$/dubboServer2/src/test/java/com/xw/test/service/DubboServerTest2.java" />
-        <option value="$PROJECT_DIR$/dubboServer/src/main/resources/dubbo-provider.xml" />
         <option value="$PROJECT_DIR$/dubboServer2_2/pom.xml" />
         <option value="$PROJECT_DIR$/dubboServer2_2/src/test/java/com/xw/test/service/impl/DubboServerTest2_2.java" />
         <option value="$PROJECT_DIR$/dubboServer2_2/src/main/java/com/xw/test/service/impl/HelloService2Impl.java" />
-        <option value="$PROJECT_DIR$/dubboConsumer/src/test/java/DubboConsumerTest.java" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/dubboServer/src/main/resources/dubbo-provider.xml" />
         <option value="$PROJECT_DIR$/dubboServer2_2/src/main/resources/dubbo-provider.xml" />
+        <option value="$PROJECT_DIR$/dubboConsumer/src/main/resources/dubbo-consumer.xml" />
+        <option value="$PROJECT_DIR$/dubboConsumer/src/test/java/DubboConsumerTest.java" />
       </list>
     </option>
   </component>
@@ -312,9 +382,150 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.springframework:spring-test:4.1.1.RELEASE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-test-4.1.1.RELEASE.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springframework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.springframework:spring-test:4.1.1.RELEASE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-test-4.1.1.RELEASE.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springframework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="context" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.springframework:spring-test:4.1.1.RELEASE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-test-4.1.1.RELEASE.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springframework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="context" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="junit4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.springframework:spring-test:4.1.1.RELEASE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-test-4.1.1.RELEASE.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springframework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.springframework:spring-test:4.1.1.RELEASE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-test-4.1.1.RELEASE.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="dubbo" />
@@ -342,18 +553,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="impl" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -397,9 +596,264 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubboServer2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubboServer2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubboServer2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubboServer2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubboServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubboServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubboServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubboServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="impl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubboInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubboInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubboConsumer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubboConsumer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubboConsumer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubbo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubboConsumer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -475,7 +929,13 @@
       </option>
       <envs />
       <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -498,7 +958,13 @@
       </option>
       <envs />
       <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -526,7 +992,13 @@
       </option>
       <envs />
       <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -554,7 +1026,13 @@
       </option>
       <envs />
       <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -681,14 +1159,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39928058" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -701,8 +1179,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.63429254" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2495935" sideWeight="0.6582734" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34172663" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2495935" sideWeight="0.6594724" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34052756" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -775,94 +1253,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dubboServer2/src/main/java/com/xw/test/service/impl/HelloService2Impl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubboServer2/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubboServer2/src/test/java/com/xw/test/service/DubboServerTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="31" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubboServer/src/test/java/DubboServerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="24" selection-start="674" selection-end="674" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubboServer/src/main/resources/dubbo-provider.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="8" selection-start="972" selection-end="972" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubboServer2_2/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubboServer2/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="20" selection-start="0" selection-end="2535" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubboServer2_2/src/main/java/com/xw/test/service/impl/HelloService2Impl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="34" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubboServer2_2/src/test/java/com/xw/test/service/impl/DubboServerTest2_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="37" selection-start="839" selection-end="839" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubboConsumer/src/test/java/DubboConsumerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="725" selection-end="725" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="46" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dubboServer2_2/src/main/resources/dubbo-provider.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="16" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.0.13/dubbo-2.0.13.jar!/com/alibaba/dubbo/config/spring/schema/dubbo.xsd">
       <provider selected="true" editor-type-id="text-editor">
         <state line="64" column="59" selection-start="2548" selection-end="2554" vertical-scroll-proportion="0.0">
@@ -872,7 +1262,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dubboServer2_2/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0">
+        <state line="64" column="7" selection-start="2165" selection-end="2345" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.1.1.RELEASE/spring-test-4.1.1.RELEASE-sources.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="13" selection-start="3811" selection-end="3811" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboServer2_2/src/test/java/com/xw/test/service/impl/DubboServerTest2_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="39" selection-start="542" selection-end="555" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboServer2_2/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboConsumer/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboInterface/src/com/xw/test/service/HelloService2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="17" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboInterface/src/com/xw/test/service/HelloService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="17" selection-start="113" selection-end="113" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -884,9 +1312,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dubboServer2_2/src/main/resources/dubbo-provider.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="97" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dubboServer2/src/main/resources/dubbo-provider.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="8" selection-start="976" selection-end="976" vertical-scroll-proportion="0.6097561">
+        <state line="18" column="8" selection-start="976" selection-end="976" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboServer/src/main/resources/dubbo-provider.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="60" selection-start="608" selection-end="608" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboConsumer/src/main/resources/dubbo-consumer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="40" selection-start="1046" selection-end="1061" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboServer/src/test/java/DubboServerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="38" selection-start="514" selection-end="514" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboServer2/src/test/java/com/xw/test/service/DubboServerTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="27" selection-start="758" selection-end="758" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dubboConsumer/src/test/java/DubboConsumerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="60" selection-start="1482" selection-end="1482" vertical-scroll-proportion="0.8051392">
           <folding />
         </state>
       </provider>
