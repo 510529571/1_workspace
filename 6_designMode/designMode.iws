@@ -7,7 +7,7 @@
     <file path="$PROJECT_DIR$/../test/trunk/mybatis.iws" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1402394704318" ignored="false" />
     <file path="$PROJECT_DIR$/../test/trunk/pom.xml" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1402384485047" ignored="false" />
     <file path="/Dummy.txt" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1414477895824" ignored="false" />
-    <file path="/pom.xml" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432280057988" ignored="false" />
+    <file path="/pom.xml" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432799445474" ignored="false" />
     <file path="/Test.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1409551494582" ignored="false" />
     <file path="$PROJECT_DIR$/../../maven/stone/org/mybatis/mybatis/3.2.1/mybatis-3.2.1.pom" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1402385729432" ignored="false" />
     <file path="/mybatis-3.2.1.pom" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1402385724779" ignored="false" />
@@ -31,7 +31,7 @@
     <file path="$PROJECT_DIR$/../spring/spring_boot/src/main/java/spring_step1/own/hhw/step1/dao/PrintDao.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1402389548677" ignored="false" />
     <file path="$PROJECT_DIR$/../spring/spring_boot/src/main/java/spring_step1/test/SampleTest.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1402389548677" ignored="false" />
     <file path="$PROJECT_DIR$/../spring/spring_boot/src/main/java/spring_step1/own/hhw/step1/dao/PrintDaoImpl.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1402389548677" ignored="false" />
-    <file path="/fragment.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432101450458" ignored="false" />
+    <file path="/fragment.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432796862670" ignored="false" />
     <file path="$PROJECT_DIR$/../spring/spring_boot/src/main/java/step1/service/PrintServiceImpl.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1402389575028" ignored="false" />
     <file path="$PROJECT_DIR$/../spring/spring_boot/src/main/java/step1/dao/PrintDao.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1402389576713" ignored="false" />
     <file path="$PROJECT_DIR$/../spring/spring_boot/src/main/java/step1/dao/PrintDaoImpl.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1402389576317" ignored="false" />
@@ -73,7 +73,7 @@
     <file path="/XiMenQiang.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1407915248462" ignored="false" />
     <file path="F:/workspace/tongliankaika/module/05.wtgf/mobileapp/src/com/sinitek/newtrade/web/gfapp/service/WalletTradeService.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1407917351128" ignored="false" />
     <file path="/WalletTradeService.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1407920547544" ignored="false" />
-    <file path="/a.dummy" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1431936211509" ignored="false" />
+    <file path="/a.dummy" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432795173917" ignored="false" />
     <file path="/Td.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1407924542180" ignored="false" />
     <file path="$PROJECT_DIR$/../3_mybatis/mybatis_boot/pom.xml" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1409561170426" ignored="false" />
     <file path="$PROJECT_DIR$/../3_mybatis/mybatis_boot/src/main/java/own/hhw/select/test/SessionSelect.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1407981160807" ignored="false" />
@@ -471,7 +471,7 @@
     <file path="/Subject.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1414461344054" ignored="false" />
     <file path="/RealSubject.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1414461424372" ignored="false" />
     <file path="/Proxy.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1414461526712" ignored="false" />
-    <file path="/Client.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432521911207" ignored="false" />
+    <file path="/Client.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432718647384" ignored="false" />
     <file path="F:/workspace/toujiyoudao/module/02.web/src/com/sinitek/sfm/paygate/web/alipay/handler/BuyApplyHandler.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1414547647161" ignored="false" />
     <file path="/BuyApplyHandler.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1414482540499" ignored="false" />
     <file path="F:/workspace/toujiyoudao/build/01.core/sfm_paygate.jar!/com/sinitek/sfm/paygate/core/servicecoreconfig.xml" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1414483671008" ignored="false" />
@@ -558,8 +558,8 @@
     <file path="/Context.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1431571320531" ignored="false" />
     <file path="/AbstractSort.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1431592208634" ignored="false" />
     <file path="/ConcreteSort.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1431592042745" ignored="false" />
-    <file path="F:/workspace/baidu2/wallet-main/wallet-service/src/main/java/com/gffunds/wallet/service/api/baidu/BaiduTradeQueryApiService.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432631101029" ignored="false" />
-    <file path="/BaiduTradeQueryApiService.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432631005529" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/wallet-service/src/main/java/com/gffunds/wallet/service/api/baidu/BaiduTradeQueryApiService.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432710019007" ignored="false" />
+    <file path="/BaiduTradeQueryApiService.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432709985385" ignored="false" />
     <file path="F:/workspace/baidu2/wallet-main/wallet-service/src/main/java/com/gffunds/wallet/service/api/baidu/bean/BaiduTradeInfo.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1431936612465" ignored="false" />
     <file path="/BaiduTradeInfo.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1431936578155" ignored="false" />
     <file path="/Caretaker.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1431941142679" ignored="false" />
@@ -586,6 +586,33 @@
     <file path="$PROJECT_DIR$/15_memento/15_memento.iml" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432625714912" ignored="false" />
     <file path="F:/workspace/baidu2/wallet-main/wallet-service/pom.xml" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432696747027" ignored="false" />
     <file path="F:/workspace/baidu2/wallet-main/wallet-service/src/main/java/com/gffunds/wallet/service/api/baidu/BaiduFundInfoListApiService.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432696747027" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/wallet-service/src/main/java/com/gffunds/wallet/service/system/RunParamsService.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432709809299" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/partner-controller/src/main/java/com/gffunds/wallet/controllers/partner/BaseAction.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432777603917" ignored="false" />
+    <file path="/BaseAction.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432716432461" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc/web/WEB-INF/web.xml" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432783603052" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc/pom.xml" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432794604789" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc/src/main/java/controller/PrintAction.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432783502452" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc/web/view/viewjsp.jsp" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432783186330" ignored="false" />
+    <file path="/viewjsp.jsp" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432783184943" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc/web/view/viewvm.vm" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432783288286" ignored="false" />
+    <file path="/viewvm.vm" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432783287459" ignored="false" />
+    <file path="/PrintAction.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432783367225" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc/src/main/resources/spring.xml" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432783447286" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc/src/main/resources/servlet-context.xml" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432796615702" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc/src/main/java/onw/hhw/controller/PrintAction.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432783530002" ignored="false" />
+    <file path="/servlet-context.xml" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432796615702" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc/src/main/java/own/hhw/controller/PrintAction.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432796602199" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc_velocity/pom.xml" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432799297993" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc_jsp/pom.xml" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432799445474" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc_velocity/web/WEB-INF/web.xml" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432799297993" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc_velocity/src/main/java/own/hhw/contoller/PrintAction.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432796863628" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc_velocity/src/main/java/own/hhw/contoller/WelcomeAction.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432797303907" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc_jsp/src/main/java/own/hhw/controller/WelcomeAction.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432796936879" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc_jsp/src/main/resources/servlet-context.xml" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432796912477" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc_jsp/web/WEB-INF/web.xml" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432799297993" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/2_spring.ipr" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432799376643" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring_/spring.ipr" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432799236814" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring.ipr" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1432799424899" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -605,24 +632,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/dynamic-proxy/src/test/java/br/com/fabriciodev/sample/proxy/TestProxy.java" line="102" class="br.com.fabriciodev.sample.proxy.TestProxy" package="br.com.fabriciodev.sample.proxy">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -659,6 +668,24 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/dynamic-proxy/src/test/java/br/com/fabriciodev/sample/proxy/TestProxy.java" line="102" class="br.com.fabriciodev.sample.proxy.TestProxy" package="br.com.fabriciodev.sample.proxy">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -668,42 +695,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/14_interpreter/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="10" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Context.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/14_interpreter/src/main/java/pattern23/Context.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="15" column="16" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Expression.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/14_interpreter/src/main/java/pattern23/Expression.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="1" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Constant.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/14_interpreter/src/main/java/pattern23/terminalexpression/Constant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -711,65 +707,82 @@
       <file leaf-file-name="Variable.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/14_interpreter/src/main/java/pattern23/terminalexpression/Variable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="25" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="10" column="13" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Subtract.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/14_interpreter/src/main/java/pattern23/nonterminalexpression/Subtract.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="41" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Add.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/14_interpreter/src/main/java/pattern23/nonterminalexpression/Add.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="30" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Multiply.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/14_interpreter/src/main/java/pattern23/nonterminalexpression/Multiply.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="41" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Division.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/14_interpreter/src/main/java/pattern23/nonterminalexpression/Division.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Client.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Client.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/14_interpreter/src/main/java/pattern23/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="25" selection-start="724" selection-end="724" vertical-scroll-proportion="0.6473118">
+            <state line="24" column="37" selection-start="656" selection-end="656" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11_responsibility/src/main/java/pattern23/client/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="13" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Request.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11_responsibility/src/main/java/pattern23/client/Request.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="13" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Response.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/11_responsibility/src/main/java/pattern23/client/Response.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="110" selection-end="110" vertical-scroll-proportion="0.31034482">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcreteHandler1.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11_responsibility/src/main/java/pattern23/ConcreteHandler1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="13" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcreteHandler2.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11_responsibility/src/main/java/pattern23/ConcreteHandler2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="13" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcreteHandler3.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11_responsibility/src/main/java/pattern23/ConcreteHandler3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="13" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Handler.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11_responsibility/src/main/java/pattern23/Handler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="22" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -893,8 +906,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -919,11 +930,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="16_decorator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="11_responsibility" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -933,67 +940,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="16_decorator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designMode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="14_interpreter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designMode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="14_interpreter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designMode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="14_interpreter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="designMode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="14_interpreter" />
+              <option name="myItemId" value="11_responsibility" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1019,7 +966,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="14_interpreter" />
+              <option name="myItemId" value="11_responsibility" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1039,12 +986,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="nonterminalexpression" />
+              <option name="myItemId" value="client" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1062,14 +1011,14 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
-    <property name="dynamic.classpath" value="false" />
     <property name="Downloaded.Files.Path" value="F:\work\workspace\designMode\lib" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -1240,19 +1189,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1279,6 +1215,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1366,7 +1315,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -1380,7 +1329,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853717" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.67266184" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2495935" sideWeight="0.67266184" order="1" side_tool="false" content_ui="tabs" />
@@ -1388,14 +1336,15 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.400813" sideWeight="0.67266184" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32733813" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297362" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32733813" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297362" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297362" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="IntelliJad Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853717" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="EJB" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2512195" sideWeight="0.59592324" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -1467,55 +1416,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/09_visitor/src/main/java/bigbird/Success.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="65" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_visitor/src/main/java/bigbird/Failed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="60" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_visitor/src/main/java/bigbird/ObjectStructure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="33" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_visitor/src/main/java/pattern23/ObjectStruture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_visitor/src/main/java/bigbird/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_visitor/src/main/java/bigbird/Man.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="30" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14_interpreter/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="10" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/14_interpreter/src/main/java/pattern23/Expression.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="1" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0">
@@ -1523,75 +1423,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/14_interpreter/src/main/java/pattern23/terminalexpression/Variable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="25" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/14_interpreter/src/main/java/pattern23/terminalexpression/Constant.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/14_interpreter/src/main/java/pattern23/nonterminalexpression/Add.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="30" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/14_interpreter/src/main/java/pattern23/nonterminalexpression/Subtract.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="41" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/14_interpreter/src/main/java/pattern23/nonterminalexpression/Multiply.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="41" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/14_interpreter/src/main/java/pattern23/nonterminalexpression/Division.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/14_interpreter/src/main/java/pattern23/Context.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="16" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14_interpreter/src/main/java/pattern23/terminalexpression/Variable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14_interpreter/src/main/java/pattern23/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="37" selection-start="656" selection-end="656" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/14_interpreter/src/main/java/pattern23/Client.java">
+    <entry file="file://$PROJECT_DIR$/11_responsibility/src/main/java/pattern23/ConcreteHandler1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="25" selection-start="724" selection-end="724" vertical-scroll-proportion="0.6473118">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="10" column="13" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_responsibility/src/main/java/pattern23/ConcreteHandler2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_responsibility/src/main/java/pattern23/ConcreteHandler3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_responsibility/src/main/java/pattern23/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="22" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_responsibility/src/main/java/pattern23/client/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_responsibility/src/main/java/pattern23/client/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_responsibility/src/main/java/pattern23/client/Response.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="110" selection-end="110" vertical-scroll-proportion="0.31034482">
+          <folding />
         </state>
       </provider>
     </entry>

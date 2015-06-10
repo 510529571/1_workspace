@@ -4,7 +4,7 @@ fis.config.merge({
 	namespace: 'module1',
 
     project : {
-        charset : 'utf-8'
+        charset : 'gbk'
     },
     pack : {
         "static/pkg/main.css" : [
@@ -20,7 +20,7 @@ fis.config.merge({
     },
     deploy:{
         remote : [{
-            receiver : 'http://10.88.115.62:7001/fisReceiver.jsp',
+            receiver : 'http://10.88.134.193:8071/fisReceiver.jsp',
             from : 'static',
             to : '/' 
         }/*,{ 
@@ -28,14 +28,14 @@ fis.config.merge({
             from : 'templates',
             to : '/velocity/'
         }*/,{ 
-            receiver : 'http://10.88.115.62:7001/fisReceiver.jsp',
+            receiver : 'http://10.88.134.193:8071/fisReceiver.jsp',
             from : 'WEB-INF',
             subOnly : true,
             exclude : 'WEB-INF/server.conf',
             to : '/WEB-INF/'
         }],
         pack : { 
-            to : './output/patch/tradeapp/webTrade/',
+            to : '../out',
             exclude : /(\/test\/|server.conf)/i
         }
     }

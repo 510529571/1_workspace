@@ -4,7 +4,7 @@
     <list default="true" id="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" name="Default" comment="" />
     <ignored path="java.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/pom.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1423464344991" ignored="false" />
+    <file path="/pom.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432891397400" ignored="false" />
     <file path="$PROJECT_DIR$/../servlet/servlet/web/WEB-INF/web.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1417145666282" ignored="false" />
     <file path="$PROJECT_DIR$/../servlet/servlet/pom.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1417148003197" ignored="false" />
     <file path="$PROJECT_DIR$/../servlet/servlet/servlet.iml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1417148012717" ignored="false" />
@@ -27,12 +27,12 @@
     <file path="$PROJECT_DIR$/../dwr/dwr/dwr.iml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1417159177858" ignored="false" />
     <file path="/test_string.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418004535169" ignored="false" />
     <file path="F:/workspace/toujiyoudao/module/02.web/src/com/sinitek/sfm/paygate/web/utils/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418005157086" ignored="false" />
-    <file path="/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1425956109411" ignored="false" />
+    <file path="/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432868170226" ignored="false" />
     <file path="F:/workspace/gfyh/module/05.wtgf/src/com/sinitek/newtrade/web/fundservice/alipay/ModifyDividendMethodAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418007247089" ignored="false" />
     <file path="F:/workspace/gfyh/module/05.wtgf/src/com/sinitek/newtrade/web/trade/gf/ModifyDividendMethodAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418007453417" ignored="false" />
     <file path="/ModifyDividendMethodAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418007448736" ignored="false" />
-    <file path="/a.dummy" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1428395236194" ignored="false" />
-    <file path="/fragment.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1427448249323" ignored="false" />
+    <file path="/a.dummy" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432795173917" ignored="false" />
+    <file path="/fragment.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432885642453" ignored="false" />
     <file path="$PROJECT_DIR$/../1_struts2/struts2_boot/src/main/java/own/hhw/Download.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418114415461" ignored="false" />
     <file path="$PROJECT_DIR$/../5_struts1/struts1/pom.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418118018177" ignored="false" />
     <file path="$PROJECT_DIR$/../5_struts1/struts1/src/main/java/Download.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418114466873" ignored="false" />
@@ -240,6 +240,61 @@
     <file path="F:/workspace/bug_correct/build/src/Sinitek.NewTrade.Pay.ICBC_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/icbc/common/ICBCUtils.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1428994638203" ignored="false" />
     <file path="F:/workspace/bug_correct/build/bin/Sinitek.NewTrade.Pay.ICBC_0.9.0.jar!/com/sinitek/newtrade/pay/icbc/icbcconfig.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1428995008381" ignored="false" />
     <file path="F:/workspace/bug_correct/module/04.wtbase/03.pay/09.boc/src/com/sinitek/newtrade/pay/boc/VirementFileResolver.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1428995352218" ignored="false" />
+    <file path="$PROJECT_DIR$/../6_designMode/14_interpreter/src/main/java/pattern23/Client.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432718702883" ignored="false" />
+    <file path="/Client.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432718647384" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/partner-controller/src/main/java/com/gffunds/wallet/controllers/partner/BaseAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432777603917" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc/web/WEB-INF/web.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432783603052" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc/pom.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432794604789" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc/src/main/java/controller/PrintAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432783502452" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc/web/view/viewjsp.jsp" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432783186330" ignored="false" />
+    <file path="/viewjsp.jsp" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432783184943" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc/web/view/viewvm.vm" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432783288286" ignored="false" />
+    <file path="/viewvm.vm" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432783287459" ignored="false" />
+    <file path="/PrintAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432783367225" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc/src/main/resources/spring.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432783447286" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc/src/main/resources/servlet-context.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432796615702" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc/src/main/java/onw/hhw/controller/PrintAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432783530002" ignored="false" />
+    <file path="/servlet-context.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432800675344" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc/src/main/java/own/hhw/controller/PrintAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432796602199" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc_velocity/pom.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432799297993" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc_jsp/pom.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432799445474" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc_velocity/web/WEB-INF/web.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432799297993" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc_velocity/src/main/java/own/hhw/contoller/PrintAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432796863628" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc_velocity/src/main/java/own/hhw/contoller/WelcomeAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432800351244" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc_jsp/src/main/java/own/hhw/controller/WelcomeAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432800550435" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc_jsp/src/main/resources/servlet-context.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432800513538" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc_jsp/web/WEB-INF/web.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432799297993" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/2_spring.ipr" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432799376642" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring_/spring.ipr" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432799236814" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring.ipr" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432800790877" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc_velocity/src/main/resources/servlet-context.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432800709730" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc_velocity/src/main/java/own/hhw/contoller/vm/WelcomeAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432800632667" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc_velocity/src/main/java/own/hhw/vontroller/WelcomeAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432800755935" ignored="false" />
+    <file path="$PROJECT_DIR$/../2_spring/spring_mvc_velocity/src/main/java/own/hhw/controller/WelcomeAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432800770406" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/org/apache/velocity/velocity/1.7/velocity-1.7.pom" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432804680413" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/webapp/WEB-INF/pages/baiduTradeList.jsp" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432885178218" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/java/com/springapp/mvc/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432868352217" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/java/util/webtools/HttpRequest.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432886144402" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/java/util/webtools/MySecureProtocolSocketFactory.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432870167192" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/webapp/index.jsp" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432886350882" ignored="false" />
+    <file path="/index.jsp" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432880790597" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/webapp/WEB-INF/pages/baiduwithdraw.jsp" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432885180836" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/webapp/WEB-INF/pages/baidufundmarketlist.jsp" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432885174652" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/webapp/WEB-INF/pages/baidufundinfolist.jsp" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432885183009" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/java/com/springapp/mvc/HttpUtil.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432885651853" ignored="false" />
+    <file path="/HttpUtil.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432885432678" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/java/com/springapp/mvc/HttpsUtil.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432885646032" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/java/com/springapp/mvc/HelloController.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432886393185" ignored="false" />
+    <file path="/HelloController.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432885711971" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/Hystrix/Hystrix/pom.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432891975029" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/Hystrix/Hystrix/src/main/java/com/netflix/hystrix/examples/basic/CommandHelloWorld.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432892377982" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/Hystrix/Hystrix/src/main/java/com/netflix/hystrix/examples/basic/CommandTest.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432892281576" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/Hystrix/Hystrix/src/main/java/com/netflix/hystrix/examples/basic/CommandHelloWorld1.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432892377982" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/partner-controller/src/main/java/com/gffunds/wallet/controllers/partner/Baifa100Action.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1433235754210" ignored="false" />
+    <file path="/Baifa100Action.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1433235745793" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/partner-controller/src/main/java/com/gffunds/wallet/controllers/partner/PayAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1433235779559" ignored="false" />
+    <file path="/PayAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1433235775157" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/partner-controller/src/main/fe/baifa/page/subscribeAll.js" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1433236783517" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,6 +309,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -290,7 +346,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -384,7 +439,7 @@
       <file leaf-file-name="TestMap.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mytest/src/main/java/TestMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="1" selection-start="358" selection-end="358" vertical-scroll-proportion="0.5326232">
+            <state line="14" column="43" selection-start="350" selection-end="350" vertical-scroll-proportion="0.46604526">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -511,6 +566,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -638,22 +694,16 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myTool" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -707,42 +757,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mytest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mytest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -771,11 +785,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -789,11 +799,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My97DatePicker" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -847,7 +875,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1180,7 +1207,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33089432" sideWeight="0.78297365" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33495936" sideWeight="0.7673861" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33495936" sideWeight="0.4532374" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2326139" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1338,13 +1365,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mytest/src/main/java/Base64.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="58" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/Xmljava.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="55" selection-start="651" selection-end="865" vertical-scroll-proportion="0.0">
@@ -1352,9 +1372,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mytest/src/main/java/Base64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="58" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mytest/src/main/java/TestMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="1" selection-start="358" selection-end="358" vertical-scroll-proportion="0.5326232">
+        <state line="14" column="43" selection-start="350" selection-end="350" vertical-scroll-proportion="0.46604526">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

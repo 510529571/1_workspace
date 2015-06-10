@@ -1,4 +1,4 @@
-var header = require("common:widget/header/header.js");
+var header = require("common:page/header/header.js");
 
 $(function(){
     console.log("123");

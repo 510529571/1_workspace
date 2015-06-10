@@ -21,9 +21,9 @@
     <file path="$PROJECT_DIR$/../test/trunk/mybatis.iws" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1402389831448" ignored="false" />
     <file path="$PROJECT_DIR$/spring_boot/src/main/java/spring_step1/own/hhw/step1/service/PrintServiceImpl.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1402389548677" ignored="false" />
     <file path="$PROJECT_DIR$/spring_boot/src/main/java/spring_step1/test/SampleTest.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1402389548677" ignored="false" />
-    <file path="/fragment.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428043407828" ignored="false" />
+    <file path="/fragment.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433490277516" ignored="false" />
     <file path="$PROJECT_DIR$/spring_boot/src/main/java/step1/service/PrintServiceImpl.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1402389575030" ignored="false" />
-    <file path="/pom.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428045006053" ignored="false" />
+    <file path="/pom.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433484999026" ignored="false" />
     <file path="$PROJECT_DIR$/../struts2/struts2_boot/pom.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1402653187444" ignored="false" />
     <file path="$PROJECT_DIR$/../struts2/struts2_boot/src/main/resources/own/hhw/Test1Action.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1402651505783" ignored="false" />
     <file path="$PROJECT_DIR$/../struts2/struts2_boot/src/main/webapp/WEB-INF/web.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1402653539223" ignored="false" />
@@ -43,7 +43,7 @@
     <file path="/my.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1419496289434" ignored="false" />
     <file path="/note.dtd" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1406788846949" ignored="false" />
     <file path="F:/workspace/tonlianzhifu/module/05.wtgf/web/account/fundaccountinfo.jsp" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1406789586070" ignored="false" />
-    <file path="/a.dummy" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428048084888" ignored="false" />
+    <file path="/a.dummy" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433485311297" ignored="false" />
     <file path="F:/workspace/tonlianzhifu/module/05.wtgf/web/promision/prompresub.jsp" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1406789700824" ignored="false" />
     <file path="F:/workspace/tonlianzhifu/module/05.wtgf/web/trade/csportfoliofixtrade.jsp" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1406789732706" ignored="false" />
     <file path="F:/workspace/tonlianzhifu/module/05.wtgf/web/trade/fixbalancetrade.jsp" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1406789749744" ignored="false" />
@@ -88,7 +88,7 @@
     <file path="$PROJECT_DIR$/../3_mybatis/mybatis_boot/src/main/java/own/hhw/select/mapper/Select.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1406799222321" ignored="false" />
     <file path="/Select.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1406799222321" ignored="false" />
     <file path="/SessionSelect.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1406800834755" ignored="false" />
-    <file path="/Main.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1418291145659" ignored="false" />
+    <file path="/Main.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433473688064" ignored="false" />
     <file path="F:/workspace/firstpay/module/04.wtbase/03.pay/16.firstpay2/src/com/sinitek/newtrade/pay/firstpay2/common/AllscoreUtils.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1418287010728" ignored="false" />
     <file path="F:/workspace/firstpay/module/04.wtbase/03.pay/16.firstpay2/src/com/sinitek/newtrade/pay/firstpay2/common/config.properties" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1418289012707" ignored="false" />
     <file path="F:/workspace/firstpay/build/bin/Sinitek.NewTrade.Pay.firstpay2_0.9.0.jar!/com/sinitek/newtrade/pay/firstpay2/common/config.properties" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1418289020577" ignored="false" />
@@ -151,8 +151,8 @@
     <file path="$PROJECT_DIR$/../../2_github/spring_user/spring-mvc-mybatis-sample/src/main/webapp/WEB-INF/web.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1420011293412" ignored="false" />
     <file path="/resolvers-context.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1420014360166" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/spring_user/spring-mvc-mybatis-sample/src/main/webapp/WEB-INF/resolvers-context.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1420014364262" ignored="false" />
-    <file path="/PrintAction.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1420707703577" ignored="false" />
-    <file path="/servlet-context.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1421049174820" ignored="false" />
+    <file path="/PrintAction.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432783367225" ignored="false" />
+    <file path="/servlet-context.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433490304624" ignored="false" />
     <file path="F:/workspace/firstpay/module/06.wtmanage/src/com/sinitek/newtrade/manage/virement/DoVirementAction.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1420702774633" ignored="false" />
     <file path="/DoVirementAction.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1420702756329" ignored="false" />
     <file path="/LogUtil.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1420708692671" ignored="false" />
@@ -162,7 +162,6 @@
     <file path="/Tee.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1421030134739" ignored="false" />
     <file path="F:/workspace/baidu/wallet-main/wallet-common/src/main/resources/cacheContext.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1421048889339" ignored="false" />
     <file path="/spring-context.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1421050013473" ignored="false" />
-    <file path="$USER_HOME$/.m2/settings.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1421055537496" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/dubbo/dubboServer/dubboServer.iml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1421056726833" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/cached/memcached_google/pom.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1421056926149" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/mq/activeMQ/pom.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1421117135743" ignored="false" />
@@ -218,6 +217,44 @@
     <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/dubboContext.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428048751327" ignored="false" />
     <file path="F:/workspace_git/gfpay/gfpay-controller/src/test/java/com/gffunds/gfpay/AccoVerifyApiTests.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428050808907" ignored="false" />
     <file path="/AccoVerifyApiTests.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1428050773425" ignored="false" />
+    <file path="/viewjsp.jsp" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432783184943" ignored="false" />
+    <file path="/viewvm.vm" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433484232832" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/webapp/WEB-INF/pages/baiduTradeList.jsp" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432885178218" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/java/com/springapp/mvc/Test.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432868352217" ignored="false" />
+    <file path="/Test.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432868170226" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/java/util/webtools/HttpRequest.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432886144402" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/java/util/webtools/MySecureProtocolSocketFactory.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432870167192" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/webapp/index.jsp" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432886350882" ignored="false" />
+    <file path="/index.jsp" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432880790597" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/webapp/WEB-INF/pages/baiduwithdraw.jsp" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432885180835" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/webapp/WEB-INF/pages/baidufundmarketlist.jsp" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432885174652" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/webapp/WEB-INF/pages/baidufundinfolist.jsp" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432885183009" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/java/com/springapp/mvc/HttpUtil.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432885651852" ignored="false" />
+    <file path="/HttpUtil.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432885432675" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/java/com/springapp/mvc/HttpsUtil.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432885646032" ignored="false" />
+    <file path="F:/workspace/baidu2/store_monitor/src/main/java/com/springapp/mvc/HelloController.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432886393186" ignored="false" />
+    <file path="/HelloController.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432885711971" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/Hystrix/Hystrix/pom.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432891975029" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/Hystrix/Hystrix/src/main/java/com/netflix/hystrix/examples/basic/CommandHelloWorld.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432892377982" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/Hystrix/Hystrix/src/main/java/com/netflix/hystrix/examples/basic/CommandTest.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432892281576" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/Hystrix/Hystrix/src/main/java/com/netflix/hystrix/examples/basic/CommandHelloWorld1.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1432892377982" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/jello/jello/module1/fis-conf.js" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433490370140" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/jello/jello/common/fis-conf.js" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433490362699" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/jello/jello/module1/page/login/login.vm" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433411804153" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/wallet-service/src/main/java/com/gffunds/wallet/service/api/baidu/BaiduTradeQueryApiService.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433483250006" ignored="false" />
+    <file path="/BaiduTradeQueryApiService.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433477970825" ignored="false" />
+    <file path="F:/workspace/baidu2/wallet-main/wallet-service/src/main/java/com/gffunds/wallet/service/BusinessReturnCode.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433482899211" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/jello/jello/common/page/layout.js" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433485342031" ignored="false" />
+    <file path="/1.html" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433485763517" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/jello/untitled/pom.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433488815510" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/jello/untitled/ear/target/application.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433489246769" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/jello/spring_mvc_velocity_jello/pom.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433490110313" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/jello/spring_mvc_velocity_jello/src/main/java/own/hhw/controller.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433490261737" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/jello/spring_mvc_velocity_jello/src/main/resources/servlet-context.xml" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433490304624" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/jello/jello/README" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433491052757" ignored="false" />
+    <file path="/README" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433491052757" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/jello/spring_mvc_velocity_jello/src/main/java/own/hhw/controller/WelcomeAction.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433496958040" ignored="false" />
+    <file path="/WelcomeAction.java" changelist="1aa5420f-2252-4a13-9e99-e811f5f02329" time="1433496956415" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -278,91 +315,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="spring-context.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_boot/src/main/resources/spring-context.xml">
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring_mvc_velocity/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="51" selection-start="1434" selection-end="1434" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spring-aop-2.5.xsd" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/3.2.0.RELEASE/spring-aop-3.2.0.RELEASE.jar!/org/springframework/aop/config/spring-aop-2.5.xsd">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="55" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bean.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring/src/main/java/bean.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spring.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_boot/src/main/resources/spring.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="27" selection-start="956" selection-end="956" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LogUtil.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/util/LogUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="53" selection-start="512" selection-end="517" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="源码学习.txt" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring/doc/源码学习.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="35" selection-start="627" selection-end="663" vertical-scroll-proportion="0.29960054">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProceedingJoinPoint.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.7.4/aspectjweaver-1.7.4-sources.jar!/org/aspectj/lang/ProceedingJoinPoint.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="3" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_boot/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="6" selection-start="1731" selection-end="2068" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="aspectj_1_5_0.dtd" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.7.4/aspectjweaver-1.7.4.jar!/aspectj_1_5_0.dtd">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="10" selection-start="1820" selection-end="1820" vertical-scroll-proportion="0.0">
+            <state line="57" column="45" selection-start="2039" selection-end="2039" vertical-scroll-proportion="0.7917485">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="servlet-context.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_boot/src/main/resources/servlet-context.xml">
+        <entry file="file://$PROJECT_DIR$/spring_mvc_velocity/src/main/resources/servlet-context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="4" selection-start="933" selection-end="933" vertical-scroll-proportion="0.0">
+            <state line="23" column="50" selection-start="1235" selection-end="1235" vertical-scroll-proportion="32.64">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fis.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_mvc_velocity/web/WEB-INF/fis.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="24" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_mvc_velocity/web/WEB-INF/web.xml">
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="0" selection-start="809" selection-end="809" vertical-scroll-proportion="-17.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WelcomeAction.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_mvc_velocity/src/main/java/own/hhw/controller/WelcomeAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="36" selection-start="465" selection-end="471" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="viewvm.vm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_mvc_velocity/web/WEB-INF/views/viewvm.vm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="6" selection-start="29" selection-end="29" vertical-scroll-proportion="-1.5625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fisReceiver.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_mvc_velocity/web/fisReceiver.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="0" selection-start="770" selection-end="770" vertical-scroll-proportion="-14.84375">
               <folding />
             </state>
           </provider>
@@ -378,22 +397,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/spring_mvc_in_web/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/spring_boot/src/main/resources/resolvers-context.xml" />
-        <option value="$PROJECT_DIR$/spring_boot/web/view/print.jsp" />
-        <option value="$PROJECT_DIR$/spring.ipr" />
-        <option value="$PROJECT_DIR$/spring_boot/pom.xml" />
-        <option value="$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/action/PrintAction.java" />
-        <option value="$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/util/LogUtil.java" />
-        <option value="$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/service/PrintService.java" />
-        <option value="$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/service/PrintServiceImpl.java" />
-        <option value="$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/dao/Tee.java" />
-        <option value="$PROJECT_DIR$/spring_boot/src/main/resources/spring.xml" />
-        <option value="$PROJECT_DIR$/spring/pom.xml" />
-        <option value="$PROJECT_DIR$/spring_boot/src/main/resources/servlet-context.xml" />
-        <option value="$PROJECT_DIR$/spring_boot/src/main/resources/log4j.properties" />
-        <option value="$PROJECT_DIR$/spring_boot/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/spring_boot/src/main/resources/spring-context.xml" />
+        <option value="$PROJECT_DIR$/spring_mvc/src/main/resources/servlet-context.xml" />
+        <option value="$PROJECT_DIR$/spring_mvc_velocity/src/main/java/own/hhw/contoller/PrintAction.java" />
+        <option value="$PROJECT_DIR$/spring_mvc_velocity/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/spring_mvc_jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_mvc_velocity/src/main/java/own/hhw/contoller/WelcomeAction.java" />
+        <option value="$PROJECT_DIR$/spring_mvc_jsp/src/main/resources/servlet-context.xml" />
+        <option value="$PROJECT_DIR$/spring_mvc_jsp/src/main/java/own/hhw/controller/WelcomeAction.java" />
+        <option value="$MAVEN_REPOSITORY$/org/apache/velocity/velocity/1.7/velocity-1.7.pom" />
+        <option value="$PROJECT_DIR$/spring_mvc_velocity/web/view/viewvm.vm" />
+        <option value="$PROJECT_DIR$/spring_mvc_velocity/src/main/java/own/hhw/controller/WelcomeAction.java" />
+        <option value="$PROJECT_DIR$/spring_mvc_velocity/src/main/java/own/hhw/controller/Main.java" />
+        <option value="$PROJECT_DIR$/spring_mvc_velocity/web/WEB-INF/fis.properties" />
+        <option value="$PROJECT_DIR$/spring_mvc_velocity/web/WEB-INF/views/viewvm.vm" />
+        <option value="$PROJECT_DIR$/spring_mvc_velocity/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_mvc_velocity/web/1.html" />
+        <option value="$PROJECT_DIR$/spring_mvc_velocity/src/main/resources/servlet-context.xml" />
       </list>
     </option>
   </component>
@@ -417,7 +436,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="spring_boot" />
+          <option name="myItemId" value="spring_mvc_velocity" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
@@ -431,7 +450,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="spring_boot" />
+          <option name="myItemId" value="spring_mvc_velocity" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
@@ -439,7 +458,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="net.sourceforge.stripes:stripes:1.5.7-classloaderfix" />
+          <option name="myItemId" value="org.apache.velocity:velocity-tools:2.0" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
         </PATH_ELEMENT>
       </PATH>
@@ -449,7 +468,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="spring_boot" />
+          <option name="myItemId" value="spring_mvc_velocity" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
@@ -457,7 +476,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="org.springframework:spring-web:3.2.0.RELEASE" />
+          <option name="myItemId" value="org.apache.velocity:velocity:1.7" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
         </PATH_ELEMENT>
       </PATH>
@@ -467,25 +486,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="spring_boot" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Dependencies" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="org.springframework:spring-context:3.2.0.RELEASE" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependencyNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="spring_boot" />
+          <option name="myItemId" value="spring_mvc_velocity" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
@@ -493,16 +494,6 @@
         <PATH_ELEMENT>
           <option name="myItemId" value="" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Profiles" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProfilesNode" />
         </PATH_ELEMENT>
       </PATH>
     </treeState>
@@ -541,7 +532,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -550,16 +540,6 @@
               <option name="myItemId" value="spring" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -567,7 +547,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spring_boot" />
+              <option name="myItemId" value="spring_mvc_velocity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -577,7 +557,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spring_boot" />
+              <option name="myItemId" value="spring_mvc_velocity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -591,7 +571,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spring_boot" />
+              <option name="myItemId" value="spring_mvc_velocity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -609,15 +589,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spring_boot" />
+              <option name="myItemId" value="spring_mvc_velocity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -627,7 +607,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spring_boot" />
+              <option name="myItemId" value="spring_mvc_velocity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -638,6 +618,10 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -645,7 +629,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spring_boot" />
+              <option name="myItemId" value="spring_mvc_velocity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -660,137 +644,14 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring_servlet_proxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring_servlet_proxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring_servlet_proxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring_servlet_proxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring_servlet_proxy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="权限设计" />
+              <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -802,29 +663,38 @@
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="reference.settings.project.maven.ignored.files" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring/spring.iml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring_mvc_jsp/pom.xml" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="own.hhw.contoller" />
+      <recent name="controller" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\work\3_project\1_workspace\2_spring\spring_boot\src\main\resources" />
-      <recent name="F:\work\workspace\spring\spring_boot\src\test\java" />
-      <recent name="F:\work\workspace\spring\spring_boot\src\main\resources" />
-      <recent name="F:\work\workspace\spring\spring_boot\src\main\java\own\hhw" />
-      <recent name="F:\work\workspace\spring\spring_boot\src\main\java" />
+      <recent name="F:\work\3_project\1_workspace\2_spring\spring_mvc_velocity\web" />
+      <recent name="F:\work\3_project\1_workspace\2_spring\spring_mvc_velocity\src\main\resources" />
+      <recent name="F:\work\3_project\1_workspace\2_spring\spring_mvc\src\main\resources" />
+      <recent name="F:\work\3_project\1_workspace\2_spring\spring_mvc\web\view" />
+      <recent name="F:\work\3_project\1_workspace\2_spring\spring_mvc\src\main\java\controller" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\work\3_project\1_workspace\2_spring\spring_mvc_velocity\src\main" />
+      <recent name="F:\work\3_project\1_workspace\2_spring\spring_mvc_velocity\web\WEB-INF" />
+      <recent name="F:\work\3_project\1_workspace\2_spring\spring_mvc_velocity\web\WEB-INF\views" />
+      <recent name="F:\work\3_project\1_workspace\2_spring\spring_mvc_velocity\web\view" />
       <recent name="F:\work\3_project\1_workspace\2_spring\spring_temp\src\main\java" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -833,7 +703,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 6.0">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="SampleTest" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="own.hhw.step1.test.SampleTest" />
@@ -874,28 +744,6 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="own.hhw.step1.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="own.hhw.step1.test.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="spring_boot" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
     <configuration default="false" name="Application" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -913,6 +761,28 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="own.hhw.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="own.hhw.controller.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="spring_mvc_velocity" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -954,6 +824,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -980,19 +863,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1045,7 +915,7 @@
     <configuration default="false" name="Tomcat 6.0" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 6.0">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="spring_boot:war exploded">
+        <artifact name="spring_mvc_velocity:Web exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
@@ -1053,8 +923,8 @@
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring" />
-        <option name="HTTP_PORT" value="8086" />
-        <option name="JNDI_PORT" value="1096" />
+        <option name="HTTP_PORT" value="8081" />
+        <option name="JNDI_PORT" value="1091" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -1116,24 +986,24 @@
       </ConfigurationWrapper>
       <method>
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="spring_boot:war exploded" />
-          <artifact name="spring_boot:war exploded" />
+          <artifact name="spring_mvc_velocity:Web exploded" />
         </option>
       </method>
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 6.0" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SampleTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Application" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SampleTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Application" />
+      <item index="3" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 6.0" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.Application" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SampleTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Application" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SampleTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1150,35 +1020,55 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41007194" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3057554" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853717" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33252034" sideWeight="0.39808154" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853717" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297362" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34308943" sideWeight="0.74580336" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31626016" sideWeight="0.6127098" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297362" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33252034" sideWeight="0.67026377" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40406504" sideWeight="0.6942446" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22182254" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297362" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853717" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1247,12 +1137,56 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring_boot/src/main/resources/log4j.properties">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/velocity/fis-velocity-tools/1.0/fis-velocity-tools-1.0.jar!/com/baidu/fis/velocity/directive/Require.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="22" selection-start="77" selection-end="82" vertical-scroll-proportion="0.0" />
+        <state line="6" column="71" selection-start="233" selection-end="233" vertical-scroll-proportion="-5.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring_boot/web/WEB-INF/web.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/velocity/fis-velocity-tools/1.0/fis-velocity-tools-1.0.jar!/com/baidu/fis/velocity/directive/AbstractInline.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="82" selection-start="235" selection-end="244" vertical-scroll-proportion="-5.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_mvc_jsp/src/main/resources/servlet-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="60" selection-start="1107" selection-end="1107" vertical-scroll-proportion="-10.12">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_mvc_jsp/web/view/viewjsp.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_mvc_jsp/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="40" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_mvc_velocity/web/fisReceiver.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="770" selection-end="770" vertical-scroll-proportion="-14.84375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_mvc_velocity/web/WEB-INF/fis.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="24" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_mvc_velocity/web/WEB-INF/web.xml">
       <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
         <state />
       </provider>
@@ -1263,103 +1197,35 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="47" selection-start="532" selection-end="532" vertical-scroll-proportion="0.0">
+        <state line="21" column="0" selection-start="809" selection-end="809" vertical-scroll-proportion="-17.5">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring_boot/src/main/resources/properties/jdbc.properties">
+    <entry file="file://$PROJECT_DIR$/spring_mvc_velocity/src/main/resources/servlet-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring/spring_servlet_proxy/spring.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="53" selection-start="679" selection-end="690" vertical-scroll-proportion="-9.0">
+        <state line="23" column="50" selection-start="1235" selection-end="1235" vertical-scroll-proportion="32.64">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring/spring_step1/test/SampleTest.java">
+    <entry file="file://$PROJECT_DIR$/spring_mvc_velocity/src/main/java/own/hhw/controller/WelcomeAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="60" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0">
+        <state line="16" column="36" selection-start="465" selection-end="471" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring/spring_step1/spring.xml">
+    <entry file="file://$PROJECT_DIR$/spring_mvc_velocity/web/WEB-INF/views/viewvm.vm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="8" selection-start="605" selection-end="605" vertical-scroll-proportion="0.0">
+        <state line="2" column="6" selection-start="29" selection-end="29" vertical-scroll-proportion="-1.5625">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring/src/main/java/bean.xml">
+    <entry file="file://$PROJECT_DIR$/spring_mvc_velocity/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_boot/src/main/resources/servlet-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="4" selection-start="933" selection-end="933" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/3.2.0.RELEASE/spring-aop-3.2.0.RELEASE.jar!/org/springframework/aop/config/spring-aop-2.5.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="55" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_boot/src/main/resources/spring-context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="51" selection-start="1434" selection-end="1434" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_boot/src/main/resources/spring.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="27" selection-start="956" selection-end="956" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.7.4/aspectjweaver-1.7.4-sources.jar!/org/aspectj/lang/ProceedingJoinPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="3" selection-start="785" selection-end="785" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.7.4/aspectjweaver-1.7.4.jar!/aspectj_1_5_0.dtd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="10" selection-start="1820" selection-end="1820" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_boot/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="6" selection-start="1731" selection-end="2068" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_boot/src/main/java/own/hhw/step1/util/LogUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="53" selection-start="512" selection-end="517" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring/doc/源码学习.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="35" selection-start="627" selection-end="663" vertical-scroll-proportion="0.29960054">
+        <state line="57" column="45" selection-start="2039" selection-end="2039" vertical-scroll-proportion="0.7917485">
           <folding />
         </state>
       </provider>
@@ -1370,7 +1236,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>spring_boot:war exploded</last-edited>
+          <last-edited>spring_boot:Web exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1419,7 +1285,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>spring_boot</last-edited>
+          <last-edited>spring_mvc_velocity</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

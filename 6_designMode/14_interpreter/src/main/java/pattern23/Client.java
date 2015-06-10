@@ -20,7 +20,7 @@ public class Client {
     public static void main(String[] args) {
         con = new Context();
         //设置变量、常量
-        Variable a = new Variable();
+        Variable a = new Variable(){};
         Variable b = new Variable();
         Constant c = new Constant(2);
         //为变量赋值

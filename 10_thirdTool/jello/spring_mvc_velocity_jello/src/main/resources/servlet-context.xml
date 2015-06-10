@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/mvc
+        http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd
+		http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+		http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context-3.0.xsd
+        http://www.springframework.org/schema/aop
+        http://www.springframework.org/schema/aop/spring-aop-2.5.xsd
+        ">
+    <!-- Configures the @Controller programming model -->
+    <mvc:annotation-driven/>
+
+    <!-- Scans the classpath of this application for @Components to deploy as beans -->
+    <context:component-scan base-package="own.hhw.controller"/>
+
+    <!-- Forwards requests to the "/" resource to the "welcome" view -->
+    <mvc:view-controller path="/" view-name="index.jsp"/>
+
+    <!--设置静态资源的目录-->
+    <mvc:resources mapping="/static/**" location="/static/"/>
+
+    <!--本次新加的velocity的解析器-->
+    <bean id="viewResolver2" class="org.springframework.web.servlet.view.velocity.VelocityViewResolver">
+        <!--property name="cache" value="true"/-->
+        <property name="prefix" value=""/>
+        <property name="suffix" value=".vm"/>
+        <property name="contentType">
+            <value>text/html;charset=GBK</value>
+        </property>
+
+      <!--  <property name="attributesMap">
+            <map>
+                <entry key="NUMBER_TOOL">
+                    <bean class="org.apache.velocity.tools.generic.NumberTool"/>
+                </entry>
+                <entry key="DATE_TOOL">
+                    <bean class="org.apache.velocity.tools.generic.DateTool"/>
+                </entry>
+            </map>
+        </property>-->
+        <property name="order" value="1"/>
+    </bean>
+
+    <!--初始 fis 配置-->
+    <bean id="fisInit" class="com.baidu.fis.velocity.spring.FisBean" />
+
+    <bean id="velocityConfigurer" class="org.springframework.web.servlet.view.velocity.VelocityConfigurer">
+        <property name="resourceLoaderPath" value="/WEB-INF/views"/>
+        <property name="velocityProperties">
+            <props>
+                <prop key="input.encoding">GBK</prop>
+                <prop key="output.encoding">GBK</prop>
+                <prop key="userdirective">com.baidu.fis.velocity.directive.Html, com.baidu.fis.velocity.directive.Head,
+                    com.baidu.fis.velocity.directive.Body, com.baidu.fis.velocity.directive.Require,
+                    com.baidu.fis.velocity.directive.Script, com.baidu.fis.velocity.directive.Style,
+                    com.baidu.fis.velocity.directive.Uri, com.baidu.fis.velocity.directive.Widget,
+                    com.baidu.fis.velocity.directive.Block, com.baidu.fis.velocity.directive.Extends
+                </prop>
+            </props>
+        </property>
+    </bean>
+</beans>
