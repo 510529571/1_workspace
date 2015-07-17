@@ -1,5 +1,7 @@
 package own.hhw.lang;
 
+import java.lang.String;
+
 /**
  * Created with IntelliJ IDEA.
  * User: hanwei
@@ -15,7 +17,7 @@ public class Zhuanshi {
     }
 
 
-    public static void main(String[] args) {
+    public static void main(java.lang.String[] args) {
         final String s = "ץС͵";
         new Zhuanshi().excutor(new People() {
             @Override

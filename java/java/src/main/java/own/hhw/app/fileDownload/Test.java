@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 
 public class Test extends HttpServlet
 {
-	private String name;
+	private java.lang.String name;
 	
 	/**
 	 * Constructor of the object.

@@ -2,5 +2,5 @@ package own.hhw.lang.AI;
 
 public interface Interf
 {
-	String i = "interf";
+	java.lang.String i = "interf";
 }

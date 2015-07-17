@@ -1,11 +1,12 @@
 package own.hhw.app.junit;
 
+import java.lang.String;
 import java.util.*;
 
 import junit.framework.*;
 
 public class SimpleTest extends TestCase {
-    public SimpleTest(String name) {
+    public SimpleTest(java.lang.String name) {
         super(name);
     }
 

@@ -61,6 +61,11 @@
     <file path="$PROJECT_DIR$/../dwr/dwr/dwr.iml" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1417159177858" ignored="false" />
     <file path="$PROJECT_DIR$/../java/java/src/main/java/own/hhw/lang/test22.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1417160403230" ignored="false" />
     <file path="$PROJECT_DIR$/../java/java/src/main/java/own/hhw/lang/Test_data1.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1417160409533" ignored="false" />
+    <file path="F:/workspace/baidu6th/baidu6th.iws" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1435884080164" ignored="false" />
+    <file path="/dubboContext.xml" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1435832027019" ignored="false" />
+    <file path="F:/workspace/baidu6th/wallet-main/wallet-service/src/main/resources/dubboContext.xml" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1435832034685" ignored="false" />
+    <file path="F:/workspace/baidu6th/wallet-main/wallet-service/src/main/java/com/gffunds/wallet/service/log/DubboLogger.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1435832156236" ignored="false" />
+    <file path="/DubboLogger.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1435832130435" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +80,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -112,6 +116,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -124,16 +129,25 @@
       <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="775" selection-end="775" vertical-scroll-proportion="0.0">
+            <state line="26" column="18" selection-start="794" selection-end="794" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyContext.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="insert.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/own/hhw/insert.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="9" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyContext.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/MyContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="35" selection-start="623" selection-end="637" vertical-scroll-proportion="0.0">
+            <state line="37" column="53" selection-start="946" selection-end="946" vertical-scroll-proportion="0.7289973">
               <folding />
             </state>
           </provider>
@@ -175,15 +189,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SqlMapper.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/SqlMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="330" selection-end="330" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="XMLreader.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/XMLreader.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -193,10 +198,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="configuration.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="configuration.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/configuration.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="69" selection-start="124" selection-end="124" vertical-scroll-proportion="0.04111842">
+            <state line="1" column="69" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -372,38 +377,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="framework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xmlreader" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="framework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xmlreader" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -420,42 +393,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="mybatis3-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="framework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis3-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="framework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis3-1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -525,9 +462,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -600,6 +537,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -626,19 +576,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -720,7 +657,7 @@
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292683" sideWeight="0.62470025" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908365" sideWeight="0.62470025" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36585367" sideWeight="0.62470025" order="0" side_tool="false" content_ui="combo" />
@@ -820,16 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/own/hhw/insert.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="9" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1417144230779" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1417144230779" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/JDBConnection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="26" selection-start="0" selection-end="106" vertical-scroll-proportion="0.0">
@@ -858,20 +785,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="775" selection-end="775" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/MyContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="35" selection-start="623" selection-end="637" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xmlreader/src/main/java/configuration.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -893,6 +806,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/configuration.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="69" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/own/hhw/insert.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="9" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/own/hhw/select.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="26" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
@@ -900,9 +827,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/configuration.xml">
+    <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="69" selection-start="124" selection-end="124" vertical-scroll-proportion="0.04111842">
+        <state line="26" column="18" selection-start="794" selection-end="794" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/MyContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="53" selection-start="946" selection-end="946" vertical-scroll-proportion="0.7289973">
           <folding />
         </state>
       </provider>

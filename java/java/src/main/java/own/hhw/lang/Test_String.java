@@ -4,6 +4,7 @@ import org.junit.Test;
 import own.hhw.util.Public;
 
 import java.io.UnsupportedEncodingException;
+import java.lang.String;
 import java.security.NoSuchAlgorithmException;
 import java.util.ArrayList;
 
@@ -23,7 +24,7 @@ public class Test_String {
 //			System.out.print(i+",");
 //		}
 
-        String callbackurl_temp = "http://www.hao123.com";
+        java.lang.String callbackurl_temp = "http://www.hao123.com";
         byte[] c_temp = callbackurl_temp.getBytes();
         StringBuffer callbackurl = new StringBuffer();
         for (int i = 0; i < c_temp.length; i++) {

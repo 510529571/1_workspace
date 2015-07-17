@@ -3,6 +3,8 @@ package own.hhw.app.xml;
 import org.w3c.dom.Document;
 import own.hhw.util.PublicTool;
 
+import java.lang.String;
+
 /**
  * Created with IntelliJ IDEA.
  * User: hanwei
@@ -11,7 +13,7 @@ import own.hhw.util.PublicTool;
  * To change this template use File | Settings | File Templates.
  */
 public class Test {
-    public static void main(String[] args) {
+    public static void main(java.lang.String[] args) {
         String m="<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
                 "<request>\n" +
                 "\t<head>\n" +

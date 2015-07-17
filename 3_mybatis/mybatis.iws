@@ -41,7 +41,7 @@
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/jpetstore-6/src/main/java/org/mybatis/jpetstore/service1/CatalogService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406539155445" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/jpetstore-6/src/main/java/org/mybatis/jpetstore/service1/AccountServiceImpl.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406539260847" ignored="false" />
     <file path="/applicationContext.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1419845074407" ignored="false" />
-    <file path="/configuration.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1432523405588" ignored="false" />
+    <file path="/configuration.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1436951865210" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/jpetstore-6/src/main/java/org/mybatis/jpetstore/web/actions/CartActionBean.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406713011101" ignored="false" />
     <file path="/CartActionBean.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406712995836" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_github/mybatis-3/jpetstore-6/src/main/java/org/mybatis/jpetstore/service/OrderService.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1406713946341" ignored="false" />
@@ -505,7 +505,7 @@
     <file path="/uniformsmtsdownload.jsp" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409280993254" ignored="false" />
     <file path="/CGBUtils.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409281513214" ignored="false" />
     <file path="/MybatisUtil.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409296362085" ignored="false" />
-    <file path="/SqlSessionManager.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409300993827" ignored="false" />
+    <file path="/SqlSessionManager.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1436347148902" ignored="false" />
     <file path="/Cache.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409300395983" ignored="false" />
     <file path="/DefaultSqlSessionFactory.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409301222651" ignored="false" />
     <file path="/DefaultSqlSession.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1409562171753" ignored="false" />
@@ -908,6 +908,16 @@
     <file path="F:/workspace/bug_correct/module/05.wtgf/src/cacheContext.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1432536932569" ignored="false" />
     <file path="F:/workspace/bug_correct/module/05.wtgf/web/WEB-INF/applicationContext.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1432536932569" ignored="false" />
     <file path="F:/workspace/bug_correct/module/04.wtbase/03.pay/07.chinapnr/src/com/sinitek/newtrade/pay/chinapnr/common/ChinaPNRUtils.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1432542901554" ignored="false" />
+    <file path="$PROJECT_DIR$/../../2_github_product_study/mybatis/mybatis-3/src/main/java/org/apache/ibatis/session/SqlSessionManager.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1436347149831" ignored="false" />
+    <file path="F:/workspace/baidu6th/wallet-main/partner-controller/src/main/fe/baifa/page/redeemWallet.js" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1436348038054" ignored="false" />
+    <file path="F:/workspace/baidu6th/wallet-main/partner-controller/src/main/fe/baifa/page/redeemWallet.vm" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1436348164298" ignored="false" />
+    <file path="/redeemWallet.vm" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1436348151745" ignored="false" />
+    <file path="/SessionSql.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1436348341820" ignored="false" />
+    <file path="F:/workspace/baidu6th_package/wallet-main/partner-controller/src/main/java/com/gffunds/wallet/controllers/partner/RedeemAction.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1436952681823" ignored="false" />
+    <file path="/Sql.xml" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1436951278423" ignored="false" />
+    <file path="F:/workspace/baidu6th/wallet-main/partner-controller/src/main/java/com/gffunds/wallet/controllers/partner/RedeemAction.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1436952374867" ignored="false" />
+    <file path="$PROJECT_DIR$/../../2_github_product_study/mybatis/mybatis-3/src/test/java/org/apache/ibatis/binding/BindingTest.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1436953747214" ignored="false" />
+    <file path="/BindingTest.java" changelist="e6faedfb-8c7a-4ecb-9cd6-1dcc95783397" time="1436953245854" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -938,36 +948,6 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/jpetstore-6/src/main/java/org/mybatis/jpetstore/web/actions/AccountActionBean.java" line="120" class="org.mybatis.jpetstore.web.actions.AccountActionBean" package="org.mybatis.jpetstore.web.actions">
-        <option name="ENABLED" value="false" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/jpetstore-6/src/main/java/org/mybatis/jpetstore/service/AccountService.java" line="44" class="org.mybatis.jpetstore.service.AccountService" package="org.mybatis.jpetstore.service">
-        <option name="ENABLED" value="false" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
       <breakpoint url="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/cache/test/SessionSelect.java" line="90" class="own.hhw.cache.test.SessionSelect" package="own.hhw.cache.test">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
@@ -983,8 +963,52 @@
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/select/test/SessionSelect.java" line="38" class="own.hhw.select.test.SessionSelect" package="own.hhw.select.test">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/jpetstore-6/src/main/java/org/mybatis/jpetstore/web/actions/AccountActionBean.java" line="120" class="org.mybatis.jpetstore.web.actions.AccountActionBean" package="org.mybatis.jpetstore.web.actions">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/jpetstore-6/src/main/java/org/mybatis/jpetstore/service/AccountService.java" line="44" class="org.mybatis.jpetstore.service.AccountService" package="org.mybatis.jpetstore.service">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
     </line_breakpoints>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -1021,6 +1045,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -1030,19 +1055,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MapperFactoryBean.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/mapper/MapperFactoryBean.java">
+      <file leaf-file-name="SessionSql.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/sql/test/SessionSql.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="10" selection-start="2815" selection-end="2815" vertical-scroll-proportion="0.0">
+            <state line="32" column="15" selection-start="728" selection-end="735" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SessionSelect.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/cache/test/SessionSelect.java">
+      <file leaf-file-name="applicationContext.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jpetstore-6/src/main/webapp/WEB-INF/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="0" selection-start="688" selection-end="688" vertical-scroll-proportion="0.0">
+            <state line="55" column="0" selection-start="2741" selection-end="2741" vertical-scroll-proportion="-24.08">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="configuration.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/configuration.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="71" selection-start="1963" selection-end="1963" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generatorConfig.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auto_create_dao/src/main/resources/generatorConfig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -1057,67 +1100,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SessionSelect.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/select/test/SessionSelect.java">
+      <file leaf-file-name="Sql.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/sql/mapper/Sql.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="26" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0">
+            <state line="13" column="9" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="configuration.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/configuration.xml">
+      <file leaf-file-name="ResultMapTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/resultMap/test/ResultMapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="49" selection-start="1563" selection-end="1563" vertical-scroll-proportion="0.03387534">
+            <state line="51" column="26" selection-start="1426" selection-end="1433" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis_boot/pom.xml">
+      <file leaf-file-name="CardBin.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/com/bedpotato/po/CardBin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="12" selection-start="979" selection-end="1448" vertical-scroll-proportion="0.0">
+            <state line="21" column="31" selection-start="527" selection-end="527" vertical-scroll-proportion="0.45646068">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mybatis.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/property/mybatis.properties">
+      <file leaf-file-name="App.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/com/bedpotato/mybatisTest/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="16" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
+            <state line="17" column="13" selection-start="432" selection-end="432" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="log4j.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/log4j.properties">
+      <file leaf-file-name="Ptable.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/resultMap/po/Ptable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="9" column="13" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mybatis-3-config.dtd" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7.jar!/org/apache/ibatis/builder/xml/mybatis-3-config.dtd">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="10" selection-start="978" selection-end="978" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Select.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/select/mapper/Select.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="656" selection-end="656" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1407981332190" expanded="true" signature="508:531" placeholder="/*注意下面是用的是$做..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -1132,8 +1155,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/jpetstore-6/src/main/webapp/WEB-INF/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/auto_create_dao/pom.xml" />
         <option value="$PROJECT_DIR$/auto_create_dao/src/main/java/own/hhw/util/MybatisUtil.java" />
         <option value="$PROJECT_DIR$/auto_create_dao/src/main/resources/configuration.xml" />
         <option value="$PROJECT_DIR$/auto_create_dao/src/test/java/own/hhw/Main.java" />
@@ -1146,8 +1167,10 @@
         <option value="$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/cache/mapper/Cache.xml" />
         <option value="$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/select/mapper/Select.xml" />
         <option value="$PROJECT_DIR$/mybatis_boot/src/main/java/mybatis.properties" />
-        <option value="$PROJECT_DIR$/mybatis_boot/src/main/java/configuration.xml" />
         <option value="$PROJECT_DIR$/mybatis_boot/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/sql/test/SessionSql.java" />
+        <option value="$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/sql/mapper/Sql.xml" />
+        <option value="$PROJECT_DIR$/mybatis_boot/src/main/java/configuration.xml" />
       </list>
     </option>
   </component>
@@ -1264,7 +1287,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1699,23 +1721,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis_boot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="property" />
+              <option name="myItemId" value="jpetstore-6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1725,7 +1731,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis_boot" />
+              <option name="myItemId" value="jpetstore-6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1734,14 +1740,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hhw" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1751,7 +1749,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis_boot" />
+              <option name="myItemId" value="jpetstore-6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1763,19 +1761,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hhw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="select" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="webapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1785,7 +1771,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis_boot" />
+              <option name="myItemId" value="jpetstore-6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1797,15 +1783,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
+              <option name="myItemId" value="webapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hhw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="select" />
+              <option name="myItemId" value="WEB-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1815,7 +1797,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis_boot" />
+              <option name="myItemId" value="jpetstore-6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1827,19 +1809,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hhw" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="select" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mapper" />
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1849,7 +1819,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis_boot" />
+              <option name="myItemId" value="jpetstore-6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1865,7 +1835,67 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bedpotato" />
+              <option name="myItemId" value="jpetstore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="actions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jpetstore-6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jpetstore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jpetstore-6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jpetstore" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2008,6 +2038,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2059,35 +2090,7 @@
       <recent name="F:\work\3_project\1_workspace\3_mybatis\mybatis_boot\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SessionSelect">
-    <configuration default="false" name="App.insert4List" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.bedpotato.mybatisTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="mybatis_boot" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.bedpotato.mybatisTest" />
-      <option name="MAIN_CLASS_NAME" value="com.bedpotato.mybatisTest.App" />
-      <option name="METHOD_NAME" value="insert4List" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 6.0">
     <configuration default="false" name="App.insert4Map" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -2190,7 +2193,13 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="mybatis_boot" />
       <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -2396,6 +2405,34 @@
         </option>
       </method>
     </configuration>
+    <configuration default="false" name="App.insert4List" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.bedpotato.mybatisTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="mybatis_boot" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.bedpotato.mybatisTest" />
+      <option name="MAIN_CLASS_NAME" value="com.bedpotato.mybatisTest.App" />
+      <option name="METHOD_NAME" value="insert4List" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 6.0" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.App.insert4List" />
@@ -2405,12 +2442,11 @@
       <item index="5" class="java.lang.String" itemvalue="Application.SessionSelect" />
     </list>
     <recent_temporary>
-      <list size="5">
+      <list size="4">
         <item index="0" class="java.lang.String" itemvalue="Application.SessionSelect" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.App.insert4List" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.App.update4List" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.App.insert4ListMap" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.App.insert4Map" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.App.update4List" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.App.insert4ListMap" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.App.insert4Map" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -2468,14 +2504,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2495935" sideWeight="0.67146283" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48321342" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3561151" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -2488,13 +2524,13 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2804878" sideWeight="0.8021583" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297362" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35528454" sideWeight="0.558753" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35528454" sideWeight="0.6438849" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44124702" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2495935" sideWeight="0.8117506" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29256594" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29256594" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="IntelliJad Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853717" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="EJB" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
@@ -2570,46 +2606,80 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.1/mybatis-3.2.1-sources.jar!/org/apache/ibatis/annotations/CacheNamespace.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.0.1.RELEASE/spring-aop-4.0.1.RELEASE-sources.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="49" selection-start="1087" selection-end="1087" vertical-scroll-proportion="0.0" />
+        <state line="178" column="0" selection-start="6067" selection-end="6067" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.1/mybatis-3.2.1-sources.jar!/org/apache/ibatis/builder/annotation/MapperAnnotationBuilder.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.0.1.RELEASE/spring-tx-4.0.1.RELEASE-sources.jar!/org/springframework/transaction/interceptor/TransactionInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="28" selection-start="3873" selection-end="3873" vertical-scroll-proportion="0.0" />
+        <state line="94" column="0" selection-start="3701" selection-end="3701" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.1/mybatis-3.2.1-sources.jar!/org/apache/ibatis/binding/MapperRegistry.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.0.1.RELEASE/spring-aop-4.0.1.RELEASE-sources.jar!/org/springframework/aop/framework/CglibAopProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="23" selection-start="1775" selection-end="1775" vertical-scroll-proportion="0.0" />
+        <state line="653" column="0" selection-start="22885" selection-end="22885" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.1/mybatis-3.2.1-sources.jar!/org/apache/ibatis/session/Configuration.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/net/sourceforge/stripes/stripes/1.5.7-classloaderfix/stripes-1.5.7-classloaderfix-sources.jar!/net/sourceforge/stripes/controller/DispatcherServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="626" column="22" selection-start="21893" selection-end="21893" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/config/MapperScannerBeanDefinitionParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="8" selection-start="1519" selection-end="1519" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/annotation/MapperScan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="33" selection-start="964" selection-end="964" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/mapper/MapperFactoryBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="10" selection-start="2815" selection-end="2815" vertical-scroll-proportion="0.0">
+        <state line="198" column="39" selection-start="9334" selection-end="9334" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/cache/test/SessionSelect.java">
+    <entry file="file://$PROJECT_DIR$/jpetstore-6/src/main/java/org/mybatis/jpetstore/service/AccountService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="688" selection-end="688" vertical-scroll-proportion="0.0">
+        <state line="29" column="13" selection-start="1028" selection-end="1028" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/resultMap/po/Ctable2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/resultMap/po/Ptable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/sql/test/SessionSql.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="15" selection-start="728" selection-end="735" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/resultMap/test/ResultMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="26" selection-start="1426" selection-end="1433" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/com/bedpotato/mybatisTest/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="13" selection-start="432" selection-end="432" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jpetstore-6/src/main/webapp/WEB-INF/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="0" selection-start="2741" selection-end="2741" vertical-scroll-proportion="-24.08">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_create_dao/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -2621,53 +2691,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/select/mapper/Select.xml">
+    <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/sql/mapper/Sql.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="656" selection-end="656" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1407981332190" expanded="true" signature="508:531" placeholder="/*注意下面是用的是$做..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/own/hhw/select/test/SessionSelect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="26" selection-start="381" selection-end="381" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.7/mybatis-3.2.7.jar!/org/apache/ibatis/builder/xml/mybatis-3-config.dtd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="10" selection-start="978" selection-end="978" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis_boot/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="12" selection-start="979" selection-end="1448" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/property/mybatis.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="16" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="13" column="9" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/configuration.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="49" selection-start="1563" selection-end="1563" vertical-scroll-proportion="0.03387534">
+        <state line="37" column="71" selection-start="1963" selection-end="1963" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis_boot/src/main/java/com/bedpotato/po/CardBin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="31" selection-start="527" selection-end="527" vertical-scroll-proportion="0.45646068">
           <folding />
         </state>
       </provider>

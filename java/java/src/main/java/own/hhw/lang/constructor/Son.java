@@ -1,5 +1,7 @@
 package own.hhw.lang.constructor;
 
+import java.lang.String;
+
 /**
  * Created with IntelliJ IDEA.
  * User: hanwei
@@ -12,7 +14,7 @@ public class Son extends Father implements Student {
         super(human);
     }
 
-    public static void main(String[] args) {
+    public static void main(java.lang.String[] args) {
         XiaoWang xiaoWang = new XiaoWang();
         Son son = new Son(xiaoWang);
 

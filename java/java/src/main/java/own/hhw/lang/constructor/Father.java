@@ -1,5 +1,7 @@
 package own.hhw.lang.constructor;
 
+import java.lang.String;
+
 /**
  * Created with IntelliJ IDEA.
  * User: hanwei
@@ -18,7 +20,7 @@ public class Father implements Human {
         return human;
     }
 
-    public String getName() {
+    public java.lang.String getName() {
         return human.getName();
     }
 

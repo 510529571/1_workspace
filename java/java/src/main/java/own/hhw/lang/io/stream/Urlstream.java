@@ -1,5 +1,6 @@
 package own.hhw.lang.io.stream;
 
+import java.lang.String;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.regex.Matcher;
@@ -8,7 +9,7 @@ import java.util.regex.Pattern;
 import junit.framework.TestCase;
 
 public class Urlstream extends TestCase {
-    public static void main(String[] args) {
+    public static void main(java.lang.String[] args) {
         try {
             URL url=new URL("ftp://hao123.com.hao123.com.cn/123");
             System.out.println(url.getHost());

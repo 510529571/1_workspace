@@ -1,5 +1,7 @@
 package own.hhw.lang.constructor;
 
+import java.lang.String;
+
 /**
  * Created with IntelliJ IDEA.
  * User: hanwei
@@ -8,7 +10,7 @@ package own.hhw.lang.constructor;
  * To change this template use File | Settings | File Templates.
  */
 public interface Human  {
-    public String getName();
+    public java.lang.String getName();
 
     public void setName(String name);
 }

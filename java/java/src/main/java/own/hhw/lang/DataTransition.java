@@ -1,5 +1,6 @@
 package own.hhw.lang;
 
+import java.lang.String;
 import java.util.*;
 
 /**
@@ -10,7 +11,7 @@ import java.util.*;
  * To change this template use File | Settings | File Templates.
  */
 public class DataTransition {
-    public static void main(String[] args) {
+    public static void main(java.lang.String[] args) {
 
         List list = new ArrayList();
 

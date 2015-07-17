@@ -2,6 +2,8 @@ package own.hhw.lang.grammar;
 
 import org.junit.Test;
 
+import java.lang.String;
+
 /**
  * Created with IntelliJ IDEA.
  * User: hanwei
@@ -12,7 +14,7 @@ import org.junit.Test;
 public class Test_final {
     private final static User finObj;//用户自定义对象可以不用给定默认值
 
-    private final static String finStr = "我是固定的值";//基本类型引用，必须给定默认值
+    private final static java.lang.String finStr = "我是固定的值";//基本类型引用，必须给定默认值
 
     //hhw:task final有什么用呢？
     static {

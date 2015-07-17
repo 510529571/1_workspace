@@ -4,6 +4,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.RandomAccessFile;
+import java.lang.String;
 
 import javax.servlet.ServletInputStream;
 import javax.servlet.http.HttpServletRequest;
@@ -12,7 +13,7 @@ import javax.servlet.http.HttpSession;
 public class FileUpload
 {
 
-	private String userInfo = "";
+	private java.lang.String userInfo = "";
 	private String sysInfo = "";
 
 	private HttpServletRequest request;

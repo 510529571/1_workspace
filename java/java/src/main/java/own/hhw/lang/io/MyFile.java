@@ -16,7 +16,7 @@ public class MyFile {
                 System.out.println("创建文件失败！");
 
         File f1 = File.createTempFile("abcde", ".txt", f);
-        String[] files = f.list();
+        java.lang.String[] files = f.list();
 
         for (int i = 0; i < files.length; i++) {
             System.out.println("文件"+i+":"+files[i].toString());

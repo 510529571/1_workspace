@@ -14,7 +14,7 @@ public class ProxyFoo implements InvocationHandler {
 
 	public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
 		System.out.println("Before testing for the colors of the feathers");
-
+        System.out.println("method hashcode:"+method.hashCode());
 		method.invoke(target, args);
 
 		System.out.println("After testing for the colors of the feathers");
@@ -22,12 +22,8 @@ public class ProxyFoo implements InvocationHandler {
 		return null;
 	}
 
-	public static Object createProxy(Object t) {
-		return Proxy.newProxyInstance(t.getClass().getClassLoader(), t.getClass().getInterfaces(), new ProxyFoo(t));
-	}
-
-	public void setTarget(Object target) {
-		this.target = target;
+	public static <T> T createProxy(T t) {
+		return (T) Proxy.newProxyInstance(t.getClass().getClassLoader(), t.getClass().getInterfaces(), new ProxyFoo(t));
 	}
 
 }

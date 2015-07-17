@@ -6,6 +6,7 @@ package own.hhw.app.encrypt.ThreeDES; /**
  * To change this template use File | Settings | File Templates.
  */
 import java.io.UnsupportedEncodingException;
+import java.lang.String;
 import java.security.Security;
 import javax.crypto.Cipher;
 import javax.crypto.SecretKey;
@@ -13,7 +14,7 @@ import javax.crypto.spec.SecretKeySpec;
 
 public class ThreeDES {
 
-    private static final String Algorithm = "DESede"; //定义 加密算法,可用 DES,DESede,Blowfish
+    private static final java.lang.String Algorithm = "DESede"; //定义 加密算法,可用 DES,DESede,Blowfish
 
     //keybyte为加密密钥，长度为24字节
     //src为被加密的数据缓冲区（源）
@@ -90,7 +91,7 @@ public class ThreeDES {
         } catch (UnsupportedEncodingException e) {
             e.printStackTrace();  //To change body of catch statement use File | Settings | File Templates.
         }
-        String  key="RRYa6li5NGFodgKUtvS1I6fZwY8xpJjI1234567890654321";
+        String key="RRYa6li5NGFodgKUtvS1I6fZwY8xpJjI1234567890654321";
         String szSrc = "This is a 3DES test. 测试";
 
         System.out.println("加密前的字符串:" + szSrc);

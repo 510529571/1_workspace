@@ -1,6 +1,7 @@
 package own.hhw;
 
 import javax.servlet.ServletResponseWrapper;
+import java.lang.String;
 
 /**
  * User: hanwei
@@ -8,7 +9,7 @@ import javax.servlet.ServletResponseWrapper;
  * Time: ионГ10:52
  */
 public class Test {
-    public static void main(String[] args) {
+    public static void main(java.lang.String[] args) {
         ServletResponseWrapper servletResponseWrapper=new ServletResponseWrapper();
         servletResponseWrapper.setCharacterEncoding("123");
 

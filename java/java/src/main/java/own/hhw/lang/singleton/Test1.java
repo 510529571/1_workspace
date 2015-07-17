@@ -2,7 +2,7 @@ package own.hhw.lang.singleton;
 
 public class Test1
 {
-	public static void main(String[] args)
+	public static void main(java.lang.String[] args)
     {
 		Singleton1 singleton1 = Singleton1.getInstance();
 		Singleton1 singleton2 = Singleton1.getInstance();

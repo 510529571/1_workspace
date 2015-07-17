@@ -31,6 +31,7 @@ public class Test_BigDecimal {
     public void test_decimalFormat() {
         DecimalFormat df = new DecimalFormat("#.00");
         System.out.println(df.format(100.01d));
+        System.out.println(df.format(new BigDecimal("1.2")));
     }
 
 }

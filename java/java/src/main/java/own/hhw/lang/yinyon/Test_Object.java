@@ -2,6 +2,7 @@ package own.hhw.lang.yinyon;
 
 import org.junit.Test;
 
+import java.lang.String;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -19,7 +20,7 @@ public class Test_Object {
         user.setUsername("huhanwei");
         user.setPassword("123");
 
-        Map<String, User> map = new HashMap<String, User>();
+        Map<java.lang.String, User> map = new HashMap<String, User>();
         map.put("1", user);
         System.out.println(map.get("1").getUsername());
         User u = map.get("1");

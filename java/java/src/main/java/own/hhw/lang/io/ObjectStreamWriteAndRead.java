@@ -1,7 +1,7 @@
 package own.hhw.lang.io;
 
-import javax.servlet.http.HttpSession;
 import java.io.*;
+import java.lang.String;
 
 /**
  * Created with IntelliJ IDEA.
@@ -12,7 +12,7 @@ import java.io.*;
  * hhw:tag 【序列化】将二进制数据转化成对象
  */
 public class ObjectStreamWriteAndRead {
-    public static void main(String[] args) throws IOException, ClassNotFoundException {
+    public static void main(java.lang.String[] args) throws IOException, ClassNotFoundException {
         writeAndRead();
 
         writeAndRead2();

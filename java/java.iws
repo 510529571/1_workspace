@@ -27,12 +27,12 @@
     <file path="$PROJECT_DIR$/../dwr/dwr/dwr.iml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1417159177858" ignored="false" />
     <file path="/test_string.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418004535169" ignored="false" />
     <file path="F:/workspace/toujiyoudao/module/02.web/src/com/sinitek/sfm/paygate/web/utils/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418005157086" ignored="false" />
-    <file path="/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432868170226" ignored="false" />
+    <file path="/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343702088" ignored="false" />
     <file path="F:/workspace/gfyh/module/05.wtgf/src/com/sinitek/newtrade/web/fundservice/alipay/ModifyDividendMethodAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418007247089" ignored="false" />
     <file path="F:/workspace/gfyh/module/05.wtgf/src/com/sinitek/newtrade/web/trade/gf/ModifyDividendMethodAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418007453417" ignored="false" />
     <file path="/ModifyDividendMethodAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418007448736" ignored="false" />
-    <file path="/a.dummy" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432795173917" ignored="false" />
-    <file path="/fragment.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1432885642453" ignored="false" />
+    <file path="/a.dummy" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436941846608" ignored="false" />
+    <file path="/fragment.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343983767" ignored="false" />
     <file path="$PROJECT_DIR$/../1_struts2/struts2_boot/src/main/java/own/hhw/Download.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418114415461" ignored="false" />
     <file path="$PROJECT_DIR$/../5_struts1/struts1/pom.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418118018177" ignored="false" />
     <file path="$PROJECT_DIR$/../5_struts1/struts1/src/main/java/Download.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1418114466873" ignored="false" />
@@ -77,7 +77,7 @@
     <file path="/Test_String.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419319856334" ignored="false" />
     <file path="/Test_final.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419321178721" ignored="false" />
     <file path="/Test_Math.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419405494974" ignored="false" />
-    <file path="/Test_BigDecimal.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419320501137" ignored="false" />
+    <file path="/Test_BigDecimal.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436941905052" ignored="false" />
     <file path="/MyObj.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419320612653" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/servlet/servlet/src/main/java/own/hhw/listener/MySessionContext.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419323957250" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/servlet/servlet/web/WEB-INF/web.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1419326269812" ignored="false" />
@@ -295,6 +295,67 @@
     <file path="F:/workspace/baidu2/wallet-main/partner-controller/src/main/java/com/gffunds/wallet/controllers/partner/PayAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1433235779559" ignored="false" />
     <file path="/PayAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1433235775157" ignored="false" />
     <file path="F:/workspace/baidu2/wallet-main/partner-controller/src/main/fe/baifa/page/subscribeAll.js" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1433236783517" ignored="false" />
+    <file path="F:/workspace/baidu6th/baidu6th.iws" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1435884207081" ignored="false" />
+    <file path="/dubboContext.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1435832027019" ignored="false" />
+    <file path="F:/workspace/baidu6th/wallet-main/wallet-service/src/main/resources/dubboContext.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436490513570" ignored="false" />
+    <file path="F:/workspace/baidu6th/wallet-main/wallet-service/src/main/java/com/gffunds/wallet/service/log/DubboLogger.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1435832156236" ignored="false" />
+    <file path="/DubboLogger.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1435832130435" ignored="false" />
+    <file path="/Proxy.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436260467163" ignored="false" />
+    <file path="/Proxy2.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436260790176" ignored="false" />
+    <file path="$PROJECT_DIR$/../../2_github_product_study/mybatis/mybatis-3/src/main/java/org/apache/ibatis/builder/xml/XMLMapperBuilder.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436261742896" ignored="false" />
+    <file path="/XMLMapperBuilder.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436261742896" ignored="false" />
+    <file path="$PROJECT_DIR$/../6_designMode/dynamic-proxy/src/main/java/br/com/fabriciodeb/sample/proxy/ProxyFoo.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436319049236" ignored="false" />
+    <file path="/ProxyFoo.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436318801919" ignored="false" />
+    <file path="$PROJECT_DIR$/../6_designMode/dynamic-proxy/src/main/java/br/com/fabriciodeb/sample/client/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436315520509" ignored="false" />
+    <file path="$PROJECT_DIR$/../../2_github_product_study/mybatis/mybatis-3/src/main/java/org/apache/ibatis/binding/MapperProxy.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343022054" ignored="false" />
+    <file path="/MapperProxy.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343022054" ignored="false" />
+    <file path="$PROJECT_DIR$/../../2_github_product_study/mybatis/mybatis-3/src/main/java/org/apache/ibatis/binding/MapperRegistry.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436340826694" ignored="false" />
+    <file path="/MapperRegistry.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436340826694" ignored="false" />
+    <file path="$PROJECT_DIR$/../../2_github_product_study/mybatis/mybatis-3/src/main/java/org/apache/ibatis/binding/MapperProxyFactory.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436341944120" ignored="false" />
+    <file path="/MapperProxyFactory.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436341944120" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/constructor/Student.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961407" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/constructor/Son.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961407" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/constructor/XiaoWang.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961407" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/constructor/Father.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961407" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/constructor/Human.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961407" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/javax/servlet/ServletResponseWrapper.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961407" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/app/xml/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961407" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/app/junit/SimpleTest.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961407" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/app/encrypt/javaRSA.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961407" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/LearnEncoding.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961407" ignored="false" />
+    <file path="$PROJECT_DIR$/java/web/WEB-INF/fileUpload/file.jsp" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961407" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/Test_HtmlEcoder.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961407" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/app/fileUpload/FileUpload.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961407" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/app/fileDownload/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961407" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/AI/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961408" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/AI/Abs.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961408" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/AI/demo1/Test.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961408" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/ObjectStreamWriteAndRead.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961408" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/MyConsole.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961408" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/MyFile.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961408" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/Urlstream.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961408" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/Test_Stream.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961408" ignored="false" />
+    <file path="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/stream/Urlstream.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436343961408" ignored="false" />
+    <file path="$PROJECT_DIR$/../../2_github_product_study/mybatis/mybatis-3/src/main/java/org/apache/ibatis/session/SqlSessionManager.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436347149831" ignored="false" />
+    <file path="/SqlSessionManager.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436347148902" ignored="false" />
+    <file path="F:/workspace/baidu6th/wallet-main/partner-controller/src/main/fe/baifa/page/redeemWallet.js" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436513941968" ignored="false" />
+    <file path="F:/workspace/baidu6th/wallet-main/partner-controller/src/main/fe/baifa/page/redeemWallet.vm" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436348164298" ignored="false" />
+    <file path="/redeemWallet.vm" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436348151745" ignored="false" />
+    <file path="$PROJECT_DIR$/../3_mybatis/mybatis_boot/src/main/java/own/hhw/sql/test/SessionSql.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436348392941" ignored="false" />
+    <file path="/SessionSql.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436348341820" ignored="false" />
+    <file path="F:/workspace/baidu6th/wallet-main/wallet-service/src/main/java/com/gffunds/wallet/service/api/baidu/BaiduTradeQueryApiService.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436490513570" ignored="false" />
+    <file path="F:/workspace/baidu6th/wallet-main/pom.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436490513570" ignored="false" />
+    <file path="F:/workspace/baidu6th/wallet-main/partner-controller/src/main/java/com/gffunds/wallet/controllers/partner/RedeemAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436942206727" ignored="false" />
+    <file path="/RedeemAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436942085190" ignored="false" />
+    <file path="F:/workspace/baidu6th_package/wallet-main/partner-controller/src/main/java/com/gffunds/wallet/controllers/partner/RedeemAction.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436948644967" ignored="false" />
+    <file path="F:/workspace/baidu6th_package/wallet-main/wallet-main.iml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436949354282" ignored="false" />
+    <file path="F:/workspace/baidu6th_package/wallet-main/baidu6th_package.ipr" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436950397773" ignored="false" />
+    <file path="$PROJECT_DIR$/../../2_github_product_study/mybatis/mybatis-3/src/test/java/org/apache/ibatis/binding/BindingTest.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436951182525" ignored="false" />
+    <file path="/BindingTest.java" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436951178748" ignored="false" />
+    <file path="$PROJECT_DIR$/../3_mybatis/mybatis_boot/src/main/java/own/hhw/sql/mapper/Sql.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436951280269" ignored="false" />
+    <file path="/Sql.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436951278423" ignored="false" />
+    <file path="$PROJECT_DIR$/../3_mybatis/mybatis_boot/src/main/java/configuration.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436951866400" ignored="false" />
+    <file path="/configuration.xml" changelist="64ed256e-8fd8-4024-ab5f-2dbc29f455cf" time="1436951865210" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -309,7 +370,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -346,6 +406,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -355,94 +416,96 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Urlstream.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/stream/Urlstream.java">
+      <file leaf-file-name="String1.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/java/lang/String1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="27" selection-start="1108" selection-end="1108" vertical-scroll-proportion="0.0">
+            <state line="10" column="5" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyFile.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/MyFile.java">
+      <file leaf-file-name="Proxy.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/fangxing/Proxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
+            <state line="10" column="11" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PublicTool.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/PublicTool.java">
+      <file leaf-file-name="Test.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/fangxing/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="13" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test_Stream.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/Test_Stream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="0" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="String_temp.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/src/java/lang/String_temp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Base64.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/src/java/lang/Base64.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="29" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mytest/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Base64.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mytest/src/main/java/Base64.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="58" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Xmljava.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/Xmljava.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="55" selection-start="651" selection-end="865" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestMap.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mytest/src/main/java/TestMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="43" selection-start="350" selection-end="350" vertical-scroll-proportion="0.46604526">
+            <state line="16" column="21" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#277#285#0" expanded="true" />
+                <element signature="e#385#393#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test_BigDecimal.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/math/Test_BigDecimal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="56" selection-start="739" selection-end="739" vertical-scroll-proportion="1.2864494">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayList.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="349" column="24" selection-start="13018" selection-end="13019" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="List.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/src.zip!/java/util/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="213" column="12" selection-start="9474" selection-end="9474" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test_String.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/Test_String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="33" selection-start="794" selection-end="794" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test_final.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/grammar/Test_final.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="19" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Zhuanshi.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/Zhuanshi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="1" selection-start="622" selection-end="622" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="145" column="11" selection-start="5507" selection-end="5507" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -457,22 +520,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/MyConsole.java" />
-        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/Urlstream.java" />
-        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/Test_HtmlEcoder.java" />
-        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/exception/WhereThrow.java" />
-        <option value="$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/Public.java" />
-        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/app/encoding/LearnEncoding.java" />
-        <option value="$PROJECT_DIR$/java/src/main/java/javax/servlet/Test.java" />
-        <option value="$PROJECT_DIR$/java/src/main/java/javax/servlet/ServletResponseWrapper.java" />
-        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/Test.java" />
-        <option value="$PROJECT_DIR$/java/src/main/java/java/lang/String.java" />
-        <option value="$PROJECT_DIR$/test/src/servlet/ServletResponseWrapper.java" />
         <option value="$PROJECT_DIR$/test/src/java/lang/String.java" />
         <option value="$PROJECT_DIR$/test/src/java/lang/String_temp.java" />
         <option value="$PROJECT_DIR$/test/src/java/lang/Base64.java" />
         <option value="$PROJECT_DIR$/mytest/src/main/java/Base64.java" />
         <option value="$PROJECT_DIR$/mytest/src/main/java/TestMap.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/fangxing/Proxy.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/fangxing/Proxy2.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/fangxing/Proxy3.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/fangxing/Test.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/Zhuanshi.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/Test_String.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/java/lang/String.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/java/lang1/String.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/grammar/Test_final.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/java/lang/String1.java" />
+        <option value="$PROJECT_DIR$/java/src/main/java/own/hhw/lang/math/Test_BigDecimal.java" />
       </list>
     </option>
   </component>
@@ -873,6 +936,164 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Zhuanshi.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grammar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fangxing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -890,15 +1111,16 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java.lang" />
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -909,29 +1131,7 @@
       <recent name="F:\work\3_project\1_workspace\java\java\web\WEB-INF" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestMap">
-    <configuration default="false" name="LearnEncoding" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="own.hhw.app.encoding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="own.hhw.app.encoding.LearnEncoding" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.Test_BigDecimal.test_decimalFormat">
     <configuration default="false" name="LearnEncoding.testByte4hex" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -956,28 +1156,6 @@
       </option>
       <envs />
       <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="own.hhw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="own.hhw.Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java" />
-      <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -1012,6 +1190,56 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="mytest" />
       <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="own.hhw.lang.fangxing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="own.hhw.lang.fangxing.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="java" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test_BigDecimal.test_decimalFormat" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="own.hhw.lang.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="java" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="own.hhw.lang.math" />
+      <option name="MAIN_CLASS_NAME" value="own.hhw.lang.math.Test_BigDecimal" />
+      <option name="METHOD_NAME" value="test_decimalFormat" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -1052,19 +1280,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1091,6 +1306,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1130,19 +1358,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.LearnEncoding" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.LearnEncoding.testByte4hex" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Base64" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestMap" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.LearnEncoding.testByte4hex" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Base64" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestMap" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Test_BigDecimal.test_decimalFormat" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestMap" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Base64" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Base64" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.LearnEncoding.testByte4hex" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Test_BigDecimal.test_decimalFormat" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestMap" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Base64" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Base64" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1186,12 +1414,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297362" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2495935" sideWeight="0.6738609" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39928058" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1200,6 +1429,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2613909" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5467626" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1207,13 +1437,11 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33089432" sideWeight="0.78297365" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33495936" sideWeight="0.4532374" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33495936" sideWeight="0.7673861" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2326139" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297362" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2613909" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1282,109 +1510,117 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/Test_Date.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="32" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
+        <state line="10" column="13" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/Test.java">
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/Test_StringWriter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="23" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/servlet/ServletResponseWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0">
+        <state line="6" column="13" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/ObjectStreamWriteAndRead.java">
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/fangxing/Proxy2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="6" selection-start="2024" selection-end="2024" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/Urlstream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="13" selection-start="535" selection-end="535" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/MyConsole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/PublicTool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="13" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0">
+        <state line="11" column="0" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/MyFile.java">
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/fangxing/Proxy3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0">
+        <state line="12" column="0" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/stream/Urlstream.java">
+    <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/src.zip!/java/lang/Long.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="27" selection-start="1108" selection-end="1108" vertical-scroll-proportion="0.0">
+        <state line="22" column="33" selection-start="763" selection-end="763" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/app/encrypt/ThreeDES/ThreeDES.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="20" selection-start="2108" selection-end="2108" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/io/Test_Stream.java">
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/fangxing/Proxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0">
+        <state line="10" column="11" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/java/lang/String_temp.java">
+    <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
+        <state line="145" column="11" selection-start="5507" selection-end="5507" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/java/lang/Base64.java">
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/Zhuanshi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="29" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
+        <state line="28" column="1" selection-start="622" selection-end="622" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mytest/pom.xml">
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/Test_String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="33" column="33" selection-start="794" selection-end="794" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myTool/src/main/java/own/hhw/util/Xmljava.java">
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/grammar/Test_final.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="55" selection-start="651" selection-end="865" vertical-scroll-proportion="0.0">
+        <state line="14" column="19" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mytest/src/main/java/Base64.java">
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/java/lang/String1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="58" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0">
+        <state line="10" column="5" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mytest/src/main/java/TestMap.java">
+    <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="43" selection-start="350" selection-end="350" vertical-scroll-proportion="0.46604526">
+        <state line="213" column="12" selection-start="9474" selection-end="9474" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="349" column="24" selection-start="13018" selection-end="13019" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/fangxing/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="21" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#277#285#0" expanded="true" />
+            <element signature="e#385#393#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/own/hhw/lang/math/Test_BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="56" selection-start="739" selection-end="739" vertical-scroll-proportion="1.2864494">
+          <folding />
         </state>
       </provider>
     </entry>

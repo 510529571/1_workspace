@@ -12,7 +12,7 @@
     <script type="text/javascript" src="datepicker/WdatePicker.js"/>
     <link href="datepicker/skin/WdatePicker.css" rel="stylesheet" type="text/css">
 </head>
-  <body>
+  <body>sdfd
   <input/>
         <input type="text" name="name" onclick="WdatePicker({skin:'whyGreen',dateFmt:'dd',realDateFmt:'dd',minDate:'01',maxDate:'28',highLineWeekDay:false,isShowClear:false,isShowToday:true,isShowWeek:false});"/>
   </body>

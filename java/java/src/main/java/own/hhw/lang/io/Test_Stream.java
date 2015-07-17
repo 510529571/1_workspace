@@ -3,6 +3,7 @@ package own.hhw.lang.io;
 import org.junit.Test;
 
 import java.io.ByteArrayInputStream;
+import java.lang.String;
 
 /**
  * Created with IntelliJ IDEA.
@@ -14,7 +15,7 @@ import java.io.ByteArrayInputStream;
 public class Test_Stream {
     @Test
     public void test1() throws Exception {
-        String s1="你们好吗";
+        java.lang.String s1="你们好吗";
         byte[] bytes=s1.getBytes("utf-8");
         System.out.println("字节长度："+bytes.length);
 
