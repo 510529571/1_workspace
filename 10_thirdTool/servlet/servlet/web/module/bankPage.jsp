@@ -1,3 +1,4 @@
+<%@ page import="java.net.URLEncoder" %>
 <%--
   Created by IntelliJ IDEA.
   User: hanwei
@@ -9,7 +10,7 @@
 <%@ page contentType="text/html;charset=GBK" language="java" %>
 <%
     String reqMsg=request.getParameter("reqMsg");
-    request.setAttribute("reqMsg",reqMsg);
+    request.setAttribute("reqMsg", URLEncoder.encode(reqMsg,"utf-8"));
 %>
 <html>
 <head>

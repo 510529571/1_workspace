@@ -6,7 +6,7 @@ package javax.servlet;
  * Time: ионГ10:52
  */
 public class ServletResponseWrapper {
-    public void setCharacterEncoding(java.lang.String s){
+    public void setCharacterEncoding(String s){
         System.out.println(s);
     }
 }

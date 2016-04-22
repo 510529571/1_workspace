@@ -10,7 +10,7 @@ import java.lang.String;
  * To change this template use File | Settings | File Templates.
  */
 public class XiaoWang implements Student {
-    private java.lang.String name;
+    private String name;
     private String grade;
 
     @Override

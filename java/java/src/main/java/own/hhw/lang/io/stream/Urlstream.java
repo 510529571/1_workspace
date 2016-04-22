@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 import junit.framework.TestCase;
 
 public class Urlstream extends TestCase {
-    public static void main(java.lang.String[] args) {
+    public static void main(String[] args) {
         try {
             URL url=new URL("ftp://hao123.com.hao123.com.cn/123");
             System.out.println(url.getHost());

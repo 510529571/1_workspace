@@ -82,7 +82,7 @@ public class LearnEncoding {
     第二种呢，我还没弄明白是这么回事，但是肯定进行了转码，也就是说改变了数据的存储格式
     */
 
-    public static void main(java.lang.String[] args) throws UnsupportedEncodingException {
+    public static void main(String[] args) throws UnsupportedEncodingException {
 
 //        try {
 

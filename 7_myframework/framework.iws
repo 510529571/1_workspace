@@ -5,7 +5,7 @@
     <ignored path="framework.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/pom.xml" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1417159220750" ignored="false" />
-    <file path="/XMLreader.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1417071596302" ignored="false" />
+    <file path="/XMLreader.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1439447045203" ignored="false" />
     <file path="/fragment.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1417081680010" ignored="false" />
     <file path="/MyContext.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1417082766412" ignored="false" />
     <file path="/configuration.xml" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1417072930240" ignored="false" />
@@ -21,7 +21,7 @@
     <file path="$PROJECT_DIR$/../3_mybatis/mybatis_boot/src/main/java/configuration.xml" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1417056478593" ignored="false" />
     <file path="/SqlMapper.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1417072737970" ignored="false" />
     <file path="/MapperReader.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1417082381086" ignored="false" />
-    <file path="/a.dummy" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1417074978048" ignored="false" />
+    <file path="/a.dummy" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1439449583111" ignored="false" />
     <file path="/insert.xml" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1417082787752" ignored="false" />
     <file path="/select.xml" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1417075702588" ignored="false" />
     <file path="/User.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1417081410910" ignored="false" />
@@ -66,6 +66,19 @@
     <file path="F:/workspace/baidu6th/wallet-main/wallet-service/src/main/resources/dubboContext.xml" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1435832034685" ignored="false" />
     <file path="F:/workspace/baidu6th/wallet-main/wallet-service/src/main/java/com/gffunds/wallet/service/log/DubboLogger.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1435832156236" ignored="false" />
     <file path="/DubboLogger.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1435832130435" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/service/OrderQueryService.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1439452811221" ignored="false" />
+    <file path="/OrderQueryService.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1439452806115" ignored="false" />
+    <file path="$PROJECT_DIR$/../3_mybatis/auto_create_dao/src/main/resources/generatorConfig.xml" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1439452188054" ignored="false" />
+    <file path="/generatorConfig.xml" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1439452188054" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/orderQueryDao/OrderQueryExample.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1439453790587" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/orderQueryDao/OrderQuery.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1439453790587" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/orderQueryDao/OrderQueryMapper.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1439453791287" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/OrderQueryResolver.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1439459062016" ignored="false" />
+    <file path="/OrderQueryResolver.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1439453923107" ignored="false" />
+    <file path="$PROJECT_DIR$/../3_mybatis/auto_create_dao/src/main/java/own/hhw/domain/OrderQueryExample.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1439453627150" ignored="false" />
+    <file path="$PROJECT_DIR$/../3_mybatis/auto_create_dao/src/main/resources/own/hhw/dao/OrderQueryMapper.xml" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1439453627150" ignored="false" />
+    <file path="$PROJECT_DIR$/../3_mybatis/auto_create_dao/src/main/java/own/hhw/dao/OrderQueryMapper.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1439453627150" ignored="false" />
+    <file path="$PROJECT_DIR$/../3_mybatis/auto_create_dao/src/main/java/own/hhw/domain/OrderQuery.java" changelist="0a5e395c-d239-4219-af0f-56ccbf266416" time="1439453627150" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +93,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -116,7 +130,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -144,10 +157,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyContext.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MyContext.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/MyContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="53" selection-start="946" selection-end="946" vertical-scroll-proportion="0.7289973">
+            <state line="37" column="53" selection-start="946" selection-end="946" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -162,10 +175,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="configuration.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="configuration.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xmlreader/src/main/java/configuration.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="17" column="16" selection-start="574" selection-end="574" vertical-scroll-proportion="0.57588077">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XMLreader.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xmlreader/src/main/java/XMLreader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="8" selection-start="1463" selection-end="1688" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -192,7 +214,7 @@
       <file leaf-file-name="XMLreader.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/XMLreader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="127" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0">
+            <state line="21" column="20" selection-start="711" selection-end="715" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -202,15 +224,6 @@
         <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/configuration.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="1" column="69" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MapperReader.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/MapperReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="34" selection-start="946" selection-end="955" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -230,7 +243,6 @@
         <option value="$PROJECT_DIR$/mybatis3-1/src/main/java/select.xml" />
         <option value="$PROJECT_DIR$/mybatis3-1/src/main/java/insert.xml" />
         <option value="$PROJECT_DIR$/mybatis3-1/src/main/java/SqlMapper.java" />
-        <option value="$PROJECT_DIR$/mybatis3-1/src/main/java/XMLreader.java" />
         <option value="$PROJECT_DIR$/mybatis3-1/src/main/java/onw/hhw/User.java" />
         <option value="$PROJECT_DIR$/mybatis3-1/src/main/java/onw/hhw/select.xml" />
         <option value="$PROJECT_DIR$/mybatis3-1/src/main/java/onw/hhw/insert.xml" />
@@ -242,6 +254,7 @@
         <option value="$PROJECT_DIR$/mybatis3-1/src/main/java/MyContext.java" />
         <option value="$PROJECT_DIR$/mybatis3-1/src/main/java/own/hhw/insert.xml" />
         <option value="$PROJECT_DIR$/mybatis3-1/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/mybatis3-1/src/main/java/XMLreader.java" />
       </list>
     </option>
   </component>
@@ -334,7 +347,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -446,6 +458,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -462,9 +475,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -537,19 +550,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -576,6 +576,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -660,7 +673,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908365" sideWeight="0.62470025" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36585367" sideWeight="0.62470025" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36585367" sideWeight="0.62470025" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37485448" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -735,11 +748,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/velocity/velocity/1.7/velocity-1.7-sources.jar!/org/apache/velocity/app/Velocity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="13" selection-start="2672" selection-end="2672" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/velocity/velocity/1.7/velocity-1.7-sources.jar!/org/apache/velocity/app/VelocityEngine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="57" column="13" selection-start="2211" selection-end="2211" vertical-scroll-proportion="0.0" />
@@ -771,23 +779,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/XMLreader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="127" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/MapperReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="34" selection-start="946" selection-end="955" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xmlreader/src/main/java/configuration.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -836,7 +830,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/MyContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="53" selection-start="946" selection-end="946" vertical-scroll-proportion="0.7289973">
+        <state line="37" column="53" selection-start="946" selection-end="946" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis3-1/src/main/java/XMLreader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="20" selection-start="711" selection-end="715" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xmlreader/src/main/java/XMLreader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="8" selection-start="1463" selection-end="1688" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xmlreader/src/main/java/configuration.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="16" selection-start="574" selection-end="574" vertical-scroll-proportion="0.57588077">
           <folding />
         </state>
       </provider>

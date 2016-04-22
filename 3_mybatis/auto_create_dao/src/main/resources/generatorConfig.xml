@@ -15,9 +15,9 @@
                                 password="xnnsu2">
                 </jdbcConnection>-->
         <jdbcConnection driverClass="oracle.jdbc.OracleDriver"
-                        connectionURL="jdbc:oracle:thin:@10.88.115.78:1521:NTTESTDB"
-                        userId="gfpay"
-                        password="gfpay">
+                        connectionURL="jdbc:oracle:thin:@10.88.115.115:1521:iftestdb"
+                        userId="xnnsu70"
+                        password="xnnsu70">
         </jdbcConnection>
 
         <javaTypeResolver>
@@ -25,26 +25,26 @@
         </javaTypeResolver>
 
         <!-- generate Model -->
-        <javaModelGenerator targetPackage="own.hhw.domain"
+        <javaModelGenerator targetPackage="com.sinitek.newtrade.pay.ccbebs.dao"
                             targetProject="F:\work\3_project\1_workspace\3_mybatis\auto_create_dao\src\main\java">
             <property name="enableSubPackages" value="true"/>
             <property name="trimStrings" value="true"/>
         </javaModelGenerator>
 
         <!-- generate xml -->
-        <sqlMapGenerator targetPackage="own.hhw.dao"
+        <sqlMapGenerator targetPackage="com.sinitek.newtrade.pay.ccbebs.dao"
                          targetProject="F:\work\3_project\1_workspace\3_mybatis\auto_create_dao\src\main\resources">
             <property name="enableSubPackages" value="true"/>
         </sqlMapGenerator>
 
         <!-- generate Mapper -->
-        <javaClientGenerator type="XMLMAPPER" targetPackage="own.hhw.dao"
+        <javaClientGenerator type="XMLMAPPER" targetPackage="com.sinitek.newtrade.pay.ccbebs.dao"
                              targetProject="F:\work\3_project\1_workspace\3_mybatis\auto_create_dao\src\main\java">
             <property name="enableSubPackages" value="true"/>
         </javaClientGenerator>
 
 
-        <table schema="" tableName="pay_info" domainObjectName="PayInfo"></table>
+        <table schema="" tableName="ds_order" domainObjectName="DsOrder"></table>
 
     </context>
 </generatorConfiguration>

@@ -6,7 +6,7 @@ import java.lang.String;
 public class MyConsole
 {
 	//hhw:task 了解java是如何和控制台交互信息的
-	public static void main(java.lang.String[] args)
+	public static void main(String[] args)
 	{
 		Console console = System.console();
 		String m=console.readLine();

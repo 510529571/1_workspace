@@ -1,5 +1,6 @@
 package own.hhw.lang;
 
+import org.apache.commons.lang.StringUtils;
 import org.junit.Test;
 import own.hhw.util.Public;
 
@@ -14,7 +15,7 @@ public class Test_String {
 
     @Test
     public void main() {
-
+        System.out.println( StringUtils.isEmpty(""));
 
 //		String str1="Dell´÷¶ûDimension 2010 R-206MÌ¨Ê½µçÄÔº¬18.5´ç¿íÆÁ";
 //		System.out.println(str1.length());
@@ -24,7 +25,7 @@ public class Test_String {
 //			System.out.print(i+",");
 //		}
 
-        java.lang.String callbackurl_temp = "http://www.hao123.com";
+        String callbackurl_temp = "http://www.hao123.com";
         byte[] c_temp = callbackurl_temp.getBytes();
         StringBuffer callbackurl = new StringBuffer();
         for (int i = 0; i < c_temp.length; i++) {

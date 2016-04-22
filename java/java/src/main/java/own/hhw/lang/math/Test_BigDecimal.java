@@ -4,6 +4,9 @@ import org.junit.Test;
 
 import java.math.BigDecimal;
 import java.text.DecimalFormat;
+import java.text.FieldPosition;
+import java.text.Format;
+import java.text.ParsePosition;
 
 /**
  * Created with IntelliJ IDEA.
@@ -29,9 +32,14 @@ public class Test_BigDecimal {
 
     @Test
     public void test_decimalFormat() {
-        DecimalFormat df = new DecimalFormat("#.00");
-        System.out.println(df.format(100.01d));
+        DecimalFormat df = new DecimalFormat("#,##0.00");
+        System.out.println(df.format(10000000000.01d));
         System.out.println(df.format(new BigDecimal("1.2")));
+        System.out.println(df.format(new BigDecimal("0.2")));
+
+        System.out.println("12345".substring(1));
+
+//        System.out.println(df.format("20151230"));
     }
 
 }

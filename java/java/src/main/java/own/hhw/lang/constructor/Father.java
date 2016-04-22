@@ -20,7 +20,7 @@ public class Father implements Human {
         return human;
     }
 
-    public java.lang.String getName() {
+    public String getName() {
         return human.getName();
     }
 

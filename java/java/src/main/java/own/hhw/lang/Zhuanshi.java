@@ -17,7 +17,7 @@ public class Zhuanshi {
     }
 
 
-    public static void main(java.lang.String[] args) {
+    public static void main(String[] args) {
         final String s = "ץС͵";
         new Zhuanshi().excutor(new People() {
             @Override

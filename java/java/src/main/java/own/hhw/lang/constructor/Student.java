@@ -10,7 +10,7 @@ import java.lang.String;
  * To change this template use File | Settings | File Templates.
  */
 public interface Student extends Human {
-    public java.lang.String getGrade();
+    public String getGrade();
 
     public void setGrade(String grade);
 }

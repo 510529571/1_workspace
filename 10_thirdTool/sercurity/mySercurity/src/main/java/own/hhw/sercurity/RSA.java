@@ -71,16 +71,10 @@ public class RSA
   }
 
   public static PrivateKey getPrivateKey(String key)
-    throws Exception
-  {
-    byte[] keyBytes = Base64.decode(key);
+    throws Exception {
 
-    PKCS8EncodedKeySpec keySpec = new PKCS8EncodedKeySpec(keyBytes);
+      PrivateKey privateKey = KeyFactory.getInstance("RSA").generatePrivate(new PKCS8EncodedKeySpec(Base64.decode(key)));
 
-    KeyFactory keyFactory = KeyFactory.getInstance("RSA");
-
-    PrivateKey privateKey = keyFactory.generatePrivate(keySpec);
-
-    return privateKey;
+      return privateKey;
   }
 }

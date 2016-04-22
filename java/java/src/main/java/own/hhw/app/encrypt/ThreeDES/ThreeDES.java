@@ -14,7 +14,7 @@ import javax.crypto.spec.SecretKeySpec;
 
 public class ThreeDES {
 
-    private static final java.lang.String Algorithm = "DESede"; //定义 加密算法,可用 DES,DESede,Blowfish
+    private static final String Algorithm = "DESede"; //定义 加密算法,可用 DES,DESede,Blowfish
 
     //keybyte为加密密钥，长度为24字节
     //src为被加密的数据缓冲区（源）

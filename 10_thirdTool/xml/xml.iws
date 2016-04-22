@@ -5,12 +5,12 @@
     <ignored path="xml.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/../../2_spring/spring.iws" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1419570143760" ignored="false" />
-    <file path="/my.xml" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1419496289434" ignored="false" />
-    <file path="/a.dummy" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1419560599243" ignored="false" />
+    <file path="/my.xml" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446777881240" ignored="false" />
+    <file path="/a.dummy" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439889656865" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_spring/spring_boot/src/main/java/own/hhw/step1/service/PrintServiceImpl.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1419568893922" ignored="false" />
     <file path="/PrintServiceImpl.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1419568893922" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_spring/spring_boot/pom.xml" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1419569943331" ignored="false" />
-    <file path="/pom.xml" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1419558706776" ignored="false" />
+    <file path="/pom.xml" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446792960917" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_spring/spring_boot/spring_boot.iml" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1419569262520" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_spring/spring_boot/src/main/resources/spring.xml" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1419568970872" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_spring/spring_boot/src/main/java/own/hhw/step1/test/SampleTest.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1419570139041" ignored="false" />
@@ -78,6 +78,52 @@
     <file path="F:/workspace/gfyh/module/04.wtbase/03.pay/08.alipay/src/com/sinitek/newtrade/pay/alipay/AccountVerifyResolver.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1419560775825" ignored="false" />
     <file path="/AccountVerifyResolver.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1419560740137" ignored="false" />
     <file path="$PROJECT_DIR$/../../2_spring/spring.ipr" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1419569262520" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/service/OrderQueryService.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439889203888" ignored="false" />
+    <file path="/OrderQueryService.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439889166596" ignored="false" />
+    <file path="F:/workspace/bug_correct/build/bin/Sinitek.NewTrade.Pay.ICBC_0.9.0.jar!/com/sinitek/newtrade/pay/icbc/icbcconfig.xml" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439890206845" ignored="false" />
+    <file path="F:/workspace/bug_correct/build/src/Sinitek.NewTrade.Pay.ICBC_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/icbc/service/OrderQueryService.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439889314777" ignored="false" />
+    <file path="/XMLreader.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439880070855" ignored="false" />
+    <file path="/config.xml" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439880937474" ignored="false" />
+    <file path="/OrderQueryMapper.xml" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439889852461" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/orderQueryDao/OrderQueryMapper.xml" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439889966949" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/OrderQueryResolver.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439890387237" ignored="false" />
+    <file path="/OrderQueryResolver.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439890193696" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/orderQueryDao/OrderQueryVO.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439884282257" ignored="false" />
+    <file path="/OrderQueryVO.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439884282257" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/05.wtgf/src/com/sinitek/newtrade/web/Test.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439890366299" ignored="false" />
+    <file path="F:/workspace/bug_correct/build/src/Sinitek.NewTrade.Pay.ICBC_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/icbc/OrderQueryResolver.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439890206845" ignored="false" />
+    <file path="/Test.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439884747632" ignored="false" />
+    <file path="$PROJECT_DIR$/../../3_mybatis/auto_create_dao/src/main/java/own/hhw/domain/OrderQueryExample.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439889031596" ignored="false" />
+    <file path="$PROJECT_DIR$/../../3_mybatis/auto_create_dao/src/main/java/own/hhw/dao/OrderQueryMapper.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439889031596" ignored="false" />
+    <file path="$PROJECT_DIR$/../../3_mybatis/auto_create_dao/src/main/java/own/hhw/domain/OrderQuery.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439889031596" ignored="false" />
+    <file path="$PROJECT_DIR$/../../3_mybatis/auto_create_dao/src/main/resources/own/hhw/dao/OrderQueryMapper.xml" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439889031596" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/orderQueryDao/OrderQuery.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439889073042" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/orderQueryDao/OrderQueryExample.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439889073042" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/04.wtbase/03.pay/09.icbc/src/com/sinitek/newtrade/pay/icbc/orderQueryDao/OrderQueryMapper.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439889073468" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/04.wtbase/01.core/src/com/sinitek/newtrade/blacklist/Dao/blacklistdao_mapper.xml" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439889879794" ignored="false" />
+    <file path="/blacklistdao_mapper.xml" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1439889868734" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/core/bank/allinpay/resolvers/VerifySmgResolver.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446777938732" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/test/java/com/gffunds/gfpay/core/message/DelimiterAnalyzerTest.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446779899546" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/test/java/com/gffunds/gfpay/core/api/AccountVerifyImplTest.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446801220439" ignored="false" />
+    <file path="/AccountVerifyImplTest.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446801219057" ignored="false" />
+    <file path="$PROJECT_DIR$/../mock/myMock/pom.xml" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446793035519" ignored="false" />
+    <file path="$PROJECT_DIR$/../mock/myMock/src/test/java/MyInOrder.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446796584699" ignored="false" />
+    <file path="/MyInOrder.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446796580321" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/pom.xml" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446793791024" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/resources/bank_context.xml" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446793791024" ignored="false" />
+    <file path="F:/workspace_git/gfpay/pom.xml" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446793791024" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/core/bank/bcm/resolvers/VerifyWebResolver.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446793791025" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/core/bank/bcm/BCMContext.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446793791025" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/core/api/PayApiImpl.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446793791025" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/core/bank/bcm/BCMHelper.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446793791025" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/core/bank/icbc/IcbcHelper.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446797060830" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/main/java/com/gffunds/gfpay/core/bank/cmbc/CmbcContext.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446798086310" ignored="false" />
+    <file path="$PROJECT_DIR$/../mock/myMock/src/test/java/MockAndSpy.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446799146879" ignored="false" />
+    <file path="/MockAndSpy.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446799132528" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/test/java/com/gffunds/gfpay/core/bank/bcm/resolvers/WebPayResolverTest.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446802138201" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/test/java/com/gffunds/gfpay/core/bank/icbc/ICBCHelperTest.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446802139475" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/test/java/com/gffunds/gfpay/core/bank/icbc/resolvers/WebPayResolverTest.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446802142951" ignored="false" />
+    <file path="F:/workspace_git/gfpay/gfpay-service/src/test/java/com/gffunds/gfpay/core/bank/icbc/resolvers/VerifySmgResolverTest.java" changelist="1abbf64c-bf30-48d7-9552-88c06f1c00e4" time="1446802142951" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,10 +184,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="XMLreader.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="XMLreader.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dom4j/src/main/java/XMLreader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="65" selection-start="847" selection-end="847" vertical-scroll-proportion="0.34810126">
+            <state line="45" column="9" selection-start="1907" selection-end="1907" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -150,7 +196,7 @@
       <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dom4j/src/main/java/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="16" selection-start="746" selection-end="746" vertical-scroll-proportion="0.0">
+            <state line="21" column="17" selection-start="621" selection-end="629" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -168,16 +214,16 @@
       <file leaf-file-name="note.dtd" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xml_study/src/main/resources/note.dtd">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
+            <state line="3" column="18" selection-start="123" selection-end="123" vertical-scroll-proportion="-2.34375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="my.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xml_study/src/main/resources/my.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="19" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
+            <state line="7" column="7" selection-start="187" selection-end="187" vertical-scroll-proportion="0.21793275">
               <folding />
             </state>
           </provider>
@@ -202,9 +248,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/dom4j/src/main/java/XMLreader.java" />
         <option value="$PROJECT_DIR$/dom4j/pom.xml" />
         <option value="$PROJECT_DIR$/xml_study/src/main/resources/note.dtd" />
+        <option value="$PROJECT_DIR$/dom4j/src/main/java/XMLreader.java" />
+        <option value="$PROJECT_DIR$/dom4j/src/main/java/config.xml" />
         <option value="$PROJECT_DIR$/xml_study/src/main/resources/my.xml" />
       </list>
     </option>
@@ -253,8 +300,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -287,24 +332,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xml_study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -319,61 +346,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="xml_study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="dom4j" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dom4j" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xml" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dom4j" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -401,6 +374,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -576,11 +551,11 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2495935" sideWeight="0.67026377" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297362" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -726,13 +701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dom4j/src/main/java/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="16" selection-start="746" selection-end="746" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xml_study/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -740,23 +708,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dom4j/src/main/java/XMLreader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="9" selection-start="1907" selection-end="1907" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dom4j/src/main/java/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="17" selection-start="621" selection-end="629" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/xml_study/src/main/resources/note.dtd">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="-0.0">
+        <state line="3" column="18" selection-start="123" selection-end="123" vertical-scroll-proportion="-2.34375">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xml_study/src/main/resources/my.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="19" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dom4j/src/main/java/XMLreader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="65" selection-start="847" selection-end="847" vertical-scroll-proportion="0.34810126">
+        <state line="7" column="7" selection-start="187" selection-end="187" vertical-scroll-proportion="0.21793275">
           <folding />
         </state>
       </provider>

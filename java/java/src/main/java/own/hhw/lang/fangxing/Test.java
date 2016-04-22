@@ -10,7 +10,7 @@ import java.util.List;
  * Time: обнГ5:14
  */
 public class Test {
-    public static void main(java.lang.String[] args) {
+    public static void main(String[] args) {
         Proxy<String> proxy=new Proxy<String>(new String("123"));
         proxy.getObject();
 

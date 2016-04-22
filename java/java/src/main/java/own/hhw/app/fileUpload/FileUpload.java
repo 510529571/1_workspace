@@ -13,7 +13,7 @@ import javax.servlet.http.HttpSession;
 public class FileUpload
 {
 
-	private java.lang.String userInfo = "";
+	private String userInfo = "";
 	private String sysInfo = "";
 
 	private HttpServletRequest request;

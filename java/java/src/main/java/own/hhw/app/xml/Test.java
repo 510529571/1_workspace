@@ -13,7 +13,7 @@ import java.lang.String;
  * To change this template use File | Settings | File Templates.
  */
 public class Test {
-    public static void main(java.lang.String[] args) {
+    public static void main(String[] args) {
         String m="<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
                 "<request>\n" +
                 "\t<head>\n" +

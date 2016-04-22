@@ -45,7 +45,7 @@ public class Urlstream {
             int b = is.read(c);
 
             while ((b = is.read(c)) != -1) {
-                inbuffer.append(new java.lang.String(c, 0, b, "utf-8"));
+                inbuffer.append(new String(c, 0, b, "utf-8"));
             }
 //			}
             System.out.println(inbuffer.toString());

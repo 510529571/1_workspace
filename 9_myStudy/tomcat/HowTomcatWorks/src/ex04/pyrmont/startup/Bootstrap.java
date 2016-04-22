@@ -4,6 +4,7 @@ package ex04.pyrmont.startup;
 import ex04.pyrmont.core.SimpleContainer;
 import org.apache.catalina.connector.http.HttpConnector;
 
+//hhw:tag 这个东西不太懂
 public final class Bootstrap {
   public static void main(String[] args) {
     HttpConnector connector = new HttpConnector();

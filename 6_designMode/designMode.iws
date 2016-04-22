@@ -73,7 +73,7 @@
     <file path="/XiMenQiang.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1407915248462" ignored="false" />
     <file path="F:/workspace/tongliankaika/module/05.wtgf/mobileapp/src/com/sinitek/newtrade/web/gfapp/service/WalletTradeService.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1407917351128" ignored="false" />
     <file path="/WalletTradeService.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1407920547544" ignored="false" />
-    <file path="/a.dummy" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1435826071843" ignored="false" />
+    <file path="/a.dummy" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1438844875671" ignored="false" />
     <file path="/Td.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1407924542180" ignored="false" />
     <file path="$PROJECT_DIR$/../3_mybatis/mybatis_boot/pom.xml" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1409561170426" ignored="false" />
     <file path="$PROJECT_DIR$/../3_mybatis/mybatis_boot/src/main/java/own/hhw/select/test/SessionSelect.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1407981160807" ignored="false" />
@@ -454,7 +454,7 @@
     <file path="/OperatorMul.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1413870698677" ignored="false" />
     <file path="/OperatorDib.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1413862175525" ignored="false" />
     <file path="/OperatorFactory.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1413870243800" ignored="false" />
-    <file path="/Main.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1418210363020" ignored="false" />
+    <file path="/Main.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1438822815146" ignored="false" />
     <file path="/OperatorDiv.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1413870691430" ignored="false" />
     <file path="/CashSuper.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1413961266114" ignored="false" />
     <file path="/CashNormal.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1413961304090" ignored="false" />
@@ -465,7 +465,7 @@
     <file path="F:/workspace/qiandaizi/module/04.wtbase/01.core/src/com/sinitek/newtrade/core/utils/PayConfigUtil.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1414653003091" ignored="false" />
     <file path="/*.regexp" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1414550806434" ignored="false" />
     <file path="F:/workspace/qiandaizi/module/04.wtbase/03.pay/10.gnete/src/com/sinitek/newtrade/pay/gnete/AccountVerifyResolver.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1414049433558" ignored="false" />
-    <file path="/AccountVerifyResolver.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1414049430539" ignored="false" />
+    <file path="/AccountVerifyResolver.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1438844881489" ignored="false" />
     <file path="F:/workspace/qiandaizi/module/04.wtbase/03.pay/03.ccb/src/com/sinitek/newtrade/pay/ccb/AccountVerifyResolver.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1414049544101" ignored="false" />
     <file path="/ProxyFoo.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1436318801920" ignored="false" />
     <file path="/Subject.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1414461344054" ignored="false" />
@@ -687,6 +687,15 @@
     <file path="F:/workspace/baidu6th/wallet-main/pom.xml" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1436490513570" ignored="false" />
     <file path="/redeemWallet.js" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1436772564552" ignored="false" />
     <file path="F:/workspace/baidu6th/wallet-main/partner-controller/src/main/fe/out/static/baifa/css/common.css" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1436775477508" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/filter/filter/src/main/java/FilterChain.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1438822761997" ignored="false" />
+    <file path="/FilterChain.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1438822754870" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/filter/filter/src/main/java/Main.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1438822816731" ignored="false" />
+    <file path="$PROJECT_DIR$/../10_thirdTool/filter/filter/src/main/java/Filter2.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1438826332174" ignored="false" />
+    <file path="F:/workspace/baidu6.1th_package/wallet-main/partner-controller/src/main/java/com/gffunds/wallet/controllers/partner/PayAction.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1438825485637" ignored="false" />
+    <file path="/PayAction.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1438825477580" ignored="false" />
+    <file path="F:/workspace/baidu6.1th_package/wallet-main/wallet-service/src/main/java/com/gffunds/wallet/service/api/baidu/BaiduTradeQueryApiService.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1438831253695" ignored="false" />
+    <file path="F:/workspace/baidu6.1th_package/baidu6.1th_package.ipr" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1438843655802" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/04.wtbase/03.pay/13.allinpay/src/com/sinitek/newtrade/pay/allinpay/AccountVerifyResolver.java" changelist="97121199-9238-4109-bad7-ddcb9e6f949c" time="1438844886329" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -769,31 +778,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Address.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dynamic-proxy/src/main/java/br/com/fabriciodeb/sample/Address.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="13" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dynamic-proxy/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Test.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dynamic-proxy/src/main/java/br/com/fabriciodeb/sample/client/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="25" column="0" selection-start="612" selection-end="612" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -816,15 +805,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dynamic-proxy/src/main/java/br/com/fabriciodeb/sample/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="13" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FooImpl.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dynamic-proxy/src/main/java/br/com/fabriciodeb/sample/impl/FooImpl.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -834,10 +814,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProxyFoo.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ProxyFoo.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dynamic-proxy/src/main/java/br/com/fabriciodeb/sample/proxy/ProxyFoo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="788" selection-end="788" vertical-scroll-proportion="0.8069498">
+            <state line="29" column="0" selection-start="788" selection-end="788" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcreteHandler1.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11_responsibility/src/main/java/pattern23/ConcreteHandler1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="42" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Handler.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11_responsibility/src/main/java/pattern23/Handler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="24" selection-start="738" selection-end="749" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/11_responsibility/src/main/java/pattern23/client/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="23" selection-start="555" selection-end="555" vertical-scroll-proportion="0.6671348">
               <folding />
             </state>
           </provider>
@@ -847,14 +854,7 @@
         <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/src.zip!/java/lang/reflect/Proxy.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="677" column="25" selection-start="27528" selection-end="27528" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#31019#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#12194#12348#0" expanded="false" />
-                <element signature="e#12333#12334#0" expanded="false" />
-                <element signature="e#28444#28612#0" expanded="false" />
-                <element signature="e#28593#28594#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -987,6 +987,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1311,6 +1313,72 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="11_responsibility" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designMode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="11_responsibility" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pattern23" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designMode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="11_responsibility" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pattern23" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designMode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="10_command" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -1343,8 +1411,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1362,14 +1428,14 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="Downloaded.Files.Path" value="F:\work\workspace\designMode\lib" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="Downloaded.Files.Path" value="F:\work\workspace\designMode\lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -1535,6 +1601,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1561,19 +1640,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1661,7 +1727,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -1675,14 +1741,13 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853717" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.67266184" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2495935" sideWeight="0.67266184" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36422765" sideWeight="0.67146283" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.400813" sideWeight="0.57913667" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.400813" sideWeight="0.57913667" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4208633" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297362" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
@@ -1691,6 +1756,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297362" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="IntelliJad Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32933104" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853717" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="EJB" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2512195" sideWeight="0.59592324" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -1762,21 +1828,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dynamic-proxy/src/main/java/own/hhw/example2/KindWoman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="17" selection-start="120" selection-end="120" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic-proxy/src/main/java/own/hhw/example2/PanJinLian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic-proxy/src/main/java/own/hhw/example2/WangPo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dynamic-proxy/src/main/java/own/hhw/example2/XiMenQiang.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="13" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" />
@@ -1841,23 +1892,14 @@
     <entry file="jar://D:/Program Files/Java/jdk1.6.0_45/src.zip!/java/lang/reflect/Proxy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="677" column="25" selection-start="27528" selection-end="27528" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#31019#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#12194#12348#0" expanded="false" />
-            <element signature="e#12333#12334#0" expanded="false" />
-            <element signature="e#28444#28612#0" expanded="false" />
-            <element signature="e#28593#28594#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dynamic-proxy/src/main/java/br/com/fabriciodeb/sample/client/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="0" selection-start="612" selection-end="612" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1870,7 +1912,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dynamic-proxy/src/main/java/br/com/fabriciodeb/sample/proxy/ProxyFoo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="788" selection-end="788" vertical-scroll-proportion="0.8069498">
+        <state line="29" column="0" selection-start="788" selection-end="788" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_responsibility/src/main/java/pattern23/ConcreteHandler1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="42" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_responsibility/src/main/java/pattern23/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="24" selection-start="738" selection-end="749" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_responsibility/src/main/java/pattern23/client/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="23" selection-start="555" selection-end="555" vertical-scroll-proportion="0.6671348">
           <folding />
         </state>
       </provider>

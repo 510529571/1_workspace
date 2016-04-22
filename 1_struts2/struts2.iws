@@ -8,7 +8,7 @@
     <file path="$PROJECT_DIR$/../spring/spring.iws" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1402654035548" ignored="false" />
     <file path="$PROJECT_DIR$/../spring/spring_boot/pom.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1402649906031" ignored="false" />
     <file path="/pom.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1419303538503" ignored="false" />
-    <file path="/fragment.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1419302958532" ignored="false" />
+    <file path="/fragment.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1450346977498" ignored="false" />
     <file path="/web.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1402653328175" ignored="false" />
     <file path="$PROJECT_DIR$/../hhw/hhw/struts2/web/WEB-INF/config/struts.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1402653716888" ignored="false" />
     <file path="$PROJECT_DIR$/struts2_boot/src/main/java/own/hhw/sd.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1406018031993" ignored="false" />
@@ -19,7 +19,7 @@
     <file path="/addtradeaccountpre.jsp" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1406019586629" ignored="false" />
     <file path="F:/workspace/tonlianzhifu/module/05.wtgf/src/metadbconfig.properties" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1406023975993" ignored="false" />
     <file path="F:/workspace/tonlianzhifu/module/05.wtgf/src/serviceclient.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1406023979740" ignored="false" />
-    <file path="/a.dummy" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417054394410" ignored="false" />
+    <file path="/a.dummy" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1450401449144" ignored="false" />
     <file path="$PROJECT_DIR$/../../1_workspace_temp/0_hhw/hhw/java/src/own/hhw/lang/socket/MyServerSocket.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417139788086" ignored="false" />
     <file path="$PROJECT_DIR$/../xml/dom4j/src/main/java/XMLreader.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417144172518" ignored="false" />
     <file path="$PROJECT_DIR$/../myframework/mybatis3-1/src/main/java/own/hhw/insert.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1417144228048" ignored="false" />
@@ -68,6 +68,8 @@
     <file path="$PROJECT_DIR$/../10_thirdTool/sftp/sftp.ipr" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1419303388384" ignored="false" />
     <file path="$PROJECT_DIR$/../10_thirdTool/sftp/sftp/src/main/java/own/hhw/util/SftpUtil.java" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1419303125210" ignored="false" />
     <file path="$PROJECT_DIR$/../java/myTool/pom.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1419303387851" ignored="false" />
+    <file path="F:/workspace/tonglian_dx/module/05.wtgf/web/WEB-INF/pathconfig/pathconfig_gf_wallet.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1450345706995" ignored="false" />
+    <file path="/pathconfig_gf_wallet.xml" changelist="6e1063d2-cdb7-4611-aaf9-70e2eefc7e22" time="1450345704861" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +89,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -123,7 +126,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -142,10 +144,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="struts2-core-2.3.16.3.pom" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="struts2-core-2.3.16.3.pom" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$MAVEN_REPOSITORY$/org/apache/struts/struts2-core/2.3.16.3/struts2-core-2.3.16.3.pom">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="13" selection-start="1318" selection-end="1318" vertical-scroll-proportion="0.45799458">
+            <state line="31" column="13" selection-start="1318" selection-end="1318" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="tag#plugins#0;tag#build#0;tag#project#0" expanded="false" />
                 <element signature="tag#reporting#0;tag#project#0" expanded="false" />
@@ -161,10 +163,7 @@
         <entry file="file://$MAVEN_REPOSITORY$/org/apache/struts/struts2-parent/2.3.16.3/struts2-parent-2.3.16.3.pom">
           <provider selected="true" editor-type-id="text-editor">
             <state line="341" column="25" selection-start="13360" selection-end="13360" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="tag#pluginManagement#0;tag#build#0;tag#project#0" expanded="false" />
-                <element signature="tag#plugins#0;tag#build#0;tag#project#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -187,26 +186,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../6_designMode/decorator/src/main/java/step1/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="5" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Download.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/java/own/hhw/Download.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="55" selection-start="647" selection-end="647" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="struts.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/webapp/WEB-INF/config/struts.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -216,19 +195,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test1Action.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/java/own/hhw/Test1Action.java">
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/webapp/WEB-INF/web.xml">
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="25" selection-start="1465" selection-end="1465" vertical-scroll-proportion="0.0">
+            <state line="9" column="49" selection-start="406" selection-end="406" vertical-scroll-proportion="-4.866667">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="socketTest.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/webapp/socketTest.jsp">
+      <file leaf-file-name="FilterDispatcher.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/struts/struts2-core/2.3.16.3/struts2-core-2.3.16.3-sources.jar!/org/apache/struts2/dispatcher/FilterDispatcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="0" selection-start="1306" selection-end="1306" vertical-scroll-proportion="0.0">
+            <state line="191" column="36" selection-start="7362" selection-end="7362" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#18210#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#6949#6958#0" expanded="false" />
+                <element signature="e#10122#10138#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActionInvocation.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/struts/xwork/xwork-core/2.3.16.3/xwork-core-2.3.16.3-sources.jar!/com/opensymphony/xwork2/ActionInvocation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="19" selection-start="1435" selection-end="1435" vertical-scroll-proportion="-3.8793104">
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultActionInvocation.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/struts/xwork/xwork-core/2.3.16.3/xwork-core-2.3.16.3-sources.jar!/com/opensymphony/xwork2/DefaultActionInvocation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="0" selection-start="1779" selection-end="1779" vertical-scroll-proportion="0.27748692">
               <folding />
             </state>
           </provider>
@@ -365,7 +378,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -527,6 +539,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -539,16 +552,17 @@
     <property name="options.lastSelected" value="reference.projectsettings.compiler.javacompiler" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/struts2/struts2.iml" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -640,6 +654,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -666,19 +693,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -834,7 +848,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.6004785" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37398374" sideWeight="0.67146283" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37398374" sideWeight="0.67146283" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -909,73 +923,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/struts/struts2-core/2.3.16.3/struts2-core-2.3.16.3.jar!/org/apache/struts2/dispatcher/FilterDispatcher.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="0" selection-start="2506" selection-end="2506" vertical-scroll-proportion="0.63144964" />
-      </provider>
-    </entry>
-    <entry file="uml://MAVEN/struts2_boot:struts2_boot:1.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>struts2_boot:struts2_boot:1.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="" y="">com.mysql:management:jar:5-0-2-beta/junit:junit:jar:3.8.1</node>
-            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/org.apache.struts.xwork:xwork-core:jar:2.3.16.3/asm:asm-commons:jar:3.3/asm:asm-tree:jar:3.3</node>
-            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/org.apache.struts.xwork:xwork-core:jar:2.3.16.3/asm:asm-commons:jar:3.3</node>
-            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/ognl:ognl:jar:3.0.6/javassist:javassist:jar:3.11.0.GA</node>
-            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/org.freemarker:freemarker:jar:2.3.19</node>
-            <node x="" y="">javax.servlet:servlet-api:jar:2.5</node>
-            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3</node>
-            <node x="" y="">com.mysql:management:jar:5-0-2-beta/aspectj:aspectjrt:jar:1.2</node>
-            <node x="" y="">com.mysql:management:jar:5-0-2-beta/aspectj:aspectjtools:jar:1.2/aspectj:aspectjrt:jar:1.2</node>
-            <node x="" y="">com.mysql:management:jar:5-0-2-beta</node>
-            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/org.apache.struts.xwork:xwork-core:jar:2.3.16.3/asm:asm-commons:jar:3.3/asm:asm-tree:jar:3.3/asm:asm:jar:3.3</node>
-            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/org.apache.struts.xwork:xwork-core:jar:2.3.16.3/ognl:ognl:jar:3.0.6</node>
-            <node x="" y="">com.mysql:management:jar:5-0-2-beta/com.sun.jdmk:jmxtools:jar:1.2</node>
-            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/commons-fileupload:commons-fileupload:jar:1.3.1</node>
-            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/ognl:ognl:jar:3.0.6</node>
-            <node x="" y="">struts2_boot:struts2_boot:1.0-SNAPSHOT</node>
-            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/org.apache.struts.xwork:xwork-core:jar:2.3.16.3/org.apache.commons:commons-lang3:jar:3.1</node>
-            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/org.apache.struts.xwork:xwork-core:jar:2.3.16.3/asm:asm:jar:3.3</node>
-            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/org.apache.struts.xwork:xwork-core:jar:2.3.16.3</node>
-            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/commons-fileupload:commons-fileupload:jar:1.3.1/commons-io:commons-io:jar:2.2</node>
-            <node x="" y="">junit:junit:jar:3.8.1</node>
-            <node x="" y="">com.mysql:management:jar:5-0-2-beta/aspectj:aspectjtools:jar:1.2</node>
-            <node x="" y="">com.mysql:management:jar:5-0-2-beta/mysql:mysql-connector-java:jar:3.1.12</node>
-            <node x="" y="">org.apache.struts:struts2-core:jar:2.3.16.3/commons-io:commons-io:jar:2.2</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.6440389294403893" x="401.0" y="317.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="35" selection-start="540" selection-end="540" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/webapp/WEB-INF/config/struts.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/webapp/module/login.jsp">
@@ -988,13 +938,6 @@
     <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="6" selection-start="229" selection-end="229" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/webapp/WEB-INF/config/struts.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="9" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1013,19 +956,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../6_designMode/decorator/src/main/java/step1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="5" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/java/own/hhw/Download.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="55" selection-start="647" selection-end="647" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1053,16 +987,13 @@
     <entry file="file://$MAVEN_REPOSITORY$/org/apache/struts/struts2-parent/2.3.16.3/struts2-parent-2.3.16.3.pom">
       <provider selected="true" editor-type-id="text-editor">
         <state line="341" column="25" selection-start="13360" selection-end="13360" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="tag#pluginManagement#0;tag#build#0;tag#project#0" expanded="false" />
-            <element signature="tag#plugins#0;tag#build#0;tag#project#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$MAVEN_REPOSITORY$/org/apache/struts/struts2-core/2.3.16.3/struts2-core-2.3.16.3.pom">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="13" selection-start="1318" selection-end="1318" vertical-scroll-proportion="0.45799458">
+        <state line="31" column="13" selection-start="1318" selection-end="1318" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="tag#plugins#0;tag#build#0;tag#project#0" expanded="false" />
             <element signature="tag#reporting#0;tag#project#0" expanded="false" />
@@ -1070,6 +1001,57 @@
             <element signature="tag#profile#0;tag#profiles#0;tag#project#0" expanded="false" />
             <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/webapp/WEB-INF/config/struts.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="9" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/struts2_boot/src/main/webapp/WEB-INF/web.xml">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="49" selection-start="406" selection-end="406" vertical-scroll-proportion="-4.866667">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/struts/struts2-core/2.3.16.3/struts2-core-2.3.16.3-sources.jar!/org/apache/struts2/dispatcher/FilterDispatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="191" column="36" selection-start="7362" selection-end="7362" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#18210#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#6949#6958#0" expanded="false" />
+            <element signature="e#10122#10138#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/struts/xwork/xwork-core/2.3.16.3/xwork-core-2.3.16.3-sources.jar!/com/opensymphony/xwork2/ActionInvocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="19" selection-start="1435" selection-end="1435" vertical-scroll-proportion="-3.8793104">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/struts/xwork/xwork-core/2.3.16.3/xwork-core-2.3.16.3-sources.jar!/com/opensymphony/xwork2/DefaultActionInvocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="0" selection-start="1779" selection-end="1779" vertical-scroll-proportion="0.27748692">
+          <folding />
         </state>
       </provider>
     </entry>

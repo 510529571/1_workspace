@@ -6,7 +6,7 @@ import java.util.*;
 import junit.framework.*;
 
 public class SimpleTest extends TestCase {
-    public SimpleTest(java.lang.String name) {
+    public SimpleTest(String name) {
         super(name);
     }
 

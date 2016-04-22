@@ -10,7 +10,7 @@ import java.lang.String;
  * To change this template use File | Settings | File Templates.
  */
 public interface Human  {
-    public java.lang.String getName();
+    public String getName();
 
     public void setName(String name);
 }

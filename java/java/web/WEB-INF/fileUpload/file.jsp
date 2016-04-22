@@ -9,7 +9,7 @@
 request.setCharacterEncoding("GBK"); 
 response.setContentType("text/html;charset=GB2312"); 
 char[] hchl={13,10}; 
-java.lang.String boundary=request.getContentType().substring(30);
+String boundary=request.getContentType().substring(30);
 String field_boundary="--"+boundary+new String(hchl);
 String last_boundary="--"+boundary+"--"+new String(hchl);
 String _msg="";

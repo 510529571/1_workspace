@@ -7,8 +7,12 @@
           <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/WEB-INF/web.xml" />
         </descriptors>
         <webroots>
-          <root url="file://$MODULE_DIR$/web" relative="/" />
+          <root url="file://$MODULE_DIR$/../spring_boot/web" relative="/" />
         </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../spring_boot/src/main/java" />
+          <root url="file://$MODULE_DIR$/../spring_boot/src/main/resources" />
+        </sourceRoots>
       </configuration>
     </facet>
   </component>

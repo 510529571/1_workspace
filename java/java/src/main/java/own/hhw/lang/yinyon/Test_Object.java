@@ -20,7 +20,7 @@ public class Test_Object {
         user.setUsername("huhanwei");
         user.setPassword("123");
 
-        Map<java.lang.String, User> map = new HashMap<String, User>();
+        Map<String, User> map = new HashMap<String, User>();
         map.put("1", user);
         System.out.println(map.get("1").getUsername());
         User u = map.get("1");

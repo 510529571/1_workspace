@@ -145,7 +145,7 @@ public class ASCIIUtil {
 //        String s = "好好学习！天天向上！————笑的自然 2009年3月11日";  
 //        showIntArray(string2ASCII(s), " ");  
 //        System.out.println();  
-//        System.out.println(ascii2String(string2ASCII(s)));  
+       System.out.println(ascii2String(string2ASCII("阿斯顿发送到")));
   
 //        createFile("c://console_ch.txt", getCHASCII(0, 50000));  
     }  

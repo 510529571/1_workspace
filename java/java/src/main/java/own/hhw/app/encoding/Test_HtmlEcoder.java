@@ -12,7 +12,7 @@ import org.junit.Test;
 public class Test_HtmlEcoder {
     @Test
     public void test1(){
-        java.lang.String s="\u6c49";
+        String s="\u6c49";
         System.out.println(s);
     }
 }

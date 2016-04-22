@@ -12,7 +12,7 @@ import java.lang.String;
  * hhw:tag 【序列化】将二进制数据转化成对象
  */
 public class ObjectStreamWriteAndRead {
-    public static void main(java.lang.String[] args) throws IOException, ClassNotFoundException {
+    public static void main(String[] args) throws IOException, ClassNotFoundException {
         writeAndRead();
 
         writeAndRead2();

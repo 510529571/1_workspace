@@ -6,7 +6,7 @@ import java.lang.String;
 
 public class Test_static
 {
-	static java.lang.String static_str="我是静态数据";
+	static String static_str="我是静态数据";
 	String normal_str="我不静态数据";
 
     @Test

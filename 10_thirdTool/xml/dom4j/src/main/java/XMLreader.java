@@ -18,7 +18,7 @@ public class XMLreader {
 
         SAXReader reader = new SAXReader();
 
-        Document doc = reader.read("F:\\work\\3_project\\1_workspace\\xml\\dom4j\\src\\main\\java\\config.xml");
+        Document doc = reader.read("F:\\work\\3_project\\1_workspace\\10_thirdTool\\xml\\dom4j\\src\\main\\java\\config.xml");
         Element root = doc.getRootElement();
 
         Element setting = root.element("settings");
@@ -38,6 +38,7 @@ public class XMLreader {
         Element auto = root.element("auto");
         System.out.println(auto!=null);
 
+        //hhw:tag 如果直接用root.elementIterator("property")，是无法获取property节点的
         Element properties = root.element("properties");
         for (Iterator iter = properties.elementIterator("property"); iter.hasNext(); ) {
             Element msgEle = (Element) iter.next();

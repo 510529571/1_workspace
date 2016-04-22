@@ -4,10 +4,10 @@
     <artifact type="exploded-war" name="spring_boot:Web exploded">
       <output-path>$PROJECT_DIR$/out/artifacts/spring_boot_Web_exploded</output-path>
       <root id="root">
-        <element id="javaee-facet-resources" facet="spring_boot/web/Web" />
+        <element id="javaee-facet-resources" facet="spring_start/web/Web" />
         <element id="directory" name="WEB-INF">
           <element id="directory" name="classes">
-            <element id="module-output" name="spring_boot" />
+            <element id="module-output" name="spring_start" />
           </element>
           <element id="directory" name="lib">
             <element id="library" level="project" name="Maven: org.springframework:spring-context:3.2.0.RELEASE" />
@@ -156,6 +156,7 @@
         <option value="$PROJECT_DIR$/spring_mvc_velocity/pom.xml" />
         <option value="$PROJECT_DIR$/spring_boot/pom.xml" />
         <option value="$PROJECT_DIR$/spring_mvc_jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_start/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -289,10 +290,11 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/spring_boot/spring_boot.iml" filepath="$PROJECT_DIR$/spring_boot/spring_boot.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_mvc_jsp/spring_mvc_jsp.iml" filepath="$PROJECT_DIR$/spring_mvc_jsp/spring_mvc_jsp.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_mvc_velocity/spring_mvc_velocity.iml" filepath="$PROJECT_DIR$/spring_mvc_velocity/spring_mvc_velocity.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_mvc_velocity/spring_mvc_velocity.iml" filepath="$PROJECT_DIR$/spring_mvc_velocity/spring_mvc_velocity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_mvc_velocity/spring_mvc_velocity.iml" filepath="$PROJECT_DIR$/spring_mvc_velocity/spring_mvc_velocity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_start/spring_start.iml" filepath="$PROJECT_DIR$/spring_start/spring_start.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK">

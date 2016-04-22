@@ -2,6 +2,7 @@ package own.hhw.lang;
 
 import java.io.StringWriter;
 
+import org.apache.commons.lang.StringUtils;
 import org.junit.Test;
 
 public class Test_StringWriter
@@ -15,5 +16,6 @@ public class Test_StringWriter
 		System.out.println(sw.toString());
         sw.write("123213");
 		System.out.println(sw.toString());
+
 	}
 }

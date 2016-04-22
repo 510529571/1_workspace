@@ -14,7 +14,7 @@ public class Son extends Father implements Student {
         super(human);
     }
 
-    public static void main(java.lang.String[] args) {
+    public static void main(String[] args) {
         XiaoWang xiaoWang = new XiaoWang();
         Son son = new Son(xiaoWang);
 

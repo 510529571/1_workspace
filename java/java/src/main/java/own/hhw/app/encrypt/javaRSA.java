@@ -18,7 +18,7 @@ import java.security.*;
  */
 public class javaRSA {
     // 非对称加密密钥算法
-    private static final java.lang.String KEY_ALGORTHM = "RSA";
+    private static final String KEY_ALGORTHM = "RSA";
     // RSA密钥长度
     private static final int KEY_SIZE = 512;
     // 公钥

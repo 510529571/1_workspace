@@ -5,11 +5,38 @@
     <ignored path="exception.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/pom.xml" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1422601713850" ignored="false" />
-    <file path="/fragment.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1422601939073" ignored="false" />
+    <file path="/fragment.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438761866699" ignored="false" />
     <file path="F:/workspace/shengchan_bug/02.project/module/04.wtbase/03.pay/13.allinpay/src/com/sinitek/newtrade/pay/allinpay/AccountVerifyDataFlowResolver.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1422603001904" ignored="false" />
     <file path="F:/workspace/shengchan_bug/02.project/build/src/Sinitek.NewTrade.Pay.AllInPay_0.9.0.SRC.zip!/com/sinitek/newtrade/pay/allinpay/AccountVerifyDataFlowResolver.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1422603041421" ignored="false" />
     <file path="F:/workspace/shengchan_bug/02.project/build/bin/Sinitek.NewTrade.Pay.AllInPay_0.9.0.jar!/com/sinitek/newtrade/pay/allinpay/common/AllInPayUtils.class" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1422603041421" ignored="false" />
     <file path="/Service.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1422603545208" ignored="false" />
+    <file path="/BusinessReturnCode.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438761545260" ignored="false" />
+    <file path="$PROJECT_DIR$/../../java/java/src/main/java/own/hhw/lang/enmu/BusinessReturnCode.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438761867629" ignored="false" />
+    <file path="$PROJECT_DIR$/../../java/java/src/main/java/own/hhw/lang/enmu/OrderState.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438761902185" ignored="false" />
+    <file path="/OrderState.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438763939094" ignored="false" />
+    <file path="$PROJECT_DIR$/../../java/java/src/main/java/own/hhw/lang/enum1/BusinessReturnCode.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438761922395" ignored="false" />
+    <file path="$PROJECT_DIR$/../../java/java/src/main/java/own/hhw/lang/enum1/OrderState.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438763947482" ignored="false" />
+    <file path="$PROJECT_DIR$/../../java/java/src/main/java/own/hhw/lang/enum1/TestOrderState.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438763887461" ignored="false" />
+    <file path="/TestOrderState.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438763882010" ignored="false" />
+    <file path="$PROJECT_DIR$/../../java/java/src/main/java/own/hhw/lang/enum1/EnumTool.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438763317481" ignored="false" />
+    <file path="/EnumTool.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438763308802" ignored="false" />
+    <file path="$PROJECT_DIR$/../filter/filter/src/main/java/Filter.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438768092369" ignored="false" />
+    <file path="$PROJECT_DIR$/../filter/filter/src/main/java/FilterChain.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438822761996" ignored="false" />
+    <file path="/FilterChain.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438822754870" ignored="false" />
+    <file path="/Filter.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438768092369" ignored="false" />
+    <file path="$PROJECT_DIR$/../filter/filter/src/main/java/Filter1.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438768147929" ignored="false" />
+    <file path="$PROJECT_DIR$/../filter/filter/src/main/java/Filter2.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438826332174" ignored="false" />
+    <file path="/Filter2.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438768115477" ignored="false" />
+    <file path="/Filter1.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438768146480" ignored="false" />
+    <file path="$PROJECT_DIR$/../filter/filter/src/main/java/Main.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438822816731" ignored="false" />
+    <file path="/Main.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438822815146" ignored="false" />
+    <file path="/a.dummy" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438844875671" ignored="false" />
+    <file path="F:/workspace/baidu6.1th_package/wallet-main/partner-controller/src/main/java/com/gffunds/wallet/controllers/partner/PayAction.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438825485637" ignored="false" />
+    <file path="/PayAction.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438825477580" ignored="false" />
+    <file path="F:/workspace/baidu6.1th_package/wallet-main/wallet-service/src/main/java/com/gffunds/wallet/service/api/baidu/BaiduTradeQueryApiService.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438831253695" ignored="false" />
+    <file path="F:/workspace/baidu6.1th_package/baidu6.1th_package.ipr" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438843655801" ignored="false" />
+    <file path="F:/workspace/bug_correct/module/04.wtbase/03.pay/13.allinpay/src/com/sinitek/newtrade/pay/allinpay/AccountVerifyResolver.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438844886329" ignored="false" />
+    <file path="/AccountVerifyResolver.java" changelist="f7971d2c-a8f8-401b-bef9-1a55b6c5efb4" time="1438844881489" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +51,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -60,7 +88,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -88,10 +115,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyException.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MyException.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exception/src/main/java/own/hhw/exception/MyException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="5" selection-start="111" selection-end="111" vertical-scroll-proportion="0.21793275">
+            <state line="7" column="5" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BusinessReturnCode.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exception/src/main/java/own/hhw/business/BusinessReturnCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="12" selection-start="95" selection-end="95" vertical-scroll-proportion="0.22522523">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BusinessException.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exception/src/main/java/own/hhw/business/BusinessException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="5" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -121,6 +166,9 @@
         <option value="$PROJECT_DIR$/exception/src/main/java/own/hhw/exception/test/test/WhoCalled2.java" />
         <option value="$PROJECT_DIR$/exception/src/main/java/own/hhw/exception/test/WhoCalled2.java" />
         <option value="$PROJECT_DIR$/exception/src/main/java/own/hhw/module1/Service.java" />
+        <option value="$PROJECT_DIR$/exception/src/main/java/own/hhw/business/ErrorExcption.java" />
+        <option value="$PROJECT_DIR$/exception/src/main/java/own/hhw/business/BusinessReturnCode.java" />
+        <option value="$PROJECT_DIR$/exception/src/main/java/own/hhw/business/BusinessException.java" />
       </list>
     </option>
   </component>
@@ -204,7 +252,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -246,24 +294,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exception" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exception" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -327,9 +357,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exception" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exception" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhw" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="business" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,8 +405,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="9273579a-d188-4380-9983-321b1b991889">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/exception" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="a25a1399-1df4-4e14-b0a5-774e984d61e6">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/exception" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -371,6 +449,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -399,19 +490,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -467,32 +545,32 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2495935" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2495935" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -570,6 +648,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/exception/src/main/java/own/hhw/exception/MyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="5" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exception/src/main/java/own/hhw/module1/Service.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="10" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
@@ -577,9 +662,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/exception/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="21" selection-start="586" selection-end="586" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/src/main/java/own/hhw/module1/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="10" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/src/main/java/own/hhw/exception/MyRuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="33" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exception/src/main/java/own/hhw/exception/MyException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="5" selection-start="111" selection-end="111" vertical-scroll-proportion="0.21793275">
+        <state line="7" column="5" selection-start="111" selection-end="111" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/src/main/java/own/hhw/business/BusinessException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="5" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/src/main/java/own/hhw/business/BusinessReturnCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="12" selection-start="95" selection-end="95" vertical-scroll-proportion="0.22522523">
           <folding />
         </state>
       </provider>

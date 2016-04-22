@@ -11,7 +11,7 @@ import java.util.*;
  * To change this template use File | Settings | File Templates.
  */
 public class DataTransition {
-    public static void main(java.lang.String[] args) {
+    public static void main(String[] args) {
 
         List list = new ArrayList();
 

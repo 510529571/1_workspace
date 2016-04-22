@@ -15,7 +15,7 @@ import java.lang.String;
 public class Test_Stream {
     @Test
     public void test1() throws Exception {
-        java.lang.String s1="你们好吗";
+        String s1="你们好吗";
         byte[] bytes=s1.getBytes("utf-8");
         System.out.println("字节长度："+bytes.length);
 
